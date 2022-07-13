@@ -1,0 +1,59 @@
+﻿<Module Naam="SKIN REJUVENATION">
+  <Article Naam="Skin-ageing pathology">
+    <Question Question="1: UV irradiation impairs ongoing collagen synthesis leading to acute loss of collagen in the skin." QuestionId="1368" />
+    <Question Question="2: When smoking and excessive sun exposure is combined, the effects of smoking on wrinkling are multiplicative." QuestionId="1376" />
+    <Question Question="3: Botulinum toxin is injected sideways next to the muscles causing the wrinkles." QuestionId="1377" />
+    <Question Question="4: Injection of botulinum toxin into the upper face is associated with greater side effects." QuestionId="1378" />
+    <Question Question="5: Botulinum toxin is not contra-indicated in the presence of infection at the proposed injection site." QuestionId="1379" />
+    <Question Question="6: Prior injection with botulinum toxin over an area with excessive movement does not have an effect on the results and migration of the dermal filler." QuestionId="1380" />
+    <Question Question="7: Chemical peels may result in superficial, moderate-depth or deep skin injury." QuestionId="1381" />
+  </Article>
+  <Article Naam="Topical medical therapies in skin rejuvenation">
+    <Question Question="1: Ageing causes changes in the facial compartments, including …………. . " QuestionId="1369" />
+    <Question Question="2: Continued sun exposure during and after treatment with topical anti-ageing agents may result in greater sun damage and dyschromia. " QuestionId="1370" />
+    <Question Question="3: Retinoids improve ………… ." QuestionId="1371" />
+    <Question Question="4: Side effects of retinoids are ……………… ." QuestionId="1372" />
+    <Question Question="5: Vitamin C and E are good anti-oxidants and ………………. ." QuestionId="1373" />
+    <Question Question="6: Peptides and proteins ………………….. ." QuestionId="1374" />
+    <Question Question="7: Cellular growth factors:" QuestionId="1375" />
+  </Article>
+  <Article Naam="Resurfacing: chemical peelings">
+    <Question Question="1: Chemical peeling improves" QuestionId="1382" />
+    <Question Question="2: The ideal patient for peeling is fair with thin and pale skin." QuestionId="1383" />
+    <Question Question="3: Glycolic acid, salicylic acid and Jessner's peels result in deep skin injury but are well tolerated." QuestionId="1384" />
+    <Question Question="4: Medium and deep peels are absolutely contra-indicated for HIV-positive patients." QuestionId="1385" />
+    <Question Question="5: Phenol is not recommended for dark-skinned individuals. " QuestionId="1386" />
+    <Question Question="6: With a phenol peel, the new skin frequently pigments." QuestionId="1387" />
+    <Question Question="7: Trichloroacetic acid treatment takes ……. ." QuestionId="1388" />
+  </Article>
+  <Article Naam="Platelet-rich plasma applications in skin rejuvenation">
+    <Question Question="1: Autologous PRP in skin rejuvenation ……………… ." QuestionId="1389" />
+    <Question Question="2: Growth factors located in the platelet are located in the Alpha granules. " QuestionId="1390" />
+    <Question Question="3: Platelets are traditionally activated by binding to collagen or vWF on exposed tissue. " QuestionId="1391" />
+    <Question Question="4: Injection techniques that are used to apply PRP to the desired site are ………… ." QuestionId="1392" />
+    <Question Question="5: Autologous PRP is considered more beneficial than a single growth factor since PRP is cheaper and growth factors act in synergy." QuestionId="1393" />
+  </Article>
+  <Article Naam="Update on skin needling once a week">
+    <Question Question="1: With skin needling, continued use of vitamin A minimises the probability of pigmentary problems. " QuestionId="1394" />
+    <Question Question="2: Because of scar formation, histological studies find signs of damage to the skin up to 60 hours after needling." QuestionId="1395" />
+    <Question Question="3: Intensive needling can be done using topical anaesthesia and post-procedure analgesics." QuestionId="1396" />
+    <Question Question="4: A simple bar of soap usually destabilises the lipid bi-layers of the stratum corneum before topical anaesthesia." QuestionId="1397" />
+    <Question Question="5: With a re-usable Roll-CIT costs can be kept down since it can be used on several clients." QuestionId="1398" />
+  </Article>
+  <Article Naam="The role of cosmeceuticals in anti-ageing therapy">
+    <Question Question="1: Anti-oxidants:" QuestionId="1399" />
+    <Question Question="2: There are no clinical data to support the use of topical vitamin C to improve fine lines and reduce inflammation." QuestionId="1400" />
+    <Question Question="3: Salicylic acids are safe to use when formulated to avoid skin irritation and to be non-photosensitising, or when directions for use include the daily application of sun protection." QuestionId="1401" />
+    <Question Question="4: Some studies have reported that retinaldehyde can produce significant clinical improvement in the appearance of fine and deep wrinkles." QuestionId="1402" />
+    <Question Question="5: To be effective, sunscreens should provide broad-spectrum coverage that includes both UVA and UVB blocking agents." QuestionId="1403" />
+    <Question Question="6: The recommended application of sunscreen is …….. ." QuestionId="1404" />
+  </Article>
+  <Article Naam="Skin mesotherapy: the mesolift">
+    <Question Question="1: The flexibility of the skin is closely related to the viscoelastic properties of hyaluronic acid." QuestionId="1405" />
+    <Question Question="2: The number and frequency of sessions depend on the severity of skin ageing and the possibility of skin regeneration." QuestionId="1406" />
+    <Question Question="3: The combination of mesotherapy with other treatments is used to obtain better results than with individual treatments alone." QuestionId="1407" />
+    <Question Question="4: There is a close interaction between silicon and ageing. ……… of silicon in skin tissue decreases in the period between sexual maturity and the end of life." QuestionId="1408" />
+    <Question Question="5: Non-cross-linked hyaluronic acid is used for its dermal filling properties." QuestionId="1409" />
+    <Question Question="6: The first syringe is injected in the surface to treat the whole skin and the contents of the second syringe are always injected between 2 and 3 mm depth." QuestionId="1410" />
+  </Article>
+</Module>

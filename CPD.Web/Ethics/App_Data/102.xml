@@ -1,0 +1,17 @@
+﻿<Module Naam="Fungal and skin infections">
+  <Article Naam="Fungal infections: diagnosis and treatment">
+    <Question Question="1: Considering onychomycosis (fungal nail disease):" QuestionId="2386" />
+    <Question Question="2: Considering tinea capitis (dermatophyte infection of the scalp):" QuestionId="2387" />
+    <Question Question="3: Which of the following is true for oropharyngeal candidiasis (OPC)?" QuestionId="2388" />
+    <Question Question="4: Which of the following is true for oesophageal candidiasis (OC)?" QuestionId="2389" />
+    <Question Question="5: Which of the following is true for vulvovaginal candidiasis (VVC)?" QuestionId="2390" />
+    <Question Question="6: Which of the following is true for allergic bronchopulmonary aspergillosis (ABPA)?" QuestionId="2391" />
+  </Article>
+  <Article Naam="Skin infections and infestations">
+    <Question Question="1: Impetigo:" QuestionId="2392" />
+    <Question Question="2: Methicillin-resistant &lt;i&gt;Staphylococcus aureus&lt;/i&gt;:" QuestionId="2393" />
+    <Question Question="3: Scabies:" QuestionId="2394" />
+    <Question Question="4: Head lice:" QuestionId="2395" />
+    <Question Question="5: Molluscum contagiosum:" QuestionId="2396" />
+  </Article>
+</Module>

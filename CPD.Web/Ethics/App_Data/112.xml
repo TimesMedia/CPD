@@ -1,0 +1,112 @@
+﻿<Module Naam="CLINICAL DERMATOLOGY">
+  <Article Naam="Acne Vulgaris">
+    <Question Question="1: The presence of comedones in the right setting is virtually diagnostic of acne vulgaris." QuestionId="2728" />
+    <Question Question="2: The presence of pustules is indicative of grade 3 or higher acne vulgaris" QuestionId="2729" />
+    <Question Question="3: The following statements regarding the use of antibiotics for acne vulgaris are true:" QuestionId="2730" />
+    <Question Question="4: The following statements regarding topical retinoids are true:" QuestionId="2731" />
+    <Question Question="5: Ordinary combination oral contraceptives are seldom effective for mild acne and should be supplemented by anti-androgens." QuestionId="2732" />
+    <Question Question="6: Possible side effects of systemic isotretinoin include:" QuestionId="2733" />
+    <Question Question="7: Systemic retinoids are the first-line treatment for acne in men." QuestionId="2734" />
+  </Article>
+  <Article Naam="Atopic Dermatitis">
+    <Question Question="1: The onset of atopic dermatitis generally occurs before two years of age." QuestionId="2735" />
+    <Question Question="2: Atopic dermatitis tends to involve inter alia:" QuestionId="2736" />
+    <Question Question="3: Regular emollient use on affected skin in infants can reduce the need for topical corticosteroids and lead to improved symptoms." QuestionId="2737" />
+    <Question Question="4: During acute flare-ups, low potency topical cortisone should be applied to the whole body." QuestionId="2738" />
+    <Question Question="5: During acute flare-ups topical cortisones should be applied three times a day." QuestionId="2739" />
+    <Question Question="6: If a patient can afford it, topical calcineurin inhibitors are a good first-line treatment option." QuestionId="2740" />
+    <Question Question="7: There are no proven benefits for antibiotic treatment in reducing atopic dermatitis flare-ups." QuestionId="2741" />
+    <Question Question="8: Oral antihistamines are not effective in treating the severe itchiness associated with atopic pruritis." QuestionId="2742" />
+  </Article>
+  <Article Naam="Common Skin Conditions in Childhood">
+    <Question Question="1: Milia are related to an inflammatory reaction to bacteria on the skin that penetrate into the hair follicle." QuestionId="2743" />
+    <Question Question="2: Any suspicion of erythema toxicum neonatorum should be referred to a specialist." QuestionId="2744" />
+    <Question Question="3: Molluscum contagiosum …. ." QuestionId="2745" />
+    <Question Question="4: Salicylic acid applied to warts is an effective first-line treatment in children." QuestionId="2746" />
+    <Question Question="5: Erythema multiforme can involve the palms." QuestionId="2747" />
+    <Question Question="6: Koplik spots can be seen two days prior to the rash and consist of red spots with a white centre on the buccal mucous membranes" QuestionId="2748" />
+    <Question Question="7: Bullous impetigo …" QuestionId="2749" />
+    <Question Question="8: Scabies …" QuestionId="2750" />
+    <Question Question="9: Acne may be induced by:" QuestionId="2751" />
+  </Article>
+  <Article Naam="Contact Dermatitis">
+    <Question Question="1: Nickel can be a component of stainless steel." QuestionId="2752" />
+    <Question Question="2: Usual clinical features of allergic contact dermatitis include:" QuestionId="2753" />
+    <Question Question="3: Dermatitis of the foot is more common on the dorsal surfaces rather than on the soles" QuestionId="2754" />
+    <Question Question="4: Systemic steroid therapy is required if more than………….% of the body is affected" QuestionId="2755" />
+    <Question Question="5: Radio-allergosorbent tests are used for the diagnosis of contact dermatitis." QuestionId="2756" />
+    <Question Question="6: Steroid creams are generally preferred to steroid ointment because some patients may be allergic to preservatives used in the base." QuestionId="2757" />
+    <Question Question="7: Antihistamines are generally not effective for pruritus associated with allergic contact dermatitis." QuestionId="2758" />
+  </Article>
+  <Article Naam="Diabetes Mellitus-Related Skin Problems">
+    <Question Question="1: ….. percent of patients with diabetes mellitus will experience a skin problem at some stage throughout the course of their disease." QuestionId="2759" />
+    <Question Question="2: Signs of diabetic dermopathy include:" QuestionId="2760" />
+    <Question Question="3: Diabetic cheiro-arthropathy may result in Dupuytren's contracture." QuestionId="2761" />
+    <Question Question="4: In patients with a diabetic foot ulcer, the risk of lower-extremity amputation is increased eight-fold once an ulcer develops" QuestionId="2762" />
+    <Question Question="5: Diabetic foot ulcers are often painless" QuestionId="2763" />
+    <Question Question="6: Typically in necrobiosis lipoidica, one or more tender black patches develop slowly on the lower legs over several months." QuestionId="2764" />
+    <Question Question="7: Necrobiosis lipoidica" QuestionId="2765" />
+    <Question Question="8: The palms and soles are often affected in Kyrle disease." QuestionId="2766" />
+  </Article>
+  <Article Naam="Focus on Topical Corticosteroids">
+    <Question Question="1: Corticosteroids are immune-modulators and not immune-suppressors." QuestionId="2767" />
+    <Question Question="2: Corticosteroids are secreted by the adrenal cortex and circulate in blood, affecting receptors in all tissues including the brain and pituitary gland." QuestionId="2768" />
+    <Question Question="3: Prednisone is best administered in two divided doses in 24 hours." QuestionId="2769" />
+    <Question Question="4: Betamethasone dipropionate glycol 0.05% is classified as a high-potency corticosteroid." QuestionId="2770" />
+    <Question Question="5: Lotions and gels do not have the same penetrating properties of either ointments or creams and usually are considered less potent." QuestionId="2771" />
+    <Question Question="6: Common side effects of topical corticosteroid treatment include:" QuestionId="2772" />
+    <Question Question="7: Allergic contact eczema following topical application of corticosteroids is the most common form of delayed hypersensitivity." QuestionId="2773" />
+  </Article>
+  <Article Naam="Fungal Infections">
+    <Question Question="1: Which of the following is true for onychomycosis?" QuestionId="2774" />
+    <Question Question="2: Which of the following is true for tinea capitis?" QuestionId="2775" />
+    <Question Question="3: Which of the following is true for oropharyngeal candidiasis (OPC)?" QuestionId="2776" />
+    <Question Question="4: Which of the following is true for vulvovaginal candidiasis (VVC)?" QuestionId="2777" />
+    <Question Question="5: Which of the following is true for HIV-infected patients with very low CD4+ T-lymphocyte (CD4) counts (&lt;200 cells/µl)?" QuestionId="2778" />
+    <Question Question="6: Which of the following is true for allergic bronchopulmonary aspergillosis (ABPA)?" QuestionId="2779" />
+  </Article>
+  <Article Naam="Herpes Zoster and Postherpetic Neuralgia: Prevention and Management">
+    <Question Question="1: Cases of herpes zoster without a rash are difficult to diagnose and require laboratory confirmation." QuestionId="2780" />
+    <Question Question="2: Which of these drugs are approved for the treatment of acute herpes zoster?" QuestionId="2781" />
+    <Question Question="3: Men are at greater risk of post-herpetic neuralgia." QuestionId="2782" />
+    <Question Question="4: Tricyclic antidepressants, such as amitriptyline, desipramine  and nortriptyline, have pain-modulating effects in neuropathic and other chronic pain states." QuestionId="2783" />
+    <Question Question="5: Herpes zoster and post-herpetic neuralgia are not preventable conditions." QuestionId="2784" />
+    <Question Question="6: The Centre for Disease Control and Prevention recommends one dose of the herpes zoster vaccine for persons 60 years and older." QuestionId="2785" />
+  </Article>
+  <Article Naam="Minor Skin Lesions: Recognition and Nonsurgical Removal">
+    <Question Question="1: The following minor skin lesions are primary benign tumours which can be treated by trained, skilled skin care professionals." QuestionId="2786" />
+    <Question Question="2: Sometimes dermatofibromas arise from minor injury-like insect bites and they are often malignant" QuestionId="2787" />
+    <Question Question="3: According to the Fitzpatrick classification scale Type IV refers to olive, moderate brown skin and  . . ." QuestionId="2788" />
+    <Question Question="4: The following are the ABCDE rules, which can be used to assist in the diagnosis of melanomas:" QuestionId="2789" />
+    <Question Question="5: Radiofrequency-electrotherapy can be used for all of the following:" QuestionId="2790" />
+  </Article>
+  <Article Naam="Nonmelanoma Skin Cancers">
+    <Question Question="1: Basal cell carcinoma occurs in six different forms." QuestionId="2791" />
+    <Question Question="2: Nodular BCC and sclerosing BCC usually occur on the . . .  ." QuestionId="2792" />
+    <Question Question="3: Squamous cell carcinomas . . ." QuestionId="2793" />
+    <Question Question="4: The primary treatment of choice for both basal cell carcinoma and squamous cell carcinoma when detected early is . . .  ." QuestionId="2794" />
+    <Question Question="5: Topical therapy is the treatment of choice for actinic hyperkeratosis." QuestionId="2795" />
+    <Question Question="6: The cure rate with surgical intervention for SCC and BCC is . . . ." QuestionId="2796" />
+  </Article>
+  <Article Naam="Psoriasis">
+    <Question Question="1: Psoriasis can develop at any age, but onset is most likely between …. ." QuestionId="2797" />
+    <Question Question="2: What are the risk and trigger factors for psoriasis?" QuestionId="2798" />
+    <Question Question="3: Biopsy is needed to confirm the diagnosis of psoriasis" QuestionId="2799" />
+    <Question Question="4: The non-dermatological manifestations of psoriasis include:" QuestionId="2800" />
+    <Question Question="5: Can severe pustular psoriasis cause life-threatening complications?" QuestionId="2801" />
+    <Question Question="6: Tazarotene is ………… topical corticosteroids in alleviating symptoms of psoriasis." QuestionId="2802" />
+    <Question Question="7: Cyclosporine may be used continuously for one year to treat psoriasis." QuestionId="2803" />
+  </Article>
+  <Article Naam="Skin Infections and Infestations">
+    <Question Question="1: Impetigo is a common superficial skin infection caused by … ." QuestionId="2804" />
+    <Question Question="2: Which of the following statements are true?" QuestionId="2805" />
+    <Question Question="3: Treat mild cases with antibacterial creams such as mupirocin or fusidic acid for …. ." QuestionId="2806" />
+    <Question Question="4: Impetigo crusts should be removed before starting with treatment since they can block penetration of the creams." QuestionId="2807" />
+    <Question Question="5: What is the most common infective causing folliculitis?" QuestionId="2808" />
+    <Question Question="6: Folliculitis can manifest from infective and non-infective causes?" QuestionId="2809" />
+    <Question Question="7: Approximately 80% of individuals carry Staphylococcus aureus in their nostrils and a smaller number in their perineum and axillae" QuestionId="2810" />
+    <Question Question="8: Should MRSA patients be isolated when hospitalised?" QuestionId="2811" />
+    <Question Question="9: Molluscum contagiosum can occur as a sexually transmitted disease in adults." QuestionId="2812" />
+    <Question Question="10: Pityriasis versicolor is a common superficial" QuestionId="2813" />
+  </Article>
+</Module>

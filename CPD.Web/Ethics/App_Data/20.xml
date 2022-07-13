@@ -1,0 +1,38 @@
+﻿<Module Naam="PAIN TREATMENT">
+  <Article Naam="Post-operative pain management">
+    <Question Question="1: Non-selective NSAIDs substantially reduce the efficacy of aspirin when co-administered.  " QuestionId="59" />
+    <Question Question="2: ....................  NSAIDs have the potential to worsen renal function, particularly in patients with pre-existing renal dysfunction and those who are hypovolaemic. " QuestionId="58" />
+    <Question Question="3: Plasma levels of IV paracetamol are ..............  than equivalent oral/rectal doses, which appear to be associated with improved efficacy in clinical use." QuestionId="57" />
+    <Question Question="4: Sub-anaesthetic doses of ketamine &lt;0.5 mg/kg have minimal effects on blood pressure. " QuestionId="60" />
+    <Question Question="5: Amitritaline is an example of an effective sedative that has useful analgesic properties for post-operative patients." QuestionId="61" />
+    <Question Question="6: Tramadol has additional activity via serotonin and noradrenalin reuptake inhibition. " QuestionId="62" />
+  </Article>
+  <Article Naam="Pain management in palliative care">
+    <Question Question="1: Due to the risk of addiction, strong opioids should be reserved for patients at the very end of life." QuestionId="65" />
+    <Question Question="2: Hyoscine butyl bromide ...............  the salivary flow in a patient who cannot swallow." QuestionId="64" />
+    <Question Question="3: Many of the drugs used in the treatment of HIV/AIDS are neurotoxic and cause painful peripheral neuropathy. " QuestionId="63" />
+    <Question Question="4: Strong opioids cause transient sedation and cognitive impairment which usually lasts ............" QuestionId="66" />
+  </Article>
+  <Article Naam="Pain management in children">
+    <Question Question="1: The usual dose of codeine used is 0,5 mg/kg to 1 mg/kg. " QuestionId="105" />
+    <Question Question="2: Attributes of ibuprofen  include that it ....." QuestionId="103" />
+    <Question Question="3: Attributes of paracetamol include that it..." QuestionId="102" />
+    <Question Question="4: Intramuscular codeine tends to produce  ......... vomiting than other opioids" QuestionId="106" />
+    <Question Question="5: Common adverse effects of opioids include:" QuestionId="104" />
+  </Article>
+  <Article Naam="Acupuncture for pain and pain syndromes">
+    <Question Question="1: In Chinese Medicine’s interpretation of pain, pain is the result of a blockage in the flow of:" QuestionId="107" />
+    <Question Question="2: Traditional Chinese anatomy divides the organs into five zang and six fu or ............... organs." QuestionId="108" />
+    <Question Question="3: In Chinese Medicine the ............. and ........... are used to make a diagnosis" QuestionId="109" />
+    <Question Question="4: In Chinese Medicine, prickling pain is a sign of the abrupt obstruction of Qi." QuestionId="110" />
+    <Question Question="5: Acupuncture is contra-indicated if the patient suffers from a haemorrhagic condition." QuestionId="111" />
+  </Article>
+  <Article Naam="Physiotherapy for pain and pain syndromes">
+    <Question Question="1: Chronic bad posture and thoracic muscle imbalances can lead to symptoms such as nausea and temperature changes." QuestionId="115" />
+    <Question Question="2: The inhibition of the stabilisers and preferential recruitment of the mobilisers is central to the development of imbalance. " QuestionId="113" />
+    <Question Question="3: Trigger points of muscle and fascia pain are:" QuestionId="112" />
+    <Question Question="4: The most important link in the kinetic chain is the......" QuestionId="116" />
+    <Question Question="5: The muscles with a local stability role include:" QuestionId="114" />
+    <Question Question="6: Mobilisers cross only one joint and are made up of fast twitch fibres that produce power. " QuestionId="117" />
+  </Article>
+</Module>

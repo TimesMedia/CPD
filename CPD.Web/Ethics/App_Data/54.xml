@@ -1,0 +1,40 @@
+﻿<Module Naam="DIABETES MELLITUS">
+  <Article Naam="Type 2 Diabetes Mellitus: GLP-1 Receptor Agonists">
+    <Question Question="1: Oral glucose has a greater effect on insulin secretion than intravenous glucose, because of the incretin effect." QuestionId="670" />
+    <Question Question="2: Treatment with liraglutide increases body weight." QuestionId="671" />
+    <Question Question="3: Exenatide improves both systolic and diastolic blood pressure." QuestionId="672" />
+    <Question Question="4: Used in combination with oral agents, the GLP-1 receptor agonists may offer glycaemic control similar to that of insulin treatment." QuestionId="673" />
+  </Article>
+  <Article Naam="Type 2 Diabetes Mellitus: Dipeptidyl Peptidase-4 Inhibitors">
+    <Question Question="1: Sitagliptin, as monotherapy, reduces HbA1c values and fasting plasma glucose concentrations." QuestionId="674" />
+    <Question Question="2: The use of vildagliptin is not recommended in patients with moderate or severe renal impairment." QuestionId="675" />
+    <Question Question="3: Vildagliptin as monotherapy, is as effective as rosiglitazone and more effective than metformin." QuestionId="676" />
+    <Question Question="4: Severe hypoglycaemia was not reported in anyone taking a DPP-4 inhibitor as monotherapy." QuestionId="677" />
+    <Question Question="5: DPP-4 therapy is generally well-tolerated." QuestionId="678" />
+    <Question Question="6: DPP-4 inhibitors offer sustainable reduction in HbA1c, by about 0.5 to 0.8%." QuestionId="679" />
+  </Article>
+  <Article Naam="Insulin Analogues">
+    <Question Question="1: During puberty the insulin requirements may double." QuestionId="680" />
+    <Question Question="2: In continuous subcutaneous insulin infusion pumps, rapid-acting analogue insulins are less effective regular human insulin. " QuestionId="681" />
+    <Question Question="3: In insulin glargine onset of action is ................. ." QuestionId="682" />
+    <Question Question="4: The insulin replacement dose for a newly diagnosed patient is about ................. ." QuestionId="683" />
+    <Question Question="5: Rapid-acting analogues decrease postprandial hyperglycaemia better than regular insulin and improve glycated haemoglobin levels." QuestionId="684" />
+  </Article>
+  <Article Naam="Drugs for Diabetes: Prescribing for Patients with Cardiac Disease">
+    <Question Question="1: People with diabetes have a higher incidence of chronic heart failure and are more likely to develop heart failure at a younger age." QuestionId="685" />
+    <Question Question="2: Sulphonylureas are associated with ................ ." QuestionId="686" />
+    <Question Question="3: After an acute MI the blood glucose target for the 48-hour period following the event  is ...................... ." QuestionId="687" />
+    <Question Question="4: The main class of diabetic drug to be avoided in patients with cardiac failure is:" QuestionId="688" />
+    <Question Question="5: The newer insulin analogues have prognostic benefit in type 2 diabetes." QuestionId="689" />
+    <Question Question="6: The approach to diabetes management in patients with stable, established coronary heart disease is ..................  patients with no cardiac history." QuestionId="690" />
+  </Article>
+  <Article Naam="Difficult-to-Control Diabetes">
+    <Question Question="1: Treatment of depression in diabetic patients improves patient motivation and self-care behaviour." QuestionId="691" />
+    <Question Question="2: Poor oral hygiene with related periodontitis does not influence glycaemic control in diabetic patients. " QuestionId="692" />
+    <Question Question="3: Diabetic patients who fear hypoglycaemia may be reluctant to control their glucose properly. " QuestionId="693" />
+    <Question Question="4: In poorly motivated diabetic patients the physician needs to adopt a more directive approach. " QuestionId="694" />
+    <Question Question="5: Food security does not play a role in glycaemic control of diabetic patients. " QuestionId="695" />
+    <Question Question="6: Insulin analogues have significantly improved the proportion of diabetic patients with controlled blood glucose. " QuestionId="696" />
+    <Question Question="7: In the diabetic patient, large amounts of caffeine may impair glycaemic control." QuestionId="697" />
+  </Article>
+</Module>

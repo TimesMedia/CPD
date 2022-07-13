@@ -1,0 +1,28 @@
+﻿<Module Naam="OTHER COSMETIC PATHOLOGIES">
+  <Article Naam="Treatment options for acne rosacea">
+    <Question Question="1: The initial therapeutic approach for rosacea is avoidance of known triggers or exacerbating factors." QuestionId="1423" />
+    <Question Question="2: Spicy foods can trigger rosacea in some patients." QuestionId="1424" />
+    <Question Question="3: In rosacea, systemic therapy should be continued for at least six months." QuestionId="1425" />
+    <Question Question="4: Topical metronidazole is generally well tolerated with few local skin adverse reactions." QuestionId="1426" />
+    <Question Question="5: Sub-antimicrobial dose antibiotics may act as anti-inflammatory agents but usually create bacterial resistance." QuestionId="1427" />
+    <Question Question="6: Fewer than 10% of persons with rosacea have ocular involvement." QuestionId="1428" />
+    <Question Question="7: Isotretinoin has been reported to be effective for treating rosacea." QuestionId="1429" />
+  </Article>
+  <Article Naam="Acne -  any alternatives to isotretinoin and antibiotics?">
+    <Question Question="1: Daily cleansing with a cleanser that helps to dry the skin out is essential to acne management." QuestionId="1430" />
+    <Question Question="2: Tea tree oil has been shown to be …….. effective as benzoyl peroxide in treating moderate acne." QuestionId="1431" />
+    <Question Question="3: A low-glycaemic-load diet might improve acne, and could improve metabolic function in patients with acne." QuestionId="1432" />
+    <Question Question="4: High intake of chocolate is a proven cause of acne." QuestionId="1433" />
+    <Question Question="5: The Leeds grading system grades the severity of acne on a scale of 1-4." QuestionId="1434" />
+    <Question Question="6: The use of oral isotretinoin for up to six months has been linked with an increased risk for attempted suicide in adolescents with severe modular cystic acne." QuestionId="1435" />
+  </Article>
+  <Article Naam="Varicose veins">
+    <Question Question="1: Most varicose veins are primary or idiopathic." QuestionId="1436" />
+    <Question Question="2: Obesity is associated with the development of varicose veins in men but not in women." QuestionId="1437" />
+    <Question Question="3: Patients whose main symptoms are aching or oedema will benefit from compression hosiery." QuestionId="1438" />
+    <Question Question="4: In the treatment of varicose veins, sclerotherapy is associated with a ……. rate of recurrence than with surgery." QuestionId="1439" />
+    <Question Question="5: After Saphenous vein stripping, 20­30% of patients develop recurrent varicose veins within 10 years." QuestionId="1440" />
+    <Question Question="6: Women taking the combined contraceptive pill or hormone replacement therapy are at increased risk of deep vein thrombosis after varicose vein surgery." QuestionId="1441" />
+    <Question Question="7: Antibiotics are not indicated in patients with spontaneous superficial thrombophlebitis." QuestionId="1442" />
+  </Article>
+</Module>

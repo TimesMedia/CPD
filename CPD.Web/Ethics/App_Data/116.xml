@@ -1,0 +1,9 @@
+﻿<Module Naam="Ethical Rules Applicable to Practitioners Register">
+  <Article Naam="Ethical Rules Applicable to Practitioners Registered with The Health Professions">
+    <Question Question="1: In which business model may a practitioner not practice?" QuestionId="2936" />
+    <Question Question="2: According to Rule 27A, some of the main responsibilities of a health practitioner are as follows:" QuestionId="2937" />
+    <Question Question="3: Is it a practitioner’s duty, according to the ethical rules, to report any illegal or unprofessional conduct of colleagues to the HPCSA?" QuestionId="2938" />
+    <Question Question="4: A medical practitioner is allowed to employ and share rooms with any health-care practitioner registered at another professional council, e.g. Nursing Council and Pharmacy Council." QuestionId="2939" />
+    <Question Question="5: Practitioners are allowed to share fees with other persons and receive commissions in the following instances:" QuestionId="2940" />
+  </Article>
+</Module>

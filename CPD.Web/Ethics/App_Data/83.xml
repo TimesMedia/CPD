@@ -1,0 +1,31 @@
+<Module Naam="Oesophagus">
+  <Article Naam="Gastro-oesophageal reflux disease and Barrett&#x27;s oesophagus: medical and surgical management">
+    <Question Question="1: GORD is defined as a condition:" QuestionId="1988" />
+    <Question Question="2: Barrett&#x27;s oesophagus......................................................................................." QuestionId="1989" />
+    <Question Question="3: Risk factors for Barrett&#x27;s oesophagus are:" QuestionId="1990" />
+    <Question Question="4: Indications for endoscopy for reflux are: " QuestionId="1991" />
+    <Question Question="5: Endoscopy has a high sensitivity but a low specificity in diagnosing GORD." QuestionId="1992" />
+    <Question Question="6: Barium swallows have a low sensitivity but high specificity in erosive disease." QuestionId="1993" />
+    <Question Question="7: Medical management of GORD:" QuestionId="1994" />
+    <Question Question="8: Only patients with high-grade dysplasia (HGD) in Barrett&#x27;s oesophagus are at increased risk of developing adenocarcinoma." QuestionId="1995" />
+    <Question Question="9: Surgery has good protective effects against progression to high-grade dysplasia or adenocarcinoma in Barrett&#x27;s oesophagus." QuestionId="1996" />
+  </Article>
+  <Article Naam="Oesophageal motility, pH and impedance">
+    <Question Question="1: Symptom-based diagnosis is the most reliable diagnostic tool for patients with swallowing problems, heartburn and other dyspeptic complaints." QuestionId="1997" />
+    <Question Question="2: pH-Z studies should only be performed while the patient is not using a proton pump inhibitor." QuestionId="1998" />
+    <Question Question="3: With pH testing.........................................................................................................." QuestionId="1999" />
+    <Question Question="4: Achalasia...................................................................................................................." QuestionId="2000" />
+    <Question Question="5: Impedance testing is a method of measuring..........................................................." QuestionId="2001" />
+    <Question Question="6: Ineffectual oesophageal motility (IEM) may result from.........................................." QuestionId="2002" />
+  </Article>
+  <Article Naam="Eosinophilic oesophagitis">
+    <Question Question="1: Topical corticosteroids have been shown to be effective in treating children and adults with EoE." QuestionId="2003" />
+    <Question Question="2: The six food elimination diet (SFED) eliminates six of the most common food allergens, which are..............................................................................................." QuestionId="2004" />
+    <Question Question="3: Elemental formula diets have been shown to be extremely effective for treatment of EoE in children. " QuestionId="2005" />
+    <Question Question="4: Any tissue eosinophilia in the oesphagus is indicative of EoE." QuestionId="2006" />
+    <Question Question="5: Systemic corticosteroids are considered.........line pharmacological therapy for EoE." QuestionId="2007" />
+    <Question Question="6: Most patients with EoE respond to PPIs." QuestionId="2008" />
+    <Question Question="7: Long-term maintenance with a low dose of topical corticosteroids has been shown to reduce relapse of EoE." QuestionId="2009" />
+    <Question Question="8: The clinical syndrome of oesophageal dysfunction is characterised mainly by dysphagia and food impaction." QuestionId="2010" />
+  </Article>
+</Module>

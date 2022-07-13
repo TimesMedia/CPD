@@ -1,0 +1,9 @@
+﻿<Module Naam="Antibiotics">
+  <Article Naam="Understanding antibiotics">
+    <Question Question="1: Concerning blood cultures:" QuestionId="2461" />
+    <Question Question="2: Amongst Gram-negative bacteria, …………… has the highest prevalence of resistance to third-generation cephalosporins." QuestionId="2462" />
+    <Question Question="3: Antimicrobial resistance is frequently irreversible." QuestionId="2463" />
+    <Question Question="4: CSF specimens …" QuestionId="2464" />
+    <Question Question="5: Carbapenemase-producing Enterobacteriaceaes should empirically be treated with colistin, tigecycline, and gentamicin, untill the laboratory results are available." QuestionId="2465" />
+  </Article>
+</Module>

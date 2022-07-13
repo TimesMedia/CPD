@@ -1,0 +1,18 @@
+﻿<Module Naam="COAGULATION DISORDERS">
+  <Article Naam="Deep Vein Thrombosis">
+    <Question Question="1: D-dimer levels are elevated in:" QuestionId="623" />
+    <Question Question="2: The risk of venous thrombo-embolism and post-thrombotic syndrome are reduced by ............. with the use of graduated compression stockings following proximal DVT." QuestionId="624" />
+    <Question Question="3: Aspirin is generally recommended as monotherapy for thromboprophylaxis in the elderly patient." QuestionId="625" />
+    <Question Question="4: Warfarin therapy should be commenced on day ......., and heparin discontinued after ....... .days when the INR is greater than ........  for  .......  consecutive days." QuestionId="626" />
+    <Question Question="5: The standard intensity of oral anticoagulation therapy is an international normalised ratio (INR) of ............ ." QuestionId="627" />
+    <Question Question="6: LMW heparin is the anticoagulant of choice for DVT in pregnancy." QuestionId="628" />
+  </Article>
+  <Article Naam="Pulmonary Embolism">
+    <Question Question="1: The electrocardiographic (ECG) features of pulmonary embolism commonly include:" QuestionId="629" />
+    <Question Question="2: In haemodynamically stable patients with low or intermediate clinical probability, a negative D-dimer test effectively rules out pulmonary embolism." QuestionId="630" />
+    <Question Question="3: Magnetic resonance angiography (MRA) has a high sensitivity for detecting emboli." QuestionId="631" />
+    <Question Question="4: Achieving a therapeutic aPTT within 24 hours of initiating treatment appears to reduce the risk of recurrence of pulmonary embolism." QuestionId="632" />
+    <Question Question="5: Warfarin should be initiated on the first day of anticoagulation therapy, and overlapped with heparin for at least ........ days" QuestionId="633" />
+    <Question Question="6: Haemodynamically unstable patients are candidates for aggressive treatment in the form of pharmacological/mechanical thrombolysis, or surgical embolectomy." QuestionId="634" />
+  </Article>
+</Module>

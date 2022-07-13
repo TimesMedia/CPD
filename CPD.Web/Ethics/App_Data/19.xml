@@ -1,0 +1,68 @@
+﻿<Module Naam="SPECIFIC PAIN SYNDROMES">
+  <Article Naam="Migraine and Facial Pain Syndromes">
+    <Question Question="1: Migraines occur most often between 17:00  and 20:00." QuestionId="31" />
+    <Question Question="2: Typical features of the premonitory phase include..............." QuestionId="30" />
+    <Question Question="3: Triptans should be avoided in patients with:      " QuestionId="35" />
+    <Question Question="4: A patient presents with early vomiting. The most appropriate triptan would be:" QuestionId="33" />
+    <Question Question="5: A patient responds to treatment, but has recurring migraine the following day. The most appropriate triptan would be:" QuestionId="34" />
+    <Question Question="6: Retinal migraine is characterised by monocular visual disturbances followed by unilateral migraine headache on the same side. " QuestionId="32" />
+    <Question Question="7: The following natural drugs have been shown to have benefit in the prophylactic management of migraine: " QuestionId="36" />
+    <Question Question="8: Carbamazepine is the first drug of choice for the treatment of trigeminal neuralgia." QuestionId="37" />
+  </Article>
+  <Article Naam="Fibromyalgia">
+    <Question Question="1: Fibromyalgia may present concurrently with auto-immune disorders which may result in patients  being treated unnecessarily aggressively." QuestionId="45" />
+    <Question Question="2: Disorder/s that commonly overlap with fibromyalgia include:  " QuestionId="46" />
+    <Question Question="3: The two main components of fibromyalgia are:" QuestionId="44" />
+    <Question Question="4: Fibromyalgia has ......... familial component. " QuestionId="47" />
+    <Question Question="5: Exercise produces significant improvement in fibromyalgia patients." QuestionId="48" />
+    <Question Question="6: Low dosages of corticosteroids are recommended for the treatment of fibromyalgia." QuestionId="49" />
+    <Question Question="7: Tolerability to the side effects of tricyclics can be improved by taking a low dosage just after waking in the morning." QuestionId="50" />
+  </Article>
+  <Article Naam="Chronic Lower Back Pain">
+    <Question Question="1: Chronic LBP has a high recurrence rate, and is not associated with progressive tissue damage." QuestionId="87" />
+    <Question Question="2:  An exercise programme for someone with chronic back pain should include: " QuestionId="85" />
+    <Question Question="3: Every patient presenting with LBP should at least be X-rayed." QuestionId="88" />
+    <Question Question="4: Selective COX2 inhibitors have............. effect on back pain reduction than NSAIDs." QuestionId="86" />
+    <Question Question="5: Proven effective treatment modalities for acute LBP include:   " QuestionId="89" />
+    <Question Question="6: 90% of patients with acute LBP will recover spontaneously within ....... " QuestionId="90" />
+  </Article>
+  <Article Naam="Sexual Pain Disorders">
+    <Question Question="1: Women with vaginismus have a higher abuse rate than the general population." QuestionId="84" />
+    <Question Question="2: The SSRIs can contribute to sexual dysfunction." QuestionId="93" />
+    <Question Question="3: Pudendal neuralgia is assosiated with: " QuestionId="91" />
+    <Question Question="4: The resolution of symptoms  when using trycyclics  for neuropathic sexual pain takes an average of............" QuestionId="92" />
+    <Question Question="5: ...................  may be used on an as required basis thirty minutes to an hour prior to intercourse. " QuestionId="94" />
+  </Article>
+  <Article Naam="Management of Acute Pain in Sports Medicine">
+    <Question Question="1: Paracetamol is safe for use in acute sports injuries at up to 3-4 g/day." QuestionId="96" />
+    <Question Question="2: The suggested initial cryotherapy regime is:" QuestionId="95" />
+    <Question Question="3: Topical analgesics should be reserved for the first few hours after the injury." QuestionId="97" />
+    <Question Question="4: NSAID patches are  effective in prophylactic use to prevent delayed onset muscle soreness in trained athletes." QuestionId="98" />
+    <Question Question="5: There is evidence of efficacy of use of NSAIDs and coxibs in the following injuries:" QuestionId="99" />
+    <Question Question="6: NSAIDs and coxibs should not be used prophylactically to prevent muscle soreness after exercise or to prevent pain during sport." QuestionId="100" />
+    <Question Question="7: Interventions that are not recommended after a sports injury include:" QuestionId="101" />
+  </Article>
+  <Article Naam="Painful Diabetic Neuropathy">
+    <Question Question="1: Painful diabetic neuropathy typically develops in the:" QuestionId="52" />
+    <Question Question="2: Duloxetine side effects include: " QuestionId="54" />
+    <Question Question="3: The highest rates of neuropathy are among people who have had diabetes for at least .......... years. " QuestionId="51" />
+    <Question Question="4: Sweating is often increased in peripheral neuropathy." QuestionId="53" />
+    <Question Question="5: There is an increased risk of seizures in patients with previous epilepsy or who had received drugs that reduce the seizure threshold such as TCAs." QuestionId="56" />
+    <Question Question="6: Pregabalin has ..............absorption across the gastrointestinal tract, is neither metabolised nor protein-bound, and has ........... drug-drug interactions." QuestionId="55" />
+  </Article>
+  <Article Naam="Pain Syndromes in HIV">
+    <Question Question="1: Medications are the most common cause of pancreatitis in HIV." QuestionId="80" />
+    <Question Question="2: If a medication is the cause of a hepatitis, expected time of occurrence is ............ after initiation of the drug." QuestionId="81" />
+    <Question Question="3: On examiniation of patients with peripheral neurology, a 'stocking-glove' distribution of ............  sensation can be found." QuestionId="82" />
+    <Question Question="4: The risk of post-herpetic pain significantly decreases if antiviral treatment of the shingles is initiated within ...........  hours after the first appearance." QuestionId="83" />
+  </Article>
+  <Article Naam="Pain and Insomnia">
+    <Question Question="1: Oversleeping is also associated with a headache. " QuestionId="153" />
+    <Question Question="2: Opioids in general can fragment sleep and also................ REM sleep. " QuestionId="154" />
+    <Question Question="3: The effects of carbamazepine on sleep include ......" QuestionId="155" />
+    <Question Question="4: Most chronic pain conditions respond well to topiramate." QuestionId="158" />
+    <Question Question="5: Parkinson’s disease has been shown to be associated with REM sleep disorders." QuestionId="156" />
+    <Question Question="6: The number of tender points ..............the poorer the sleep in patients with fibromyalgia." QuestionId="157" />
+    <Question Question="7: Short-acting benzodiazepines include .............." QuestionId="159" />
+  </Article>
+</Module>

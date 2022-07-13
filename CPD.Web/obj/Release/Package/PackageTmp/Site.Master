@@ -1,0 +1,63 @@
+﻿<style type="text/css">
+    .title {
+        width: 995px;
+    }
+
+    .header {
+        width: 995px;
+    }
+</style>
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="CPD.Web.SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title></title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-82769923-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-82769923-1');
+    </script>
+</head>
+<body style="width: 995px; margin:auto;">
+    <center>
+    <form runat="server">
+        <div class="page-holder">
+            <div class="page">
+                <div class="header">
+                    <div class="title">
+                        <asp:Table runat="server" CellPadding="0" CellSpacing="0" Width="995px">
+                            <asp:TableRow>
+                                <asp:TableCell Style="text-align: center;">
+                                </asp:TableCell>
+                            </asp:TableRow>
+                            <asp:TableRow>
+                                <asp:TableCell>
+                                    <asp:Image ID="Image3" runat="server" ImageUrl="~/images/CPDLogo1.JPG" Width="980" /></asp:TableCell>
+                            </asp:TableRow>
+                        </asp:Table>
+                    </div>
+                </div>
+                <div class="main">
+                    <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+                </div>
+                <div class="clear">
+                </div>
+            </div>
+
+            <div class="footer">
+            </div>
+        </div>
+    </form>
+</center>
+</body>
+</html>

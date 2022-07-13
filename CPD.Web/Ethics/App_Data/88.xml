@@ -1,0 +1,19 @@
+﻿<Module Naam="Bugs and drugs">
+  <Article Naam="Gastro-intestinal infections">
+    <Question Question="1: Non-typhoidal salmonella" QuestionId="2129" />
+    <Question Question="2: .........is a causative agent of antibiotic-associated colitis." QuestionId="2130" />
+    <Question Question="3: Cryptosporidium parvum may result in extra-intestinal manifestations in AIDS patients that can include:" QuestionId="2131" />
+    <Question Question="4: Giardiasis always results in serious symptoms." QuestionId="2132" />
+    <Question Question="5: Negative serology does not exclude amoebiasis." QuestionId="2133" />
+    <Question Question="6: Cholera is characterised by “rice water stools” and vomiting. " QuestionId="2134" />
+    <Question Question="7: Campylobacter infection........................................................................................." QuestionId="2135" />
+  </Article>
+  <Article Naam="Probiotics and prebiotics">
+    <Question Question="1: A probiotic………......................................................................................................" QuestionId="2136" />
+    <Question Question="2: The best plant sources that are prebiotics are......................................................." QuestionId="2137" />
+    <Question Question="3: Consuming yoghurt with live cultures may improve lactose digestion and reduce symptoms related to lactose intolerance." QuestionId="2138" />
+    <Question Question="4: Intestinal microbiota have important roles in various diseases including extra-gastro-intestinal diseases." QuestionId="2139" />
+    <Question Question="5: Faecal microbiota transplantation.........................................................................." QuestionId="2140" />
+    <Question Question="6: Probiotics relieve most symptoms of patients with Crohn’s disease." QuestionId="2141" />
+  </Article>
+</Module>

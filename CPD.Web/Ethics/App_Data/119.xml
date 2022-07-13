@@ -1,0 +1,9 @@
+﻿<Module Naam="The Council for Medical Schemes">
+  <Article Naam="The Council for Medical Schemes and Ethical Conduct in Practice">
+    <Question Question="1: What does leadership underpin?" QuestionId="2949" />
+    <Question Question="2: Which of the following reflect effective leadership?" QuestionId="2950" />
+    <Question Question="3: Select the moral duties the Board of Trustees of medical schemes must adhere to:" QuestionId="2951" />
+    <Question Question="4: What is imperative for a medical scheme to be sustainable?" QuestionId="2952" />
+    <Question Question="5: Why is it important for health-care providers to use the correct ICD-10 code?" QuestionId="2953" />
+  </Article>
+</Module>

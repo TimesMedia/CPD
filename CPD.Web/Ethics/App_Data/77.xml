@@ -1,0 +1,19 @@
+﻿<Module Naam="Psychiatric conditions">
+  <Article Naam="Depressive Disorders in Women">
+    <Question Question="1: Which symptom can indicate an underlying depressive disorder in an adolescent?" QuestionId="1909" />
+    <Question Question="2: A diagnosis of postpartum depression can be made if the symptoms occur         ………….  postpartum?" QuestionId="1910" />
+    <Question Question="3: Which antidepressant is safe to use during breastfeeding?" QuestionId="1911" />
+    <Question Question="4: Antidepressants can be prescribed during which phase of the menstrual cycle in women with premenstrual dysphoric disorder?" QuestionId="1912" />
+    <Question Question="5: Peri-menopausal women with first-onset depression and vasomotor symptoms are likely to respond to oestrogen alone or in combination with antidepressants. " QuestionId="1913" />
+    <Question Question="6: Oral contraceptives may cause psychological side effects and are capable of inducing depression." QuestionId="1914" />
+  </Article>
+  <Article Naam="Treatment of Psychiatric Disorders in Pregnancy">
+    <Question Question="1: Which antidepressant is considered first-line therapy in women with depression in pregnancy?" QuestionId="1915" />
+    <Question Question="2: Which mood stabiliser is contra-indicated in women during pregnancy?" QuestionId="1916" />
+    <Question Question="3: Which investigation should be conducted prior to commencing lithium?" QuestionId="1917" />
+    <Question Question="4: Mood stabilisers should be discontinued immediately at conception." QuestionId="1918" />
+    <Question Question="5: Benzodiazepines can also be considered as treatment options for anxiety disorders in pregnancy." QuestionId="1919" />
+    <Question Question="6: ECT is contra-indicated for use in pregnancy." QuestionId="1920" />
+    <Question Question="7: Women with psychotic disorders have a/an………… frequency of relapse and recurrence of illness in the postpartum period.  " QuestionId="1921" />
+  </Article>
+</Module>

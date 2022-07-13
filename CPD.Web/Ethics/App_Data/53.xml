@@ -1,0 +1,20 @@
+﻿<Module Naam="THYROID DISEASES">
+  <Article Naam="Hypothyroidism">
+    <Question Question="1: The prevalence of hypothyroidism is higher in:" QuestionId="656" />
+    <Question Question="2: Goitre is never present on examination." QuestionId="657" />
+    <Question Question="3: Serum triiodothyronine (T3) concentration is often normal, even in severe hypothyroidism." QuestionId="658" />
+    <Question Question="4: Measurement of radio-active iodine uptake scintigraphy is usually required in the diagnostic evaluation of hypothyroidism." QuestionId="659" />
+    <Question Question="5: ....................  should not be taken simultaneously with thyroxine. " QuestionId="660" />
+    <Question Question="6: Full recovery from severe hypothyroidism may take several months." QuestionId="661" />
+    <Question Question="7: After starting levothyroxine, the level of thyroid-stimulating hormone commonly takes……. to normalise." QuestionId="662" />
+    <Question Question="8: During pregnancy women need less thyroid hormone." QuestionId="663" />
+  </Article>
+  <Article Naam="Hyperthyroidism">
+    <Question Question="1: Patients with hyperthyroidism have ....................." QuestionId="664" />
+    <Question Question="2: Cigarette-smoking is a confirmed risk factor for the development of Graves’ ophthalmopathy." QuestionId="665" />
+    <Question Question="3: A beta-blocker should be initiated as soon as the diagnosis of hyperthyroidism is made, but should be stopped as soon as anti-thyroid drugs are started." QuestionId="666" />
+    <Question Question="4: Patients should have thyroid functions assessed every ..............  until stabilised on maintenance therapy." QuestionId="667" />
+    <Question Question="5: Patients with subclinical hyperthyroidism have ................... ." QuestionId="668" />
+    <Question Question="6: The diagnosis of a thyroid storm is a clinical diagnosis." QuestionId="669" />
+  </Article>
+</Module>

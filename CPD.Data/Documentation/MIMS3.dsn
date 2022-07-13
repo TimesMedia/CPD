@@ -1,0 +1,9 @@
+[ODBC]
+DRIVER=SQL Server
+UID=ReitmannH
+DATABASE=MIMS3
+WSID=IT-RBK-189
+APP=Enterprise Architect 8
+Trusted_Connection=Yes
+SERVER=PKLWEBDB01\mssql2016std
+Description=Mims3 database

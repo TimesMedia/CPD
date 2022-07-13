@@ -1,0 +1,20 @@
+﻿<Module Naam="ISCHAEMIC HEART DISEASE">
+  <Article Naam="Acute Myocardial Infarction, Unstable Angina and Stable Angina">
+    <Question Question="1: Definitive diagnosis of myocardial infarction requires a rise and fall of troponins combined with:" QuestionId="576" />
+    <Question Question="2: In STEMI management therapy should be delayed until the results of biomarkers are available, even if the ECG criteria are met in a patient with compatible symptoms." QuestionId="577" />
+    <Question Question="3: Streptokinase (SK) is associated with:" QuestionId="578" />
+    <Question Question="4: Contra-indications for beta-blocker use include:" QuestionId="579" />
+    <Question Question="5: Characteristics of chest discomfort that make the diagnosis of stable angina highly likely are:" QuestionId="580" />
+    <Question Question="6: The results of an angiography rarely influence the long-term prognosis of patients with chronic stable angina." QuestionId="581" />
+    <Question Question="7: The most common agents for the relief of angina include:" QuestionId="582" />
+  </Article>
+  <Article Naam="Ischaemic Heart Disease: Chronic Care and Risk Reduction">
+    <Question Question="1: For primary prevention of cardiovascular disease a 10-year cardiovascular mortality of more than …….. is accepted to indicate a high-risk individual." QuestionId="583" />
+    <Question Question="2: Regardless of which method is used to assess, left ventricular function is a strong prognostic indicator." QuestionId="584" />
+    <Question Question="3: Even small measures of weight loss can be beneficial for patients with ischaemic heart disease." QuestionId="585" />
+    <Question Question="4: Low-dose aspirin has proven beneficial in the primary prevention of ischaemic heart disease." QuestionId="586" />
+    <Question Question="5: Statins:" QuestionId="587" />
+    <Question Question="6: Influenza vaccination should be offered routinely to patients with ischaemic heart disease." QuestionId="588" />
+    <Question Question="7: ACE-inhibitors have proven mortality benefit in patients with:" QuestionId="589" />
+  </Article>
+</Module>

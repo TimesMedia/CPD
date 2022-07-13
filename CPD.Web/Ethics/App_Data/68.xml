@@ -1,0 +1,16 @@
+﻿<Module Naam="TREATMENT OPTIONS">
+  <Article Naam="Cancer Chemotherapy ">
+    <Question Question="1: Cancer cells always grow faster than normal cells" QuestionId="1651" />
+    <Question Question="2: Cisplatin is more nephrotoxic but less myelotoxic than carboplatin and oxaliplatin" QuestionId="1652" />
+    <Question Question="3: Antimetabolites exert their action by inhibiting folate-dependent pathways required for DNA synthesis." QuestionId="1653" />
+    <Question Question="4: Tumour cells can express specific antigens which are different, or greater in number, than those occurring in normal cells.  " QuestionId="1654" />
+    <Question Question="5: Hormone- sensitive cancers include:" QuestionId="1655" />
+  </Article>
+  <Article Naam="Radiation therapy overview  ">
+    <Question Question="1: When radiating a tumour, it is necessary to include a margin of normal tissue around the tumour to allow for uncertainties in daily set-up and internal tumour motion." QuestionId="1656" />
+    <Question Question="2: Brachytherapy is an unsealed source of radiotherapy." QuestionId="1657" />
+    <Question Question="3: Cancers that are curable at early stages with radiotherapy alone include:" QuestionId="1658" />
+    <Question Question="4: Tumours located in the pelvis, abdomen and thorax are subject to motion during treatment." QuestionId="1659" />
+    <Question Question="5: The majority of epithelial cancers are highly radio-sensitive." QuestionId="1660" />
+  </Article>
+</Module>

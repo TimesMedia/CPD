@@ -1,0 +1,111 @@
+﻿<Module Naam="Pain">
+  <Article Naam="Acute muscle spasm: a new therapy">
+    <Question Question="1: With muscle spasm there is a neuronal or nerve element involved." QuestionId="2494" />
+    <Question Question="2: Acute muscle spasms can initiate a spasm-pain-spasm cycle and this cycle often begins with injury leading to muscle spasm." QuestionId="2495" />
+    <Question Question="3: The goals of muscle spasm treatment are to:" QuestionId="2496" />
+    <Question Question="4: For muscle spasm, diazepam should preferably be administered by intravenous injection.  " QuestionId="2497" />
+    <Question Question="5: Meprobamate has antispasmodic properties." QuestionId="2498" />
+    <Question Question="6: Myprocam® should be dosed between 6:00 and 7:00 to avoid side effects." QuestionId="2499" />
+    <Question Question="7: Cyclobenzaprine relieves muscle spasms through a central action at the brain-stem level where it binds to the serotonin receptor.  " QuestionId="2500" />
+  </Article>
+  <Article Naam="Addiction: a rough guide for busy clinicians">
+    <Question Question="1: Which model of addiction suggests that addiction is a maladaptive learnt behaviour? " QuestionId="2501" />
+    <Question Question="2: Which neurotransmitter is implicated in the mesolimbic-reward pathway?" QuestionId="2502" />
+    <Question Question="3: Which behavioural addiction has been included in the DSM-5 for the first time?" QuestionId="2503" />
+    <Question Question="4: What intervention is appropriate for a patient who is in the social or experimental phase of drug use?" QuestionId="2504" />
+    <Question Question="5: Which of the following criteria highlights a possible high-risk client with regard to withdrawal symptoms?" QuestionId="2505" />
+    <Question Question="6: Which of the following medications is appropriate for use in alcohol withdrawal?" QuestionId="2506" />
+    <Question Question="7: Which signs or symptoms are characteristic of Wernicke’s encephalopathy?" QuestionId="2507" />
+    <Question Question="8: Which special investigation will have to be monitored when a patient is on buprenorphine/naloxone medication? " QuestionId="2508" />
+  </Article>
+  <Article Naam="A pharmacokinetic perspective of pain: the value of multimodal analgesia">
+    <Question Question="1: Four hours after oral administration of combination ibuprofen plus paracetamol it was significantly and clinically meaningfully superior to single ibuprofen treatment in reducing fever. " QuestionId="2509" />
+    <Question Question="2: A ceiling effect is seen with paracetamol where no further analgesia or antipyresis can be demonstrated, despite an increase in dose." QuestionId="2510" />
+    <Question Question="3: Pain pathways and therefore the perception of pain are different in children than in adults." QuestionId="2511" />
+    <Question Question="4: Features of neuropathic pain include:" QuestionId="2512" />
+    <Question Question="5: Paracetamol combined with COX-2 inhibitors is as effective in reducing pain as paracetamol combined with ibuprufen." QuestionId="2513" />
+  </Article>
+  <Article Naam="Complex regional pain syndrome">
+    <Question Question="1: Spinal cord stimulation is the only really effective long-term treatment in moderate to severe cases of CRPS." QuestionId="2514" />
+    <Question Question="2: Movement forms a major part of the therapy for CRPS." QuestionId="2515" />
+    <Question Question="3: CRPS is a type of neuropathic pain characterised by a symptom complex consisting of:" QuestionId="2516" />
+    <Question Question="4: Surgery can exacerbate the pain related to CRPS" QuestionId="2517" />
+    <Question Question="5: Treatments that are of potential benefit in reducing the pain of CRPS include:" QuestionId="2518" />
+    <Question Question="6: Decreased bone density in the area of pain is diagnostic of CRPS." QuestionId="2519" />
+    <Question Question="7: Regardless of the pain, early active use of the affected limb is considered best practice." QuestionId="2520" />
+  </Article>
+  <Article Naam="Combination analgesics: rationale for use">
+    <Question Question="1: The additive or synergistic interaction between different classes of analgesics should allow lower doses of each substance to be used in combination, resulting in an improvement in the safety profile." QuestionId="2521" />
+    <Question Question="2: Based on the affinity for the prostaglandin receptors, opiates can be classified as either strong or weak." QuestionId="2522" />
+    <Question Question="3: Constipation due to opioid use is only experienced in higher dosage intake." QuestionId="2523" />
+    <Question Question="4: Examples of weak opioids include " QuestionId="2524" />
+    <Question Question="5: In high paracetamol dosages platelet aggregation is inhibited. " QuestionId="2525" />
+    <Question Question="6: NSAIDs are extremely effective anti-inflammatory and antipyretic agents but are less effective than paracetamol as an analgesic agent. " QuestionId="2526" />
+  </Article>
+  <Article Naam="Gastro-protection when treating with NSAIDs ">
+    <Question Question="1: Risk factors for upper gastro-intestinal NSAID-associated complications include:" QuestionId="2527" />
+    <Question Question="2: Mark the correct statements" QuestionId="2528" />
+    <Question Question="3: Misoprostol is significantly more effective than H2 receptor blockers in reducing the incidence of gastroduodenal ulcers in patients receiving NSAIDs." QuestionId="2529" />
+    <Question Question="4: The drug of choice for protection of the gastric mucosa when taking NSAIDS is:" QuestionId="2530" />
+    <Question Question="5: Proton pump inhibitors mimic the protective effect of prostanoids on the gastric mucosa, stimulating bicarbonate production and mucus secretion." QuestionId="2531" />
+  </Article>
+  <Article Naam="Medication overuse headache">
+    <Question Question="1: Medication overuse headache is a headache of varying quality and severity that is present for at least 15 days a month for three or more months due to the overuse of analgesics. " QuestionId="2532" />
+    <Question Question="2: Medication overuse headache does not occur in children under the age of 12 years. " QuestionId="2533" />
+    <Question Question="3: NSAIDs such as ibuprofen do not cause medication overuse headache unless combined with codeine or caffeine. " QuestionId="2534" />
+    <Question Question="4: Patients do not respond to prophylactic treatment irrespective of whether or not drug withdrawal has been successful. " QuestionId="2535" />
+    <Question Question="5: Oral corticosteroids are effective in relieving symptoms while medications are being withdrawn." QuestionId="2536" />
+    <Question Question="6: Following successful withdrawal of overuse medication most patients will not relapse. " QuestionId="2537" />
+  </Article>
+  <Article Naam="NSAIDs in acute and chronic pain management">
+    <Question Question="1: Prostaglandins have no role in peripheral sensitisation to acute pain." QuestionId="2538" />
+    <Question Question="2: The enzyme cyclo-oxygenase-2 (COX-2) is found in activated white blood cells and endothelial cells.&#x9;" QuestionId="2539" />
+    <Question Question="3: NSAIDs are useful drugs in the management of pain due to diabetic peripheral neuropathy. " QuestionId="2540" />
+    <Question Question="4: The drug withdrawn in September 2004 due to increased risk of cardiovascular thrombosis was:" QuestionId="2541" />
+    <Question Question="5: Which of the following interventions is not effective in reducing the gastro-intestinal side effects of NSAID therapy?" QuestionId="2542" />
+    <Question Question="6: Aspirin for primary or secondary prevention of cardiovascular thrombosis may be given at the same time as ibuprofen." QuestionId="2543" />
+    <Question Question="7: Which of the following oral medications does not impair renal function in dehydrated patients?" QuestionId="2544" />
+  </Article>
+  <Article Naam="Opioids for the management of chronic non-terminal pain ">
+    <Question Question="1: ……….. should be the first choice for chronic potent opioid therapy." QuestionId="2545" />
+    <Question Question="2: Fentanyl is lipophilic, and absorption is affected in patients with little subcutaneous fat." QuestionId="2546" />
+    <Question Question="3: Total opioid doses exceeding  ……….. of morphine or its equivalent are associated with an increased risk of overdose." QuestionId="2547" />
+    <Question Question="4: Chronic visceral or central pain syndromes respond well to opioid treatment." QuestionId="2548" />
+    <Question Question="5: Serotonin-norepinephrine reuptake inhibitors are indicated for neuropathic pain." QuestionId="2549" />
+    <Question Question="6: Chronic pain can be amplified by stressors such as relationship issues, financial problems or underlying psychiatric diagnoses. " QuestionId="2550" />
+    <Question Question="7: Breakthrough dosing improves outcomes and can decrease the risk of overdose, misuse, and further opioid tolerance." QuestionId="2551" />
+  </Article>
+  <Article Naam="Painful diabetic neuropathy">
+    <Question Question="1: Painful diabetic neuropathy typically develops in the …….. . " QuestionId="2552" />
+    <Question Question="2: Duloxetine side effects include …………….. ." QuestionId="2553" />
+    <Question Question="3: The highest rate of neuropathy is among people who have had diabetes for at least ………… years." QuestionId="2554" />
+    <Question Question="4: Sweating is often increased in peripheral neuropathy." QuestionId="2555" />
+    <Question Question="5: There is an increased risk of seizures in patients with previous epilepsy or who had received drugs that reduce the seizure threshold such as TCAs." QuestionId="2556" />
+    <Question Question="6: Pregabalin has ……………….. absorption across the gastro-intestinal tract, is neither metabolised nor protein-bound and has ……………….. drug-drug interactions." QuestionId="2557" />
+  </Article>
+  <Article Naam="Pathophysiology of chronic pain: is chronic pain simply persisting acute pain?">
+    <Question Question="1: Chronic pain is ……………………… ." QuestionId="2558" />
+    <Question Question="2: ………………………………. the reason chronic pain does not usually respond well, if at all, to normal analgesics." QuestionId="2559" />
+    <Question Question="3: Central sensitisation …………… . " QuestionId="2560" />
+    <Question Question="4: Intense, untreated acute pain such as post-operative pain can cause central sensitisation in the dorsal horn in a matter of hours." QuestionId="2561" />
+    <Question Question="5: Interneurons ……………………… ." QuestionId="2562" />
+  </Article>
+  <Article Naam="Physiology of pain: ascending nociceptive and descending pain-control pathways ">
+    <Question Question="1: Nociceptors are responsible for the perception of ………………………. . " QuestionId="2563" />
+    <Question Question="2: Sharp, localised (fast) pain is rapidly transmitted to the central nervous system along small, myelinated A-delta fibres." QuestionId="2564" />
+    <Question Question="3: Visceral pain is poorly localised and can be perceived to originate from a region of the body that is different from its actual location; this is called …………… ." QuestionId="2565" />
+    <Question Question="4: The spinothalamic tract crosses the midline at the spinal level." QuestionId="2566" />
+    <Question Question="5: Slow pain ………………. ." QuestionId="2567" />
+    <Question Question="6: Cell bodies of sensory neurons are located in ……………….. ." QuestionId="2568" />
+  </Article>
+  <Article Naam="Post-operative pain management">
+    <Question Question="1: A patient’s response to post-operative pain is independent of previous experiences of pain. " QuestionId="2569" />
+    <Question Question="2: Catastrophising is an inappropriate coping strategy for patients experiencing acute pain." QuestionId="2570" />
+    <Question Question="3: Pain can be assessed independently of level of consciousness.&#x9;" QuestionId="2571" />
+    <Question Question="4: The 100 mm visual analogue score (VAS) is the most clinically useful method to measure post-operative pain." QuestionId="2572" />
+    <Question Question="5: Which of the following drugs is a component of multimodal pain therapy?" QuestionId="2573" />
+    <Question Question="6: The safest route for administration of patient-controlled opioid analgesia for management of post-operative pain is:" QuestionId="2574" />
+    <Question Question="7: Morphine has no active metabolites that are renally excreted." QuestionId="2575" />
+    <Question Question="8: Which of the following oral medications is not appropriate for pain management after discharge postoperatively?" QuestionId="2576" />
+  </Article>
+</Module>

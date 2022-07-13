@@ -1,0 +1,18 @@
+﻿<Module Naam="ETHICS IN PAIN MANAGEMENT">
+  <Article Naam="Off-label Off-Limits">
+    <Question Question="1: It is the ..................... duty to explain off-label use when practical and obtain consent for the therapeutic intervention. " QuestionId="126" />
+    <Question Question="2: It is unlikely to use a lipid-lowering drug for anything else than lowering of lipids." QuestionId="128" />
+    <Question Question="3: ................. are particularly vulnerable groups as they are usually excluded from drug research." QuestionId="127" />
+    <Question Question="4: Some of the clauses in the professional liability policies exclude the use of off-label prescriptions in the liability they accept." QuestionId="129" />
+  </Article>
+  <Article Naam="The Medical Management of Substance Misuse Disorders">
+    <Question Question="1: The rate of discontinuation for long-term sedative hypnotic users should be at a maximum of .......diazepam equivalents per week or...........of the starting dose, whichever is smallest" QuestionId="146" />
+    <Question Question="2: The usual drug of choice for control of alcohol withdrawal symptoms is:" QuestionId="145" />
+    <Question Question="3: Acamprosate and disulfiram are used solely to aid in prevention of relapse to alcohol misuse. " QuestionId="147" />
+    <Question Question="4: Naltrexone should  be commenced when opiate withdrawal starts." QuestionId="148" />
+    <Question Question="5: Disulfiram should not be commenced within 24 hours of the last drink." QuestionId="149" />
+    <Question Question="6: Disulfiram is contra-indicated in ........" QuestionId="150" />
+    <Question Question="7: Opiate withdrawal is usually life-threatening." QuestionId="151" />
+    <Question Question="8: ................has been demonstrated to ameliorate stimulant drug withdrawal syndromes." QuestionId="152" />
+  </Article>
+</Module>

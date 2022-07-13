@@ -1,0 +1,26 @@
+﻿<Module Naam="Dermatology">
+  <Article Naam="Hormonal effects on the skin and skin ageing">
+    <Question Question="1: Which hormone can be regarded as the pivotal hormone in the hormone cascade?" QuestionId="1949" />
+    <Question Question="2: Which form of Vitamin D is mostly used by the body?" QuestionId="1950" />
+    <Question Question="3: Which is the first hormone to decrease with ageing?" QuestionId="1951" />
+    <Question Question="4: Of all the hormones that play a role, ………………… and its effects on the fibroblasts are  the most important in skin-ageing." QuestionId="1952" />
+    <Question Question="5: Fat is the main component of the skin that contributes to volume loss as we age." QuestionId="1953" />
+    <Question Question="6: The skin is the largest endocrine organ." QuestionId="1954" />
+  </Article>
+  <Article Naam="Female hair loss">
+    <Question Question="1: Female androgenetic alopecia is the most common type of hair loss in women." QuestionId="1955" />
+    <Question Question="2: Hair loss may be an early sign of thyroid dysfunction, and may be halted or reversed when this is adequately treated." QuestionId="1956" />
+    <Question Question="3: Loose anagen syndrome may improve as the person ages." QuestionId="1957" />
+    <Question Question="4: Minoxidil . . . " QuestionId="1958" />
+    <Question Question="5: Weight loss improves hair loss in hyper-androgenic women" QuestionId="1959" />
+    <Question Question="6: Hair transplantation gives the fastest result of all hair-loss treatments." QuestionId="1960" />
+  </Article>
+  <Article Naam="Hirsutism">
+    <Question Question="1: The following statement(s) is(are) true: " QuestionId="1961" />
+    <Question Question="2: The following statement(s) is(are) true:" QuestionId="1962" />
+    <Question Question="3: The following statement(s) is(are) true:" QuestionId="1963" />
+    <Question Question="4: The following statement(s) is(are) true:" QuestionId="1964" />
+    <Question Question="5: The following statement(s) is(are) true:" QuestionId="1965" />
+    <Question Question="6: The following statement(s) is(are) true:" QuestionId="1966" />
+  </Article>
+</Module>

@@ -1,0 +1,19 @@
+﻿<Module Naam="Cardiovascular system">
+  <Article Naam="Ischaemic heart disease in women">
+    <Question Question="1: Routine ECG-monitored exercise test is ……….. sensitive …….  specific in women as it is in men." QuestionId="1936" />
+    <Question Question="2: ……………… increase(s) the risk of cardiovascular disease more in women than in men" QuestionId="1937" />
+    <Question Question="3: ST-elevation myocardial infarction should be managed the same way in women as it is in men." QuestionId="1938" />
+    <Question Question="4: Compared to men, women who survive myocardial infarction have ……….. risk of further adverse cardiac events." QuestionId="1939" />
+    <Question Question="5: The risk of fatal coronary heart disease in women with diabetes is approximately ……………… when compared to their male counterparts." QuestionId="1940" />
+    <Question Question="6: Should a female patient stop smoking, her cardiovascular risk returns to that of a woman who had never smoked within ……………… ." QuestionId="1941" />
+    <Question Question="7: Women with angina will often present with atypical chest pain that radiates into the throat and neck or back." QuestionId="1942" />
+  </Article>
+  <Article Naam="Risk of cardiovascular disease in women">
+    <Question Question="1: Smoking cessation for 10 years and more decreases CVD morbidity and mortality to almost that of non-smokers." QuestionId="1943" />
+    <Question Question="2: Elevated LDL-c levels are more predictive of coronary risk in . . . " QuestionId="1944" />
+    <Question Question="3: After the sixth decade of life women have lower systolic blood pressure (SBP) levels than men. " QuestionId="1945" />
+    <Question Question="4: Women with an increased duration of oral contraceptive use are at an increased risk of hypertension." QuestionId="1946" />
+    <Question Question="5: In women, a BMI &gt;30kg/m2 is associated with an increased risk of . . . " QuestionId="1947" />
+    <Question Question="6: Both HDL-c and TG levels have greater predictive potential in women than men" QuestionId="1948" />
+  </Article>
+</Module>

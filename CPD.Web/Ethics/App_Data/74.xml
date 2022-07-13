@@ -1,0 +1,31 @@
+﻿<Module Naam="SUPPORTIVE CARE">
+  <Article Naam="Management of chemotherapy and radiation therapy side effects – emesis, neutrope">
+    <Question Question="1: Delayed CINV can last for as long as 120 hours after chemotherapy administration." QuestionId="1778" />
+    <Question Question="2: Persons who use alcohol excessively have less emesis." QuestionId="1779" />
+    <Question Question="3: Ondansetron has the benefit of acting at central and peripheral sites." QuestionId="1780" />
+    <Question Question="4: Dexamethasone significantly improves the prevention of CINV" QuestionId="1781" />
+    <Question Question="5: Secondary prophylaxis with CSFs should be considered in:" QuestionId="1782" />
+    <Question Question="6: Chronic rCSF use is associated with hepatomegaly." QuestionId="1783" />
+    <Question Question="7: . Aprepitant, in combination with other anti-emetics, is approved for prevention and control of CINV.  " QuestionId="1784" />
+  </Article>
+  <Article Naam="Management of cancer pain">
+    <Question Question="1: Patients undergoing anticancer treatment have significant less pain than those in an advanced or terminal phase of the disease." QuestionId="1785" />
+    <Question Question="2: Somatic pain responds to paracetamol and COX-2 selective inhibitors (coxibs)." QuestionId="1786" />
+    <Question Question="3: Ketamine is a selective calcium channel blocker." QuestionId="1787" />
+    <Question Question="4: Due to the risk of side effects, analgesia should always be prescribed on an “as required” schedule." QuestionId="1788" />
+    <Question Question="5: Oxycodone is an effective alternative to oral morphine." QuestionId="1789" />
+    <Question Question="6: Intravenous opioids have …… onset of analgesic activity in treating BTP episodes compared to oral morphine." QuestionId="1790" />
+    <Question Question="7: After neurolytic blocks, opioid therapy is seldom still needed." QuestionId="1791" />
+    <Question Question="8: Opioid-switching may aid in resolving symptoms of CNS toxicity." QuestionId="1792" />
+  </Article>
+  <Article Naam="Depression and terminal care in cancer">
+    <Question Question="1: All patients with cancer will become depressed at some stage." QuestionId="1793" />
+    <Question Question="2: Social support groups as well as web-based support groups are helpful in lowering depressive symptoms. " QuestionId="1794" />
+    <Question Question="3: Medication for depression takes 10-21 days to be effective." QuestionId="1795" />
+    <Question Question="4: Psychostimulants are useful in patients with a short life expectancy." QuestionId="1796" />
+    <Question Question="5: Erythropoietin and blood transfusions should routinely be used in patients who are becoming imminently terminal." QuestionId="1797" />
+    <Question Question="6: Opioids can be effective in the treatment of dyspnoea." QuestionId="1798" />
+    <Question Question="7: Haloperidol is the drug of choice for nausea without colic due to bowel obstruction. " QuestionId="1799" />
+    <Question Question="8: Non-drug measures are the mainstay of management for patients with delirium." QuestionId="1800" />
+  </Article>
+</Module>

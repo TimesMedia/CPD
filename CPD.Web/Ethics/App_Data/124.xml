@@ -1,0 +1,9 @@
+﻿<Module Naam="Biosimilars...">
+  <Article Naam="Biosimilars: Should We Embrace the New Biotechnology Medicines?">
+    <Question Question="1: Biologics include …" QuestionId="2973" />
+    <Question Question="2: Biologics differ from small molecules mostly in that they are:" QuestionId="2974" />
+    <Question Question="3: Despite newer techniques, a new biosimilar is very difficult to manufacture owing to the complexity of the large protein." QuestionId="2975" />
+    <Question Question="4: Because of the high cost of biosimilars, it may be necessary to re-assess the regulatory framework for these entities within poorer countries. " QuestionId="2976" />
+    <Question Question="5: Biosimilars differ essentially from originator biologics in that they are ………… ." QuestionId="2977" />
+  </Article>
+</Module>

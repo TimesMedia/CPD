@@ -1,0 +1,19 @@
+﻿<Module Naam="Urinary system conditions">
+  <Article Naam="Benign prostatic hyperplasia">
+    <Question Question="1: Treatment is necessary in only about 50 percent of men who develop benign prostatic hyperplasia (BPH)." QuestionId="3171" />
+    <Question Question="2: Which of the following pharmaceutical agents have an effect on bladder function and therefore on the symptoms experienced by the patient:" QuestionId="3172" />
+    <Question Question="3: Alpha1-adrenergic-agonists, including doxazosin, tamsulosin and terazosin, prompt smooth-muscle relaxation in the prostate and the neck of the bladder. " QuestionId="3173" />
+    <Question Question="4: Concerning the treatment of BPH, finasteride is most useful in symptomatic men with prostate volumes smaller than 20 ml. " QuestionId="3174" />
+    <Question Question="5: Concerning the treatment of BPH, finasteride exerts its effect by inhibiting the conversion of testosterone to dihydrotestosterone in the prostate. Long-term inhibition causes the gland to shrink." QuestionId="3175" />
+    <Question Question="6: Most malignant changes in the prostate occur in the peripheral zone of the prostate." QuestionId="3176" />
+  </Article>
+  <Article Naam="Incontinence in ageing individuals">
+    <Question Question="1: Urinary incontinence in the elderly may not be due to a single aetiology." QuestionId="3177" />
+    <Question Question="2: Urge incontinence is most prevalent in postmenopausal women. During the normal ageing process of women, atrophy of the pelvic floor muscles and external urinary sphincter is the most important contributing factor." QuestionId="3178" />
+    <Question Question="3: Once it has been determined that the patient may suffer from incontinence, physical examination should include:" QuestionId="3179" />
+    <Question Question="4: Assessment must be as minimally invasive as possible because of embarrassment and apprehension in the elderly, with focus on the “must know” rather than the “nice to know”." QuestionId="3180" />
+    <Question Question="5: In the management of urinary incontinence, pharmacological options are mainly for stress and urge incontinence and of little use in overflow incontinence." QuestionId="3181" />
+    <Question Question="6: In the management of urinary incontinence, pharmaceutical agents should be tried if behavioural treatment is unsatisfactory. These drugs include the anticholinergic agents tolterodine (1 or 2 mg twice daily) or oxybutynin (2,5-5 mg up to four times daily)." QuestionId="3182" />
+    <Question Question="7: Systemic or topical oestrogens stimulate urogenital atrophy and should not be prescribed in elderly women" QuestionId="3183" />
+  </Article>
+</Module>

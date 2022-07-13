@@ -1,0 +1,18 @@
+﻿<Module Naam="LASER TREATMENT">
+  <Article Naam="Fractional lasers">
+    <Question Question="1: The gold standard for the management of wrinkles is plastic surgery." QuestionId="1411" />
+    <Question Question="2: The controlled wounding of the dermis stimulates fibroblasts to make new collagen. This process takes on average………… to start and then runs for about ………… ." QuestionId="1412" />
+    <Question Question="3: For wrinkles and acne scarring ……. to………fractional laser sessions at intervals of about four to six weeks are recommended." QuestionId="1413" />
+    <Question Question="4: Fractional laser can reactivate acne in some patients." QuestionId="1414" />
+    <Question Question="5: Ongoing pain after fractional laser treatment may be a sign of infection." QuestionId="1415" />
+    <Question Question="6: Prolonged or excessive erythema is managed by red lights, …………,. a topical antibiotic ointment and a suitable systemic antibiotic." QuestionId="1416" />
+    <Question Question="7: An improvement after fractional laser usually means a sustained cure." QuestionId="1417" />
+  </Article>
+  <Article Naam="Application of lasers in the aesthetic field">
+    <Question Question="1: Excimer lasers dermatological applications include the treatment of ……………" QuestionId="1418" />
+    <Question Question="2: Laser hair reduction is more effective for " QuestionId="1419" />
+    <Question Question="3: Post-inflammatory hyperpigmentation after laser skin resurfacing is an adverse sequel that is more common in lighter skin types." QuestionId="1420" />
+    <Question Question="4: The ideal skin type for laser resurfacing is a ……………with moderate to severe photo damage and rhytids." QuestionId="1421" />
+    <Question Question="5: HO-Yag is operated in a pulsed mode and passed through optical fibre surgical devices to ……………………. ." QuestionId="1422" />
+  </Article>
+</Module>

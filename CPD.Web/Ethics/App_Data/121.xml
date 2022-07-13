@@ -1,0 +1,9 @@
+﻿<Module Naam="Protecting the Information of Your Patients">
+  <Article Naam="Protecting the Information of Your Patients">
+    <Question Question="1: Medical practitioners and pharmacists are subject to the Health Professions Council of SA and the SA Pharmacy Council respectively and are therefore exempt from The Protection of Personal Information Act (POPI)." QuestionId="2958" />
+    <Question Question="2: The provisions of POPI will not apply to health information sent to other health-care practitioners outside of the Republic of South Africa." QuestionId="2959" />
+    <Question Question="3: When processing health information, the provisions applicable to special personal information in POPI must be complied with. " QuestionId="2960" />
+    <Question Question="4: A health-care practitioner would need to obtain prior authorisation from the Information Regulation before processing a patient’s information for purposes of credit reporting." QuestionId="2961" />
+    <Question Question="5: Noncompliance with POPI could, in addition to attracting significant fines, also result in claims for damages." QuestionId="2962" />
+  </Article>
+</Module>

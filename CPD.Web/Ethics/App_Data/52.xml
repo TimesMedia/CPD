@@ -1,0 +1,19 @@
+﻿<Module Naam="DIAGNOSTIC TOOLS">
+  <Article Naam="Reading the ECG">
+    <Question Question="1: The P-R interval measures 4 small squares on an ECG recorded at 25 mm/second. The P-R interval is therefore:" QuestionId="643" />
+    <Question Question="2: A negative deflection at the beginning of the QRS complex is:" QuestionId="644" />
+    <Question Question="3: A QRS complex measuring 3.5 small squares (0.14 seconds) is:" QuestionId="645" />
+    <Question Question="4: A 60-year-old man presents with shortness of breath and is found to have a regular narrow QRS tachycardia at 150/minute. The most likely diagnosis is:" QuestionId="646" />
+    <Question Question="5: An ECG recorded in the emergency unit from a 45-year-old man with a history of a previous MI shows a regular wide QRS tachycardia at 170/minute. The most likely diagnosis is:" QuestionId="647" />
+    <Question Question="6: Atrial fibrillation is characterised on ECG by:" QuestionId="648" />
+    <Question Question="7: Left atrial enlargement is characterised by:" QuestionId="649" />
+    <Question Question="8: A dominant R wave in V1 (R&gt;&gt;S):" QuestionId="650" />
+  </Article>
+  <Article Naam="Holter Monitoring">
+    <Question Question="1: Which of the following provides the most useful information from a 24-hour Holter monitor?" QuestionId="651" />
+    <Question Question="2: A 78-year-old woman complains of 3 episodes of blackout over a 2-month period, in which she briefly lost consciousness and recovered quickly. Her ECG shows a pattern of complete right bundle branch block. A 24-hour Holter, during which she complains of tiredness, shows no significant arrthythmia." QuestionId="652" />
+    <Question Question="3: A 70-year-old hypertensive man is in atrial fibrillation and is on a beta-blocker, warfarin, diuretic and ACE-inhibitor. An echocardiogram shows reduced left ventricular function." QuestionId="653" />
+    <Question Question="4: Holter monitoring in a patient who had an anterior myocardial infarction 2 months ago showed frequent PVCs (&gt;10 per hour) and reduced heart rate variability. Which of the following would you consider?" QuestionId="654" />
+    <Question Question="5: A 55-year-old woman has had recurrent dizzy spells and several blackouts over a period of a year, one of which resulted in injury. A tilt test was negative, as were 3 periods of Holter monitoring over 48 hours, without symptoms. Her ECG was normal." QuestionId="655" />
+  </Article>
+</Module>

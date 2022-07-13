@@ -1,0 +1,18 @@
+﻿<Module Naam="Visual impairment">
+  <Article Naam="Glaucoma">
+    <Question Question="1: ………………… major classes of ocular hypotensives are currently available for topical use. " QuestionId="3159" />
+    <Question Question="2: Concerning the mechanism of action of topical β-adrenergic antagonists: IOP reduction is initially associated with a decrease in aqueous humour production, but maintained by an increase in uveoscleral outflow." QuestionId="3160" />
+    <Question Question="3: All systemic carbonic anhydrase inhibitors are structurally related to the sulphonamides and therefore potentially share their side effect- and allergy profile." QuestionId="3161" />
+    <Question Question="4: ………………….. are used orally in primary open-angle glaucoma (POAG) as a supplement to topical medication when IOP is not adequately controlled by the latter." QuestionId="3162" />
+    <Question Question="5: ………………………………  have largely replaced β-adrenergic antagonists as first-line therapy for management of POAG." QuestionId="3163" />
+    <Question Question="6: Latanoprost is safe to use in patients with asthma." QuestionId="3164" />
+  </Article>
+  <Article Naam="Age-related macular degeneration">
+    <Question Question="1: There are two types of age-related macular degeneration (ARMD): dry and wet. Wet ARMD is associated with rapid distortion and a sudden loss of central vision over a period of weeks to months." QuestionId="3165" />
+    <Question Question="2: The deterioration of the macula results in the loss of central vision only; peripheral vision remains intact." QuestionId="3166" />
+    <Question Question="3: Drusen ........ " QuestionId="3167" />
+    <Question Question="4: Statins have been proposed to have a beneficial effect on ARMD, but there is insufficient evidence to support their use in the management of ARMD, whether for preventing or delaying onset." QuestionId="3168" />
+    <Question Question="5: Verteporfin photodynamic therapy is based on the fact that neovascular tissue differs from normal blood vessels in terms of retaining dye." QuestionId="3169" />
+    <Question Question="6: Risk factors associated with ARMD include:" QuestionId="3170" />
+  </Article>
+</Module>

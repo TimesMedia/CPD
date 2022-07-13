@@ -1,0 +1,25 @@
+﻿<Module Naam="OTHER PSYCHIATRIC CONDITIONS">
+  <Article Naam="Alzheimer’s Disease: Research and Treatment Indications">
+    <Question Question="1: There is no difference in cognitive status between older individuals taking pravastatin and those taking placebo." QuestionId="304" />
+    <Question Question="2: Dietary supplements including ginkgo biloba, vitamin E, and coenzyme Q 10 have clear cognitive benefits for Alzheimer's disease patients." QuestionId="303" />
+    <Question Question="3: Conditions that have been associated with dementia risk include:" QuestionId="302" />
+    <Question Question="4: Light therapy may help regulate an individual’s sleep pattern." QuestionId="305" />
+    <Question Question="5: The risk of an automobile crash within one year of the diagnosis of AD is similar compared to age-matched controls without dementia." QuestionId="306" />
+  </Article>
+  <Article Naam="Attention Deficit/Hyperactivity Disorder in Adults and Children">
+    <Question Question="1: The most common short-term side effects of stimulants are:" QuestionId="376" />
+    <Question Question="2: Many people with ADHD develop a secondary depressive disorder. " QuestionId="388" />
+    <Question Question="3: In school-age children and young people with moderate ADHD drug treatment is indicated as the first-line treatment." QuestionId="389" />
+    <Question Question="4: The selective serotonin re-uptake inhibitors are effective to reduce the symptoms of ADHD." QuestionId="390" />
+    <Question Question="5: A diagnosis should only be made by a psychiatrist, paediatrician or other health-care professional with specialist training and expertise in the diagnosis of ADHD." QuestionId="391" />
+    <Question Question="6: Long-acting stimulant formulations should be avoided when treating children and adolescents with ADHD." QuestionId="392" />
+    <Question Question="7: Non-medication strategies are not useful in the cases of non-responders to medications. " QuestionId="393" />
+  </Article>
+  <Article Naam="Psychiatric Disorders and HIV Disease">
+    <Question Question="1: Carbamazepine is an hepatic enzyme inducer and may decrease the efficacy of other drugs, including antiretrovirals." QuestionId="307" />
+    <Question Question="2: Mania may also be caused by opportunistic infections of the CNS." QuestionId="309" />
+    <Question Question="3: In the treatment of depression in patients with HIV, .................has minimal drug interaction potential. " QuestionId="308" />
+    <Question Question="4: Depression occurs in almost ..... of adolescents with HIV infection. " QuestionId="311" />
+    <Question Question="5: Most patients with psychosis associated with medical conditions may require chronic treatment with antipsychotic medication. " QuestionId="310" />
+  </Article>
+</Module>

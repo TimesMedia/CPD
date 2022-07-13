@@ -1,0 +1,21 @@
+﻿<Module Naam="REHABILITATION AND SOCIAL CARE">
+  <Article Naam="Psychosocial Rehabilitation">
+    <Question Question="1: Supported employment  has been shown to be ineffective." QuestionId="335" />
+    <Question Question="2: The most comprehensive type of community-based treatment is..." QuestionId="334" />
+    <Question Question="3: Substance use disorders with co-occurring SMI are common in South Africa." QuestionId="336" />
+    <Question Question="4: Multidisciplinary treatment teams allow for a high client to case manager ratio." QuestionId="337" />
+  </Article>
+  <Article Naam="Care for the Carer">
+    <Question Question="1: Burnout is a state of emotional, mental, and physical exhaustion caused by excessive and prolonged stress." QuestionId="338" />
+    <Question Question="2: The ‘Three R’ approach consists of:" QuestionId="339" />
+    <Question Question="3: Long-term changes to one’s body  may lead to illnesses such as auto-immune diseases." QuestionId="340" />
+    <Question Question="4: Signs of burnout  may be:" QuestionId="341" />
+  </Article>
+  <Article Naam="Recovering from Chemical Dependency: Common Problems">
+    <Question Question="1: When treating a respiratory infection, agents to be avoided include:" QuestionId="343" />
+    <Question Question="2: The patient in recovery is more likely to be noncompliant, whereas the relapsing patient is more likely to adhere to medical advice." QuestionId="342" />
+    <Question Question="3: ...................  is safe to use for recovering patients with gastro-intestinal complaints. " QuestionId="344" />
+    <Question Question="4: SSRIs increase the rate of alcohol consumption in patients with depression. " QuestionId="345" />
+    <Question Question="5: ...............................should not be used in recovering patients who want to lose weight." QuestionId="346" />
+  </Article>
+</Module>

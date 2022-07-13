@@ -1,0 +1,8 @@
+﻿<Module Naam="General">
+  <Article Naam="Assistive devices">
+    <Question Question="1: Patient-centred care by the family practitioners is very relevant when considering the recommendation for assistive devices in the elderly because:" QuestionId="3196" />
+    <Question Question="2: Which of the statements with regard to assistive devices are true:" QuestionId="3197" />
+    <Question Question="3: When recommending a suitable assistive device to an older patient, the following needs to be taken into consideration:" QuestionId="3198" />
+    <Question Question="4: For elderly patients with very low vision due to age-related macular degeneration (AMD):" QuestionId="3199" />
+  </Article>
+</Module>

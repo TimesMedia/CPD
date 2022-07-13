@@ -1,0 +1,36 @@
+﻿<Module Naam="Viral and rickettsial infections">
+  <Article Naam="Common viral infections">
+    <Question Question="1: Yellow secretions, fever and pharyngitis are good predictors of secondary bacterial infection." QuestionId="2185" />
+    <Question Question="2: A one-year-old child with controlled heart failure who develops influenza, should be treated with zanamazir" QuestionId="2186" />
+    <Question Question="3: Varicella zoster virus" QuestionId="2187" />
+    <Question Question="4: In more than 95% of healthy adults with hepatitis B, the infection will clear spontaneously." QuestionId="2188" />
+    <Question Question="5: Viral gastro-intestinal infections:" QuestionId="2189" />
+    <Question Question="6: People who may need PEP after contact with a hepatitis A-infected patient include:" QuestionId="2190" />
+  </Article>
+  <Article Naam="Maternal viral infections ">
+    <Question Question="1: Rubella" QuestionId="2191" />
+    <Question Question="2: Congenital CMV infection may cause:" QuestionId="2192" />
+    <Question Question="3: A pregnant woman is exposed to chickenpox. Her VZV IgG levels are negative." QuestionId="2193" />
+    <Question Question="4: ………… should be used to treat primary herpes infections and clinically apparent re-activations in pregnant women." QuestionId="2194" />
+    <Question Question="5: Intra-uterine blood transfusions can improve foetal survival. Parvovirus DNA can be detected in foetal blood or amniotic fluid." QuestionId="2195" />
+  </Article>
+  <Article Naam="Common childhood infectious diseases">
+    <Question Question="1: Measles …" QuestionId="2196" />
+    <Question Question="2: Hand-foot-mouth disease …" QuestionId="2197" />
+    <Question Question="3: The generalised rash of infectious mononucleosis may be exacerbated with:" QuestionId="2198" />
+    <Question Question="4: A 10-year-old sibling of a patient with meningococcal disease should receive……………………… as post-exposure prophylaxis. " QuestionId="2199" />
+    <Question Question="5: Pertussis" QuestionId="2200" />
+    <Question Question="6: Orchitis is the most common complication of childhood mumps." QuestionId="2201" />
+    <Question Question="7: Childhood infectious diseases that may present with erythematous rashes include:" QuestionId="2202" />
+  </Article>
+  <Article Naam="Tick bite fever">
+    <Question Question="1: Which of the following organisms are responsible for tick bite fever in South Africa?" QuestionId="2203" />
+    <Question Question="2: Which of the following are features commonly associated with African tick bite fever?" QuestionId="2204" />
+    <Question Question="3: Which of the following are features associated with Mediterranean spotted fever?" QuestionId="2205" />
+    <Question Question="4: The clinical diagnosis of tick bite fever is made by a combination of the following factors." QuestionId="2206" />
+    <Question Question="5: Which of the following conditions should be considered in the differential diagnosis of a severely ill patient presenting with fever and a purpuric skin rash?" QuestionId="2207" />
+    <Question Question="6: The pathogenesis of tick bite fever has the following features." QuestionId="2208" />
+    <Question Question="7: Which of the following drugs can be used to treat tick bite fever in South Africa?" QuestionId="2209" />
+    <Question Question="8: Tick bite fever can be prevented by the following measures." QuestionId="2210" />
+  </Article>
+</Module>

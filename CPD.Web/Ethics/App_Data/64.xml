@@ -1,0 +1,34 @@
+﻿<Module Naam="WEIGHT MANAGEMENT AND CELLULITE">
+  <Article Naam="Management of obesity: office-based strategies">
+    <Question Question="1: Among persons 20 years and older, a BMI of ……..  kg per m2 is defined as normal." QuestionId="1456" />
+    <Question Question="2: Sibutramine and orlistat are the only two medications with significant evidence for the long-term treatment of obesity." QuestionId="1457" />
+    <Question Question="3: In general, bariatric surgery is an option for adults who have a BMI of …….. kg per m2 or higher." QuestionId="1458" />
+    <Question Question="4: Valproic acid may cause weight gain." QuestionId="1459" />
+    <Question Question="5: Children and adolescents who consistently eat breakfast are less likely to be overweight." QuestionId="1460" />
+    <Question Question="6: Metformin is associated with weight gain." QuestionId="1461" />
+  </Article>
+  <Article Naam="Weight loss and calorie restriction mimetics">
+    <Question Question="1: Lack of sleep is associated with weight gain and insulin resistance." QuestionId="1462" />
+    <Question Question="2: Serotonin re-uptake inhibitors, as well as serotonin precursors, such as 5-HTP, can cause weight gain." QuestionId="1463" />
+    <Question Question="3: A resistance to leptin slows thyroid function down in overweight people." QuestionId="1464" />
+    <Question Question="4: Elevated cortisol, caused by stress or ageing, puts the body into a fat-burning mode." QuestionId="1465" />
+    <Question Question="5: The absolute waist circumference and the waist-hip ratio are both used as measures of central obesity." QuestionId="1466" />
+    <Question Question="6: An absolute waist circumference of……….. constitutes central obesity." QuestionId="1467" />
+  </Article>
+  <Article Naam="Cellulite: non-surgical treatments">
+    <Question Question="1: Medically, cellulite is known as:" QuestionId="1468" />
+    <Question Question="2: Micro-needle therapy enhances the absorption of topical creams up to 100%.  " QuestionId="1469" />
+    <Question Question="3: The UltraShape system is the only scientifically and clinically proven non-invasive solution to instantly, selectively and permanently destroy unwanted fat cells." QuestionId="1470" />
+    <Question Question="4: Treatment with the Maximus requires 24-hours downtime and a 48-hour recuperation period." QuestionId="1471" />
+    <Question Question="5: Cellulite is more common in Asian women than White or African American women." QuestionId="1472" />
+    <Question Question="6: With advancing age, cellulite increases in severity." QuestionId="1473" />
+    <Question Question="7: Cellulite treatments should always be combined with a comprehensive medical programme to improve overall metabolism." QuestionId="1474" />
+  </Article>
+  <Article Naam="Cellulite: focusing on mesotherapy">
+    <Question Question="1: Water infiltration is secondary to poor veno-lymphatic circulation and hormonal imbalance." QuestionId="1475" />
+    <Question Question="2: The more excess fat stored as triglycerides, the more swelling of fat cells that fill with fat." QuestionId="1476" />
+    <Question Question="3: Cellulite is an increase in the volume of adipocytes and does not affect the number of adipocytes." QuestionId="1477" />
+    <Question Question="4: With mesotherapy treatment, the results are instantly noticeable." QuestionId="1478" />
+    <Question Question="5: Lifestyle modifications, regular exercise and a healthy balanced diet are major aspects in the treatment of cellulite" QuestionId="1479" />
+  </Article>
+</Module>

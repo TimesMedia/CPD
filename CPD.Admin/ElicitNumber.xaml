@@ -1,0 +1,13 @@
+﻿<Window x:Class="CPD.Admin.ElicitNumber"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Height="178" Width="218" MaxHeight="178" Background="Gold" Name="Window" Loaded="Window_Loaded">
+
+    <Canvas Margin="-2,0,199,0">
+        <TextBox Name="gAnswer" x:FieldModifier="private" Focusable="True" HorizontalAlignment="Left" Height="23" TextAlignment="Right" VerticalAlignment="Top" Width="173" Grid.Column="1" Canvas.Left="20" Canvas.Top="68"/>
+        <Label Name="gQuestion" Content="Question" HorizontalAlignment="Left" VerticalAlignment="Top" Grid.Column="1" Height="61" Width="173" Canvas.Left="20" Canvas.Top="2"/>
+        <Button  Content="Accept" HorizontalAlignment="Left" Height="24" VerticalAlignment="Top" Width="75" Canvas.Left="20" Canvas.Top="98" Click="ButtonAccept_Click" IsDefault="True" />
+        <Button  Content="Cancel" HorizontalAlignment="Left" Height="24" VerticalAlignment="Top" Width="75" Canvas.Left="118" Canvas.Top="98" Click="ButtonCancel_Click"/>
+
+    </Canvas>
+</Window>

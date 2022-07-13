@@ -1,0 +1,17 @@
+﻿<Module Naam="Obesity">
+  <Article Naam="Obesity and its management">
+    <Question Question="1: An increase in central adiposity is associated with an increased risk of................." QuestionId="2118" />
+    <Question Question="2: Combining behavioural therapy with other methods often enhances the extent of weight loss." QuestionId="2119" />
+    <Question Question="3: Orlistat" QuestionId="2120" />
+    <Question Question="4: Phentermine is contra-indicated in patients with................................................. " QuestionId="2121" />
+    <Question Question="5: An average human requires ......kcal/kg to maintain one kg of body weight." QuestionId="2122" />
+  </Article>
+  <Article Naam="Bariatric surgery">
+    <Question Question="1: Weight loss after laparoscopic banding is generally ........when compared with other bariatric procedures." QuestionId="2123" />
+    <Question Question="2: The most common long-term complications of the Roux-en-Y gastric bypass are:" QuestionId="2124" />
+    <Question Question="3: An advantage of sleeve gastrectomy compared with the Roux-en-Y gastric bypass is that dumping syndrome is not experienced." QuestionId="2125" />
+    <Question Question="4: A biliopancreatic diversion dramatically impacts comorbidities but has possible severe side effects. " QuestionId="2126" />
+    <Question Question="5: If pre-operative gallstones are detected a cholecystectomy should first be performed and the bariatric procedure should be postponed for eight weeks." QuestionId="2127" />
+    <Question Question="6: Bariatric surgery also up-regulates gut hormones such as peptide YY within a few days of surgery." QuestionId="2128" />
+  </Article>
+</Module>

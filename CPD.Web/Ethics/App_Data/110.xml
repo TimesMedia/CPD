@@ -1,0 +1,23 @@
+﻿<Module Naam="Introductory Overview">
+  <Article Naam="Principles of Prescribing Psychiatric Medications">
+    <Question Question="1: Prescription of psychiatric drugs should focus on the objective disability and not the subjective wellbeing." QuestionId="2636" />
+    <Question Question="2: Cognitive-behavioural treatment has a longer-lasting positive effect than medication in the treatment of some anxiety disorders." QuestionId="2637" />
+    <Question Question="3: The selective serotonin re-uptake inhibitors" QuestionId="2638" />
+    <Question Question="4: In primary care, monotherapy is generally preferable to polypharmacy" QuestionId="2639" />
+  </Article>
+  <Article Naam="Classifying Psychiatric Medications">
+    <Question Question="1: Tricyclic and tetracyclic antidepressants actions include" QuestionId="2640" />
+    <Question Question="2: Fluoxetine has a particularly …………..half-life" QuestionId="2641" />
+    <Question Question="3: Concerning serotonin-noradrenaline re-uptake inhibitors" QuestionId="2642" />
+    <Question Question="4: B-blockers are used in the treatment of performance anxiety but are not effective in the treatment of other forms of anxiety" QuestionId="2643" />
+    <Question Question="5: Benzodiazepines" QuestionId="2644" />
+    <Question Question="6: Antipsychotics agents may be useful for behavioural disturbances associated with dementia" QuestionId="2645" />
+    <Question Question="7: Due to the risks, side-effect profile and little evidence of efficacy, methylphenidate use should be avoided" QuestionId="2646" />
+  </Article>
+  <Article Naam="Classifying Psychiatric Disorders">
+    <Question Question="1: Persistent depressive disorder is a more chronic and less severe form of depression" QuestionId="2647" />
+    <Question Question="2: The pharmacotherapy of the depressed phase of bipolar disorder is mostly the same as that of unipolar major depression." QuestionId="2648" />
+    <Question Question="3: Neurodevelopmental disorders are usually diagnosed first in childhood." QuestionId="2649" />
+    <Question Question="4: The psychotic disorders are all characterised by loss of contact with reality in the form of hallucinations" QuestionId="2650" />
+  </Article>
+</Module>

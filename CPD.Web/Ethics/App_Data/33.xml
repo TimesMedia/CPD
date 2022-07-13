@@ -1,0 +1,33 @@
+﻿<Module Naam="POSSIBLE EMERGENCY ROOM CONDITIONS">
+  <Article Naam="Acute Psychotic Patient in GP Practice or Emergency Room">
+    <Question Question="1: Early recognition of psychotic symptoms is important because:" QuestionId="296" />
+    <Question Question="2: A psychotic episode can present with the following symptoms:" QuestionId="297" />
+    <Question Question="3: The following  special investigations should be performed routinely in a first episode of acute psychosis: " QuestionId="298" />
+    <Question Question="4: The following medications are indicated for rapid tranquilisation of an aggressive patient:" QuestionId="299" />
+    <Question Question="5: General guidelines for the prescribing of antipsychotics include the following:" QuestionId="300" />
+    <Question Question="6: Some of the common side effects with the atypical antipsychotics are............. " QuestionId="301" />
+  </Article>
+  <Article Naam="Managing the Agitated Patient">
+    <Question Question="1: A show of force, by presenting the patient with an overwhelming number of people, is often enough to calm the patient." QuestionId="370" />
+    <Question Question="2: The main goal of medication is to let the patient fall asleep." QuestionId="371" />
+    <Question Question="3: Haloperidol is relatively affordable and can be given ........." QuestionId="372" />
+    <Question Question="4: Intramuscular olanzapine can be combined with most other drugs." QuestionId="373" />
+    <Question Question="5: Atypical antipsychotics are suitable for treating agitation associated with schizophrenia or mania." QuestionId="374" />
+    <Question Question="6: In patients where the agitation is associated with drug and alcohol intoxication or withdrawal, a benzodiazepine would be first-line treatment." QuestionId="375" />
+  </Article>
+  <Article Naam="Panic Disorder">
+    <Question Question="1: Benzodiazepines are ................  antidepressants in reducing panic symptoms and frequency of panic attacks." QuestionId="377" />
+    <Question Question="2: Antidepressant therapy should continue for at least ............... after the patient is symptom-free. " QuestionId="378" />
+    <Question Question="3: CBT can facilitate discontinuation of drug therapy in patients already taking benzodiazepines. " QuestionId="379" />
+    <Question Question="4: Antidepressant medications can ....................... in patients with panic disorder." QuestionId="380" />
+    <Question Question="5: Selective serotonin re-uptake inhibitors (SSRIs) are ..................  tricyclic antidepressants (TCAs) in reducing panic severity and the number of attacks." QuestionId="381" />
+  </Article>
+  <Article Naam="The Suicidal Patient">
+    <Question Question="1: Pregnancy may put someone at higher risk for suicide." QuestionId="382" />
+    <Question Question="2: The risk of suicide increases with increasing age." QuestionId="383" />
+    <Question Question="3: Suicide is higher among employed than unemployed persons." QuestionId="384" />
+    <Question Question="4: The greater the lethality of the method chosen, the greater is the risk for completed suicide." QuestionId="385" />
+    <Question Question="5: Most people who commit suicide have a psychiatric disorder. " QuestionId="386" />
+    <Question Question="6: Talking about suicide with a depressed person will probably cause him/her to commit suicide." QuestionId="387" />
+  </Article>
+</Module>

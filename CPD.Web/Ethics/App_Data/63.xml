@@ -1,0 +1,19 @@
+﻿<Module Naam="OVERVIEW OF FACIAL INJECTABLES">
+  <Article Naam="Botulinum toxin A">
+    <Question Question="1: BTxA  can successfully treat imperfections due to loss of skin tone or volume." QuestionId="1443" />
+    <Question Question="2: BTxA can reduce the secretion of the exocrine glands, with a considerable decrease in associated perspiration." QuestionId="1444" />
+    <Question Question="3: Main indications for BtxA treatment of the eye include:" QuestionId="1445" />
+    <Question Question="4: The botulinum toxins on the market have comparable dilutions and dosages. " QuestionId="1446" />
+    <Question Question="5: The reduction of muscle contraction caused by BtxA gives an “all-or-nothing” result." QuestionId="1447" />
+    <Question Question="6: For all off-label use of drugs written consent must be obtained from the patient." QuestionId="1448" />
+  </Article>
+  <Article Naam="Dermal fillers">
+    <Question Question="1: Biodegradable fillers:" QuestionId="1449" />
+    <Question Question="2: With volumising-fillers the volume obtained at the time of injection equals the final result." QuestionId="1450" />
+    <Question Question="3: The use of NSAIDs and aspirin is recommended for two days before the procedure." QuestionId="1451" />
+    <Question Question="4: Local infiltrative or subcutaneous anaesthesia should usually be used before injecting a filler." QuestionId="1452" />
+    <Question Question="5: The malar zygomatic region is preferably treated with the deep bolus technique." QuestionId="1453" />
+    <Question Question="6: After the injection of a filler, the patient will have to perform deep massage regularly for several days." QuestionId="1454" />
+    <Question Question="7: Micro bolus technique is particularly suitable in treating the lateral eyebrow, nose, and perioral area." QuestionId="1455" />
+  </Article>
+</Module>

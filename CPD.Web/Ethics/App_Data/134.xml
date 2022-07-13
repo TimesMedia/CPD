@@ -1,0 +1,26 @@
+﻿<Module Naam="Pulmonary conditions">
+  <Article Naam="Chronic obstructive pulmonary disease in the elderly">
+    <Question Question="1: The lungs tend to lose their functional reserves faster than the other organs." QuestionId="3123" />
+    <Question Question="2: All patients with chronic bronchitis develop airflow limitation." QuestionId="3124" />
+    <Question Question="3: Oral .................. has been used for many years as a bronchodilator, but owing to its toxicity and interactions with other medications – especially at higher dosages – it is considered to be dangerous." QuestionId="3125" />
+    <Question Question="4: Severely incapacitated patients unable to perform the daily tasks of living who are already on full medicinal treatment and have not had an acute exacerbation must be considered for long-term, low-dose oxygen treatment." QuestionId="3126" />
+    <Question Question="5: In the acute exacerbation of chronic bronchitis, the antibiotics of choice are:" QuestionId="3127" />
+    <Question Question="6: During the acute phase of COPD treatment, physiotherapy is only indicated if the patient finds it difficult to get rid of phlegm." QuestionId="3128" />
+  </Article>
+  <Article Naam="Acute lung infections in the elderly">
+    <Question Question="1: The diagnosis of pneumonia must only be applied to infection of the distal respiratory bronchioles and alveoli." QuestionId="3129" />
+    <Question Question="2: The majority of bacterial community acquired pneumonias (CAPs) are Staphylococcus aureus and Haemophilus influenzae" QuestionId="3130" />
+    <Question Question="3: Patients with bacterial CAP should be started on an antibiotic such as ampicillin or amoxicillin. In rural areas where resistance may be less of a problem, .................. can be used." QuestionId="3131" />
+    <Question Question="4: Concerning treatment of community-acquired pneumonia in the elderly: Bed rest should be kept to a minimum as the patient’s recovery may be complicated by pressure ulcers and muscle atrophy." QuestionId="3132" />
+    <Question Question="5: Corticosteroid therapy in CAP reduces the morbidity and complications in patients admitted to hospital, possibly because of the reduction of the cytokine and inflammatory responses." QuestionId="3133" />
+    <Question Question="6: Where ................. CAP infections are considered, it is suggested that aminopenicillin therapy should be combined with a macrolide antibiotic." QuestionId="3134" />
+  </Article>
+  <Article Naam="Influenza: prevention, treatment and vaccine indications">
+    <Question Question="1: Seasonal influenza viruses experience regular progressive antigenic shift. For this reason, the annual seasonal influenza vaccine is updated each year." QuestionId="3135" />
+    <Question Question="2: Certain individuals are at increased risk for severe complications of influenza. These include:" QuestionId="3136" />
+    <Question Question="3: After administration of an influenza vaccine, a protective antibody response takes about 6 weeks to develop." QuestionId="3137" />
+    <Question Question="4: Antiviral drugs registered for the therapy of influenza in South Africa include:" QuestionId="3138" />
+    <Question Question="5: Antiviral therapy in influenza may reduce the duration of illness by approximately one day, reduce nasal shedding of virus and may reduce the rate of serious illness and death." QuestionId="3139" />
+    <Question Question="6: Although the benefit of antiviral agents for the treatment of influenza is likely to be greatest when therapy is initiated within 48 hours, some benefit may still be obtained in patients whose therapy is started later in the course of illness" QuestionId="3140" />
+  </Article>
+</Module>

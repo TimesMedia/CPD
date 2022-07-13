@@ -1,0 +1,101 @@
+﻿<Module Naam="Treatment Approaches">
+  <Article Naam="Major Depressive Disorder">
+    <Question Question="1: Patients with melancholia appear to respond better to antidepressants and electroconvulsive therapy and less favourably to psychotherapy and placebo than do non-melancholic patients." QuestionId="2651" />
+    <Question Question="2: SSRIs may be considered a first-line class of medication for" QuestionId="2652" />
+    <Question Question="3: In a patient with alcohol dependency, abstinence may itself lead to improvement in symptoms of depression." QuestionId="2653" />
+    <Question Question="4: Epilepsy is a contra-indication for ECT." QuestionId="2654" />
+    <Question Question="5: ……………………………… may be useful for patients who have specific SSRI side effects such as sexual dysfunction." QuestionId="2655" />
+    <Question Question="6: In general, optimal dosage is as close to maximum recommended doses as the patient can tolerate." QuestionId="2656" />
+    <Question Question="7: Approximately……….. of patients with major depression will not respond to initial treatment" QuestionId="2657" />
+    <Question Question="8: In patients not responding to treatment, augmentation was proven more effective than switching of medication." QuestionId="2658" />
+  </Article>
+  <Article Naam="Panic Disorder and Social Anxiety Disorder">
+    <Question Question="1: Panic attacks in panic disorder are always cued by exposure to stimuli previously associated with a panic attack." QuestionId="2659" />
+    <Question Question="2: Alcohol abuse" QuestionId="2660" />
+    <Question Question="3: Fluoxetine use in early pregnancy may be associated with a small increased risk for cardiovascular malformations." QuestionId="2661" />
+    <Question Question="4: In order to stop panic attacks the highest possible dosage of SSRIs should be given initially before it is tapered down." QuestionId="2662" />
+    <Question Question="5: In panic disorder and social anxiety disorder it is not unreasonable to continue medication for at least a year before gradual tapering. " QuestionId="2663" />
+    <Question Question="6: Response to SSRIs in panic disorders may take six to eight weeks." QuestionId="2664" />
+    <Question Question="7: High-potency benzodiazepines like…………. have also been shown to be efficacious in the treatment of panic disorder and social anxiety disorder." QuestionId="2665" />
+  </Article>
+  <Article Naam="Generalised Anxiety Disorder">
+    <Question Question="1: Psychotherapy approaches for GAD" QuestionId="2666" />
+    <Question Question="2: The presence of a comorbid personality disorder, however, predicts poorer treatment outcomes in GAD." QuestionId="2667" />
+    <Question Question="3: B-blockers are a good first-line drug choice for GAD." QuestionId="2668" />
+    <Question Question="4: When a patient has adverse effects from one SSRI it is not useful to switch to another SSRI." QuestionId="2669" />
+    <Question Question="5: When using a benzodiazepine in patients with liver dysfunction, those metabolised only by conjugation are preferred. Examples include: " QuestionId="2670" />
+    <Question Question="6: Pregnancy and lactation are absolute contra-indications for the use of benzodiazepines." QuestionId="2671" />
+    <Question Question="7: AD is characterised by chronic, uncontrollable and excessive worry, which is accompanied by a range of somatic symptoms." QuestionId="2672" />
+  </Article>
+  <Article Naam="Obsessive-Compulsive and Related Disorders">
+    <Question Question="1: OCD " QuestionId="2673" />
+    <Question Question="2: Regarding the treatment of OCD:" QuestionId="2674" />
+    <Question Question="3: Many patients with Tourette's disorder have comorbid OCD." QuestionId="2675" />
+    <Question Question="4: SSRIs have relatively few interactions with other medications." QuestionId="2676" />
+    <Question Question="5: In patients with comorbid tics, augmentation of a SRI with a dopamine blocker can be effective." QuestionId="2677" />
+    <Question Question="6: The principles of behaviour therapy suggest that patients should be hospitalised as early as possible for intensive therapy." QuestionId="2678" />
+  </Article>
+  <Article Naam="Posttraumatic Stress Disorder">
+    <Question Question="1: Debriefing sessions focussed on the traumatic event are an essential strategy to prevent PTSD." QuestionId="2679" />
+    <Question Question="2: Risk factors associated with the development of PTSD include:" QuestionId="2680" />
+    <Question Question="3: PTSD and substance abuse:" QuestionId="2681" />
+    <Question Question="4: Psycho-education regarding the SSRIs and SNRIs includes:" QuestionId="2682" />
+    <Question Question="5: In PTSD, benzodiazepines do not appear to be effective and they may in fact worsen the treatment outcome." QuestionId="2683" />
+    <Question Question="6: …………has/have been found to reduce insomnia, nightmares and other PTSD symptoms." QuestionId="2684" />
+  </Article>
+  <Article Naam="Insomnia Disorder">
+    <Question Question="1: Up to………. of patients with persistent insomnia do not respond to first-line pharmacological treatments" QuestionId="2685" />
+    <Question Question="2: Doses and the timing of doses may require some experimentation before an optimal regimen is established." QuestionId="2686" />
+    <Question Question="3: ………………..runs the risk of priapism in men." QuestionId="2687" />
+    <Question Question="4: Zopiclone has a shorter half-life than zolpidem. " QuestionId="2688" />
+    <Question Question="5: Zolpidem may be associated with daytime cognitive slowing and impairments in driving ability." QuestionId="2689" />
+    <Question Question="6: Benzodiazepines are relatively contra-indicated in patients with borderline personality disorder." QuestionId="2690" />
+    <Question Question="7: Insomnia is associated with the following medication:" QuestionId="2691" />
+  </Article>
+  <Article Naam="Schizophrenia">
+    <Question Question="1: Olanzapine should be discouraged as a first-line agent, due to the marked weight gain and metabolic complications associated with this drug." QuestionId="2692" />
+    <Question Question="2: Both typical and atypical antipsychotics are associated with the development of cardiometabolic risk factors." QuestionId="2693" />
+    <Question Question="3: The low-potency agents are associated with more extrapyramidal side effects, but with less postural hypotension and sedation." QuestionId="2694" />
+    <Question Question="4: Most patients who fail to respond to standard doses of typical antipsychotic medication do not respond even at very high doses." QuestionId="2695" />
+    <Question Question="5: Clozapine carries a risk of medical complications like" QuestionId="2696" />
+    <Question Question="6: Higher doses than usual may be needed in first-episode psychosis." QuestionId="2697" />
+    <Question Question="7: All patients receiving antipsychotic pharmacotherapy should receive regular metabolic monitoring." QuestionId="2698" />
+    <Question Question="8: Antipsychotics begin to have an effect almost immediately." QuestionId="2699" />
+  </Article>
+  <Article Naam="Bipolar Disorder">
+    <Question Question="1: In bipolar II disorder, there are depressive episodes and hypomanic episodes, but no manic episodes." QuestionId="2700" />
+    <Question Question="2: Second-generation antipsychotics are recommended as first-line agents and they appear to have superior efficacy and acceptability to mood stabilisers in acute mania." QuestionId="2701" />
+    <Question Question="3: Antidepressants prescribed in bipolar disorder should always be in combination with an antimanic agent." QuestionId="2702" />
+    <Question Question="4: “Drug holidays” are recommended every two years of treatment with mood stabilisers." QuestionId="2703" />
+    <Question Question="5: Lithium protects against manic but not against depressive episodes." QuestionId="2704" />
+    <Question Question="6: Patients with bipolar disorder who are intolerant of first-line medication cannot be switched to another first-line agent." QuestionId="2705" />
+    <Question Question="7: Antidepressants can be used as monotherapy when there is no history of a manic episode in the last six months." QuestionId="2706" />
+  </Article>
+  <Article Naam="Alzheimer’s Disease">
+    <Question Question="1: SSRIs" QuestionId="2707" />
+    <Question Question="2: No good quality data exist for the use of …………………………………….. in the treatment of AD." QuestionId="2708" />
+    <Question Question="3: An adequate trial period of cholinesterase inhibitor treatment is ……….. at a therapeutic dose. " QuestionId="2709" />
+    <Question Question="4: If a patient does not respond to one cholinesterase inhibitor, switching to another may be useful." QuestionId="2710" />
+    <Question Question="5: The cholinesterase inhibitors slow the rate of decline of cognitive function but do not improve activities of daily living. " QuestionId="2711" />
+    <Question Question="6: If galantamine was not taken for more than several days, it should be restarted at the lowest dose and titrated up to the current dose." QuestionId="2712" />
+    <Question Question="7: Atypical antipsychotics can be used for severe agitation, at the lowest effective dose, provided the expected benefits outweigh the risks" QuestionId="2713" />
+    <Question Question="8: Depression may result in the misdiagnosis of dementia." QuestionId="2714" />
+  </Article>
+  <Article Naam="Attention Deficit/Hyperactivity Disorder">
+    <Question Question="1: Children and adolescents with ADHD are at an increased risk of mood and anxiety disorders." QuestionId="2715" />
+    <Question Question="2: Comorbid tics are usually worsened by stimulant medication and should be avoided." QuestionId="2716" />
+    <Question Question="3: Methylphenidate is an effective and safe medication in the treatment of adult ADHD." QuestionId="2717" />
+    <Question Question="4: Drug holidays from stimulant medication during school vacations are compulsory for all primary school children." QuestionId="2718" />
+    <Question Question="5: Pharmacotherapy is as effective as behaviour therapy for core ADHD symptoms." QuestionId="2719" />
+    <Question Question="6: Atomoxetine has a similar onset of action than that of stimulants." QuestionId="2720" />
+    <Question Question="7: Alpha-2-adrenergic agonists are alternative first-line medication when stimulants are contra-indicated." QuestionId="2721" />
+  </Article>
+  <Article Naam="Drug Interactions">
+    <Question Question="1: Serum lithium levels are increased by:" QuestionId="2722" />
+    <Question Question="2: Protease inhibitors may increase the serum levels of benzodiazepines." QuestionId="2723" />
+    <Question Question="3: Clozapine should not be used with captopril." QuestionId="2724" />
+    <Question Question="4: MAOIs can be augmented with SSRIs when a sufficient antidepressant effect has not been reached within six weeks." QuestionId="2725" />
+    <Question Question="5: Cimetidine increases the absorption of many antipsychotics." QuestionId="2726" />
+    <Question Question="6: Benzodiazepines may enhance the sedative effects of antidepressants and antipsychotics." QuestionId="2727" />
+  </Article>
+</Module>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="MIMS3" Class="MimsDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=PKLWEBDB01\mssql2016std;Initial Catalog=MIMS3;Integrated Security=True;Enlist=False;Max Pool Size=10;Connect Timeout=100" SettingsObjectName="CPD.Data.Properties.Settings" SettingsPropertyName="MIMS3ConnectionString1" Provider="System.Data.SqlClient" />
+  <Function Name="dbo.[MIMS.DataContext.AuthoriseCPDIssue]" Method="MIMS_DataContext_AuthoriseCPDIssue">
+    <Parameter Name="CustomerId" Parameter="customerId" Type="System.Int32" DbType="Int" />
+    <Parameter Name="IssueId" Parameter="issueId" Type="System.Int32" DbType="Int" />
+    <ElementType Name="MIMS_DataContext_AuthoriseCPDIssueResult">
+      <Column Name="" Member="Column1" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.[MIMS.DataContext.CustomerInfo]" Method="MIMS_DataContext_CustomerInfo">
+    <Parameter Name="CustomerId" Parameter="customerId" Type="System.Int32" DbType="Int" />
+    <ElementType Name="MIMS_DataContext_CustomerInfoResult">
+      <Column Name="FullName" Type="System.String" DbType="NVarChar(101) NOT NULL" CanBeNull="false" />
+      <Column Name="EmailAddress" Type="System.String" DbType="NVarChar(80) NOT NULL" CanBeNull="false" />
+      <Column Name="CouncilNumber" Type="System.String" DbType="NVarChar(13) NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+</Database>

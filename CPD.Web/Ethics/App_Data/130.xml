@@ -1,0 +1,59 @@
+﻿<Module Naam="Cardiovascular conditions">
+  <Article Naam="Antihypertensives">
+    <Question Question="1: Antihypertensive drug therapy should, according to the South African hypertension guidelines, be prescribed for average diastolic blood pressure (DBP) of ≥100 mmHg or average systolic blood pressure (SBP) of ≥160 mmHg in patients without macrovascular target organ damage or other cardiovascular risk factors." QuestionId="3004" />
+    <Question Question="2: Alpha-blockers are recommended as first-line agents for uncomplicated hypertension." QuestionId="3005" />
+    <Question Question="3: Combination therapy using two first-line agents may be considered as initial treatment of hypertension if SBP is 20 mmHg above target or if DBP is 10 mmHg above target." QuestionId="3006" />
+    <Question Question="4: Concerning diuretic antihypertensive drugs:" QuestionId="3007" />
+    <Question Question="5: Concerning beta-blockers:" QuestionId="3003" />
+    <Question Question="6: Concerning calcium-channel blockers (CCBs):" QuestionId="3008" />
+  </Article>
+  <Article Naam="Cardiovascular risk in type 2 diabetes and new treatment options">
+    <Question Question="1: Type 2 diabetes mellitus is known to be associated with a significantly higher risk of cardiovascular disease than any other risk factor for accelerated atherosclerosis and arterial occlusion." QuestionId="3009" />
+    <Question Question="2: It is of particular benefit to combine a GLP-1 receptor agonist and a DPP4-inhibitor as they work on the same pathway" QuestionId="3010" />
+    <Question Question="3: The DPP4-inhibitors can be used in combination with other oral agents, but if used with sulphonylureas the risk of hypoglycaemia needs to be monitored carefully." QuestionId="3011" />
+    <Question Question="4: Statin therapy in patients with diabetes mellitus at moderate or high risk of CV-disease has been proven beyond doubt to have no benefit." QuestionId="3012" />
+    <Question Question="5: Administration of at least one antihypertensive medication at bedtime has been shown to reduce CV-events in patients with DM and hypertension." QuestionId="3013" />
+    <Question Question="6: Combination therapy is required in the majority of patients with DM and hypertension. At present, the recommendation is the use of an ACEI/ARB with a CCB, then the addition of a thiazide-like diuretic if required, followed by a loop diuretic, specifically spironolactone as fourth line. " QuestionId="3014" />
+  </Article>
+  <Article Naam="Common cardiac conditions in the elderly">
+    <Question Question="1: Elderly people have an increasing tendency to develop heart failure, particularly heart failure with preserved ejection fraction (HFpEF)." QuestionId="3015" />
+    <Question Question="2: Functional changes that occur in the aged heart include:" QuestionId="3016" />
+    <Question Question="3: Comorbidities such as atrial fibrillation, musculoskeletal frailty and dementia have little impact on heart-failure outcomes in the elderly" QuestionId="3017" />
+    <Question Question="4: Heart failure is a syndrome, so the underlying cause should be sought in order to be able to treat more effectively." QuestionId="3018" />
+    <Question Question="5: In patients with heart failure where an echocardiogram cannot be obtained, all patients should be treated as though they have a low ejection fraction." QuestionId="3019" />
+    <Question Question="6: Certain medications may cause dysrhythmias in the elderly. For example: " QuestionId="3020" />
+  </Article>
+  <Article Naam="Deep vein thrombosis">
+    <Question Question="1: Deep vein thrombosis prophylaxis may be mechanical or pharmacological. Pharmacological prophylaxis consists of unfractionated heparin (UH), low molecular weight heparin (LMWH), fondaparinux, oral direct selective thrombin inhibitors and factor Xa inhibitors." QuestionId="3021" />
+    <Question Question="2: The benefits of low molecular weight heparin over unfractionated heparin include:" QuestionId="3022" />
+    <Question Question="3: Dabigatran, an oral univalent direct thrombin inhibitor, requires laboratory monitoring due to its unpredictable anticoagulant effect." QuestionId="3023" />
+    <Question Question="4: The goal of deep vein thrombosis treatment is to prevent the extension of thrombus and pulmonary embolism in the short term, and to prevent recurrent thrombotic events and late complications (pulmonary hypertension and post-thrombotic syndrome) in the long term." QuestionId="3024" />
+    <Question Question="5: Monotherapy with heparin ab initio is insufficient due to the early prothrombotic tendency following heparin introduction, and warfarin must be used to initiate therapy." QuestionId="3025" />
+    <Question Question="6: The placement of a retrievable inferior vena caval (IVC) filter may be indicated when there are contra-indications to anticoagulation therapy or, more controversially, in patients with limited cardiopulmonary reserve at high risk of pulmonary embolism-related death." QuestionId="3026" />
+  </Article>
+  <Article Naam="Ischaemic heart disease - a sub-Saharan African perspective">
+    <Question Question="1: Build-up of atheromatous plaque in the major epicardial coronary arteries leads to progressive obstruction of blood flow, compromises oxygen supply to the myocardium, and may result in episodic demand (effort)-induced ischaemia." QuestionId="3027" />
+    <Question Question="2: Age is a strong independent risk factor for the development of atherosclerosis, therefore the prevalence of CIHD in the elderly is projected to increase" QuestionId="3028" />
+    <Question Question="3: The four cardinal features of ischaemic chest pain are:" QuestionId="3029" />
+    <Question Question="4: Ischaemic pain usually lasts between 60 and 90 minutes. Pain that is significantly shorter or much longer is not likely due to ischaemia." QuestionId="3030" />
+    <Question Question="5: Chest pain with only two cardinal features is considered as atypical chest pain and requires either a stress test to confirm ischaemia, or a diagnostic trial of therapy with anti-anginal medication." QuestionId="3031" />
+    <Question Question="6: All patients with an established diagnosis of CIHD should be prescribed a statin, regardless of their level of cholesterol, as this is considered secondary prevention." QuestionId="3032" />
+    <Question Question="7: Concerning anti-anginal therapy:" QuestionId="3033" />
+  </Article>
+  <Article Naam="Risk of cardiovascular disease in women">
+    <Question Question="1: Smoking cessation for 10 years and more decreases CVD morbidity and mortality to almost that of non-smokers." QuestionId="3034" />
+    <Question Question="2: Elevated LDL-c levels are more predictive of coronary risk in . . . " QuestionId="3035" />
+    <Question Question="3: After the sixth decade of life women have lower systolic blood pressure (SBP) levels than men." QuestionId="3036" />
+    <Question Question="4: Women with an increased duration of oral contraceptive use are at an increased risk of hypertension." QuestionId="3037" />
+    <Question Question="5: In women, a BMI &gt;30kg/m2 is associated with an increased risk of . . . " QuestionId="3038" />
+    <Question Question="6: Both HDL-c and TG levels have greater predictive potential in women than men." QuestionId="3039" />
+  </Article>
+  <Article Naam="Acute myocardial infarction, unstable angina and stable angina">
+    <Question Question="1: Which of the following are considered to be detrimental modifiable risk factors for ischaemic heart disease:" QuestionId="3040" />
+    <Question Question="2: Complete occlusion of epicardial vessels is usually associated with ST-segment elevation, transmural infarction and Q-waves, while partial occlusion is usually associated with subendocardial necrosis without ST-segment elevation, or Q-waves." QuestionId="3041" />
+    <Question Question="3: The modern definitive diagnosis of myocardial infarction requires a rise and fall of troponins combined with either clinical, ECG  or imaging evidence of ischaemia." QuestionId="3042" />
+    <Question Question="4: The main goals of therapy for STEMI are to:" QuestionId="3043" />
+    <Question Question="5: Concerning thrombolytic therapy in STEMI management, increased intracranial haemorrhage is more commonly observed with streptokinase compared to alteplase " QuestionId="3044" />
+    <Question Question="6: Which of the following are patterns of angina pectoris that are considered unstable:" QuestionId="3045" />
+  </Article>
+</Module>

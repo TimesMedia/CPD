@@ -1,0 +1,9 @@
+﻿<Module Naam="Medical Treatment and Consent...">
+  <Article Naam="Medical Treatment and Consent in Vulnerable Populations ">
+    <Question Question="1: Which of the following groups is not typically regarded as a vulnerable population?" QuestionId="2989" />
+    <Question Question="2: Which one of the following documents enshrines the principle of respect for human vulnerability and personal integrity as a bioethical value of universal concern?" QuestionId="2990" />
+    <Question Question="3: Which one of the following Acts directly guarantees individuals capable of understanding the right to participate in decisions affecting their health and treatment?" QuestionId="2991" />
+    <Question Question="4: Who can first be approached to give consent if a parent or guardian cannot be traced or if they are deceased in terms of the Children’s Act?" QuestionId="2992" />
+    <Question Question="5: When may it be lawful, in terms of the Mental Health Care Act, to admit an individual to a health-care establishment without the person’s consent?" QuestionId="2993" />
+  </Article>
+</Module>

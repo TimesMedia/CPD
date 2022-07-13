@@ -1,0 +1,77 @@
+﻿<Module Naam="Physical Medicine">
+  <Article Naam="Biologicals in rheumatology">
+    <Question Question="1: bDMARDs are not considered first-line drugs for treatment and are used after failure of conventional DMARD therapy." QuestionId="2577" />
+    <Question Question="2:  Failure of conventional therapy for rheumatoid arthritis is defined as a patient who has used at least three conventional DMARDs at therapeutic doses and still has a Simple Disease Activity Index (SDAI) of ………………" QuestionId="2578" />
+    <Question Question="3: Non-TNF inhibitors are more effective than TNF inhibitors." QuestionId="2579" />
+    <Question Question="4: Vaccinations …………………………….. ." QuestionId="2580" />
+    <Question Question="5: Use of a TNF inhibitor is contra-indicated if there is any history of demyelinating disease." QuestionId="2581" />
+    <Question Question="6: The TNF inhibitors are not recommended for use in patients with severe heart failure." QuestionId="2582" />
+    <Question Question="7: bDMARDs can only delay  the early stage of  damage of joints as seen on x-rays associated with loss of function and disability." QuestionId="2583" />
+  </Article>
+  <Article Naam="Chronic back pain – therapeutic options in breaking the pain cycle">
+    <Question Question="1: Anticonvulsant and anti-arrhythmic drugs are useful in the management of nociceptive pain." QuestionId="2584" />
+    <Question Question="2: Opioid medications are not useful in the management of chronic nociceptive pain." QuestionId="2585" />
+    <Question Question="3: Decompression of a nerve compressed by a protruded lumbar disc results in complete resolution of lumbar radiculopathy (sciatica)." QuestionId="2586" />
+    <Question Question="4: NSAIDs are useful drugs in the management of pain due to postherpetic peripheral neuropathy." QuestionId="2587" />
+    <Question Question="5: The following conditions are not associated with neuropathic pain:" QuestionId="2588" />
+    <Question Question="6: A characteristic feature of neuropathic pain is:" QuestionId="2589" />
+    <Question Question="7: A pain clinic consultation emphasises the usefulness of drug therapy and intervention by medical professionals." QuestionId="2590" />
+    <Question Question="8: Re-assessment of patients at the pain clinic should include the following:" QuestionId="2591" />
+  </Article>
+  <Article Naam="Hip and knee replacements: indications and new advances">
+    <Question Question="1: Osteoarthritis is an active repair process and not purely a degenerative or destructive one." QuestionId="2592" />
+    <Question Question="2: There is strong evidence to support the use of………………in treating osteoarthritis." QuestionId="2593" />
+    <Question Question="3: Total hip arthroplasty remains the gold-standard surgical treatment for a painful, degenerative hip joint poorly responsive to nonsurgical therapy." QuestionId="2594" />
+    <Question Question="4: There is strong evidence against arthroscopic lavage in symptomatic osteoarthritis." QuestionId="2595" />
+    <Question Question="5: Psoriatic arthritis is associated with ………………… . " QuestionId="2596" />
+    <Question Question="6: Glucosamine should be added to the treatment regimen when NSAIDS do not give adequate pain relief." QuestionId="2597" />
+    <Question Question="7: Unicompartmental arthroplasty should always be attempted before total condylar knee replacement." QuestionId="2598" />
+    <Question Question="8: Knee osteotomy can be considered in early joint degeneration and patients with isolated unicompartmental arthritis." QuestionId="2599" />
+  </Article>
+  <Article Naam="Osteoarthritis">
+    <Question Question="1: Currently, there is no proven disease-modifying anti-osteoarthritis drug available for medical treatment of osteoarthritis." QuestionId="2600" />
+    <Question Question="2: Exercise causes and worsens osteoarthritis and should be avoided by patients with severe disease. " QuestionId="2601" />
+    <Question Question="3: Synovectomy stops the progression of osteoarthritis in a joint for at least one year." QuestionId="2602" />
+    <Question Question="4: A combination of paracetamol with codeine is less toxic than NSAIDs." QuestionId="2603" />
+    <Question Question="5: ery is usually the last resort in patients with osteoarthritis and is reserved for those with severe disability." QuestionId="2604" />
+    <Question Question="6: The treatment principles for osteoarthritis depend on the underlying mechanism for joint failure." QuestionId="2605" />
+    <Question Question="7: The characteristic radiological features include ……………………… ." QuestionId="2606" />
+  </Article>
+  <Article Naam="Diagnosis and management of osteoporosis in postmenopausal women and older men">
+    <Question Question="1: Pharmacological interventions of glucocorticoid-induced osteoporosis in postmenopausal women may include ………………….. ." QuestionId="2607" />
+    <Question Question="2: Severe osteoporosis is defined as osteoporosis in the presence of three or more fragility fractures." QuestionId="2608" />
+    <Question Question="3: When treatment is discontinued after three years of zoledronic acid therapy, the beneficial effects on bone-mineral density persist for at least another three years." QuestionId="2609" />
+    <Question Question="4: Alendronate is the first-line treatment for at-risk patients in the majority of cases." QuestionId="2610" />
+    <Question Question="5: After three years a treatment review should be performed for ………………. ." QuestionId="2611" />
+    <Question Question="6: Women with a prior fragility fracture should be considered for treatment without the need for further risk assessment." QuestionId="2612" />
+  </Article>
+  <Article Naam="Rheumatoid arthritis – treating to target ">
+    <Question Question="1: Subcutaneous nodules are a feature of rheumatoid factor positive disease, occurring more commonly in smokers." QuestionId="2613" />
+    <Question Question="2: The RF test is ………………………. ." QuestionId="2614" />
+    <Question Question="3: NSAIDs have a joint-sparing effect on the underlying disease process of rheumatoid arthritis." QuestionId="2615" />
+    <Question Question="4: TNF inhibitors ........................................ ." QuestionId="2616" />
+    <Question Question="5: It is safe to prescribe leflunomide during pregnancy." QuestionId="2617" />
+    <Question Question="6: Features suggestive of early rheumatoid arthritis include:" QuestionId="2618" />
+    <Question Question="7: . Methotrexate can be used ............................ " QuestionId="2619" />
+  </Article>
+  <Article Naam="Acute muscle injuries">
+    <Question Question="1: A …………… is best at accurately diagnosing muscle injuries near the groin and muscle-tendon junction areas. " QuestionId="2620" />
+    <Question Question="2: After an acute muscle injury …………………………………… ." QuestionId="2621" />
+    <Question Question="3: Other physical activities aimed at maintaining cardiovascular fitness may be initiated before the muscle injury has healed." QuestionId="2622" />
+    <Question Question="4: The treatment of Myositis ossificans is purely conservative." QuestionId="2623" />
+    <Question Question="5: Compression is very important to improve healing time, decrease bleeding and swelling, and decrease the risk of scar tissue forming." QuestionId="2624" />
+    <Question Question="6: A palpable defect in the muscle if contracted is indicative of a grade 3 injury." QuestionId="2625" />
+    <Question Question="7: Glucocorticoids constitute a beneficial treatment for grade 2 and 3 muscle injuries." QuestionId="2626" />
+    <Question Question="8: A grade 3 tear is commonly seen at the muscle-tendon junction, as this is the weakest part of the muscle." QuestionId="2627" />
+  </Article>
+  <Article Naam="Diagnostic ultrasound in the assessment of musculoskeletal disorders">
+    <Question Question="1: Ultrasound is compatible with surgical hardware, implants and pacemakers.  " QuestionId="2628" />
+    <Question Question="2: The proximal biceps anchor can be evaluated with ultrasound" QuestionId="2629" />
+    <Question Question="3: Small erosions and inflammatory synovitis are the hallmark of rheumatoid arthritis. These erosions can be seen on ultrasound before they are visible on x-ray. " QuestionId="2630" />
+    <Question Question="4: Ultrasound is very sensitive in demonstrating small joint effusions. If no effusion is found, septic arthritis can be excluded.                                                                                          " QuestionId="2631" />
+    <Question Question="5: Ultrasound can demonstrate structural abnormalities of the median nerve such as swelling before functional impairment is present.    " QuestionId="2632" />
+    <Question Question="6: The calcifications of Myositis ossificans can only be seen on ultrasound once they are visible on x-ray." QuestionId="2633" />
+    <Question Question="7: The plantaris tendon which can be demonstrated on ultrasound, may simulate an intact Achilles tendon.   " QuestionId="2634" />
+    <Question Question="8: Ultrasound cannot exclude impingement of the deep branch of the radial nerve in the supinator tunnel." QuestionId="2635" />
+  </Article>
+</Module>

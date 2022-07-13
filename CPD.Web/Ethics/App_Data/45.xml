@@ -1,0 +1,18 @@
+﻿<Module Naam="DYSLIPIDAEMIA">
+  <Article Naam="Drugs for Dyslipidaemia ">
+    <Question Question="1: Major clinical consequences of dyslipidaemia include:" QuestionId="546" />
+    <Question Question="2: Omega-3 fatty acids have been shown to reduce sudden cardiac death in high-risk individuals." QuestionId="547" />
+    <Question Question="3: The drugs of choice in hypercholesterolaemic patients where cardiovascular risk reduction is the primary goal of therapy are……" QuestionId="548" />
+    <Question Question="4: Muscle toxicity  of statins is dose-related and is seen more frequently in ………" QuestionId="549" />
+    <Question Question="5: Gemfibrozil should not be prescribed in combination with statins." QuestionId="550" />
+    <Question Question="6: Cholestyramine is the drug of choice in patients with hypertriglyceridaemia." QuestionId="551" />
+  </Article>
+  <Article Naam="Significance of LDL-C Lowering Therapy in Diabetic Patients">
+    <Question Question="1: Patients with type 2 diabetes without prior myocardial infarction have  ……. risk of total coronary heart disease events as non-diabetic persons with prior MI. " QuestionId="552" />
+    <Question Question="2: Adequate control of hypertension or diabetic dyslipidaemia is as efficient as glycaemic control in reducing macrovascular complications." QuestionId="553" />
+    <Question Question="3: Individuals with type 1 diabetes have a………. relative risk of major vascular events than type 2 diabetics. " QuestionId="554" />
+    <Question Question="4: Statins have demonstrated …………..  reduction of cardiovascular events and mortality compared to other lipid-lowering drugs." QuestionId="555" />
+    <Question Question="5: Most guidelines recommend a LDL-C …….. target in primary prevention and ……… in secondary prevention in people with diabetes mellitus." QuestionId="556" />
+    <Question Question="6: Statins reduce the morbidity and mortality of CVD in both diabetic and non-diabetic patients." QuestionId="557" />
+  </Article>
+</Module>

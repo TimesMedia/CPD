@@ -1,0 +1,24 @@
+﻿<Module Naam="Parasitic infections">
+  <Article Naam="Malaria: diagnosis and treatment">
+    <Question Question="1: Halofantrine is associated with…" QuestionId="2445" />
+    <Question Question="2: Dosage adjustments for artemether-lumefantrine should be made for HIV+ patients using lopinavir/ritonavir or darunavir." QuestionId="2446" />
+    <Question Question="3: Rapid diagnostic tests …" QuestionId="2447" />
+    <Question Question="4: The presence of acidosis is a particularly accurate predictor of poor outcome in severe malaria." QuestionId="2448" />
+    <Question Question="5: Lumefantrine …" QuestionId="2449" />
+    <Question Question="6: The recommended treatment of malaria in pregnant women in the first trimester is …" QuestionId="2450" />
+  </Article>
+  <Article Naam="Schistosomiasis">
+    <Question Question="1: Schistosomiasis could be a risk factor for HIV transmission from men to women through the following mechanisms:" QuestionId="2451" />
+    <Question Question="2: Praziquantel …" QuestionId="2452" />
+    <Question Question="3: The presence of eggs in the urine after treatment is an indication of treatment failure and the need for another course of treatment." QuestionId="2453" />
+    <Question Question="4: Involvement of the CNS should be treated early if reasonably suspected, even if " QuestionId="2454" />
+    <Question Question="5: Regarding immunity to schistosomiasis, the following statements are true:" QuestionId="2455" />
+  </Article>
+  <Article Naam="Intestinal worms">
+    <Question Question="1: Concerning nematode worms:" QuestionId="2456" />
+    <Question Question="2: Pinworms" QuestionId="2457" />
+    <Question Question="3: Mark the true statements." QuestionId="2458" />
+    <Question Question="4: A 10 cm-long pinkish worm is found in a two-year-old child’s nappy. This is most likely:" QuestionId="2459" />
+    <Question Question="5: Löffler’s syndrome …" QuestionId="2460" />
+  </Article>
+</Module>

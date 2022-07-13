@@ -1,0 +1,49 @@
+﻿<Module Naam="Obstetrics">
+  <Article Naam="Antenatal screening">
+    <Question Question="1: Bacteriuria should be treated if the patient is symptomatic and if there are &gt; 100 000 colonies/ml on a midstream urine specimen" QuestionId="1853" />
+    <Question Question="2: Penicillin therapy 30 days before delivery is effective for . . . " QuestionId="1854" />
+    <Question Question="3: Vaccinations that should be given to non-immune women during pregnancy include . . . " QuestionId="1855" />
+    <Question Question="4: Risk factors for pre-eclampsia include . . . " QuestionId="1856" />
+    <Question Question="5: Most women with gestational diabetes will . . . " QuestionId="1857" />
+    <Question Question="6: Routine prenatal screening of thyroid function is recommended." QuestionId="1858" />
+    <Question Question="7: Concerning screening for neural tube defects:" QuestionId="1859" />
+  </Article>
+  <Article Naam="Early pregnancy loss">
+    <Question Question="1: The most important risk factors for early pregnancy loss are:" QuestionId="1860" />
+    <Question Question="2: There is a great risk for recurring chromosomal abnormality in the general population." QuestionId="1861" />
+    <Question Question="3: A single B-HCG assessment together with a single ultrasound examination is the gold standard in diagnostic evaluation of women with symptomatic pregnancies." QuestionId="1862" />
+    <Question Question="4: The following are true regarding ultrasound findings in early pregnancy:" QuestionId="1863" />
+    <Question Question="5: In cases where the B-HCG value is below the discriminatory level, pregnancy ultrasound can confirm the pregnancy." QuestionId="1864" />
+    <Question Question="6: Septic miscarriage carries a 15% mortality risk." QuestionId="1865" />
+    <Question Question="7: Surgical evacuation using suction curettage is a low-risk procedure." QuestionId="1866" />
+    <Question Question="8: Misoprostol used in combination with mifepristone is more effective than misoprostol alone in the medical treatment of women with EPL. " QuestionId="1867" />
+  </Article>
+  <Article Naam="Preterm labour">
+    <Question Question="1: Untreated asymptomatic bacteriuria is a risk factor for preterm labour." QuestionId="1868" />
+    <Question Question="2: Cervical cerclage . . . " QuestionId="1869" />
+    <Question Question="3: Multiple pregnancies are ……. times more likely to be preterm than singleton pregnancies." QuestionId="1870" />
+    <Question Question="4: An interpregnancy interval of ……….. has been associated with the greatest risk of preterm birth." QuestionId="1871" />
+    <Question Question="5: Magnesium sulphate administered to mothers delivering prematurely has shown to protect offspring against cerebral palsy." QuestionId="1872" />
+    <Question Question="6: …………… is the preferred antibiotic for preterm, premature rupture of membranes." QuestionId="1873" />
+    <Question Question="7: . Indomethacin should be used before …………weeks because of foetal ductus arteriosus closure risk " QuestionId="1874" />
+    <Question Question="8: The antenatal administration of steroids before …………..weeks is very effective for the prevention of complications in the neonate." QuestionId="1875" />
+  </Article>
+  <Article Naam="Drugs in pregnancy and lactation">
+    <Question Question="1: After a drug is given to a pregnant woman, the concentration of the drug is higher in cord arterial plasma than in cord venous plasma." QuestionId="1876" />
+    <Question Question="2: Fluoroquinolones are category A drugs." QuestionId="1877" />
+    <Question Question="3: ACE-inhibitors can cause intra-uterine growth retardation." QuestionId="1878" />
+    <Question Question="4: Drugs that may reach significantly greater concentrations in breast milk than in maternal plasma include: " QuestionId="1879" />
+    <Question Question="5: If indicated, digoxin can be given to mothers of full-term babies." QuestionId="1880" />
+    <Question Question="6: The use of selective serotonin inhibitors (SSRIs) may cause neonatal . . ." QuestionId="1881" />
+    <Question Question="7: Metoclopramide suppresses milk production." QuestionId="1882" />
+    <Question Question="8: Drugs with higher molecular weight, lower lipid solubility, or higher protein-binding are less likely to cross into breast milk." QuestionId="1883" />
+  </Article>
+  <Article Naam="Preventing thrombophilia-related complications of pregnancy">
+    <Question Question="1: …………….. is the most common inherited thrombophilia" QuestionId="1884" />
+    <Question Question="2: There is clear evidence that LMWH improves pregnancy outcome in women with inherited thrombophilia and a history of pregnancy loss." QuestionId="1885" />
+    <Question Question="3: All pregnant women should be screened for thrombophilia." QuestionId="1886" />
+    <Question Question="4: Thrombophilias are associated with an increased risk of pregnancy-related venous thrombo-embolism." QuestionId="1887" />
+    <Question Question="5: The elevated risk of VTE following delivery returns to baseline by the end of the ………….  postpartum week." QuestionId="1888" />
+    <Question Question="6: LMWH is the preferred anticoagulant for the prevention and treatment of VTE in pregnancy" QuestionId="1889" />
+  </Article>
+</Module>

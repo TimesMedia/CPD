@@ -1,0 +1,48 @@
+﻿<Module Naam="Respiratory tract infections">
+  <Article Naam="Lower respiratory tract infections in adults ">
+    <Question Question="1: Oral penicillin should be given 30 minutes before a meal, as food may reduce its absorption." QuestionId="2397" />
+    <Question Question="2: Amoxicillin treatment may result in a rash in cases of pharyngotonsillitis associated with Epstein-Barr infection." QuestionId="2398" />
+    <Question Question="3: Beta-lactam allergy:" QuestionId="2399" />
+    <Question Question="4: Therapy for seven to 10 days is recommended for AOM in the following groups:" QuestionId="2400" />
+    <Question Question="5: Macrolides are a recommended routine empiric antimicrobial therapy of S. pneumoniae infections." QuestionId="2401" />
+    <Question Question="6: The treatment options for AOM in adults are the same as for acute bacterial sinusitis." QuestionId="2402" />
+    <Question Question="7: Treatment of streptococcal pharyngotonsillitis:" QuestionId="2403" />
+  </Article>
+  <Article Naam="Upper respiratory tract infections ">
+    <Question Question="1: Children under three to five years of age are at a high risk for acute rheumatic fever." QuestionId="2404" />
+    <Question Question="2: There is evidence that intramuscular ……… prevents rheumatic fever." QuestionId="2405" />
+    <Question Question="3: There is increasing evidence that ………. of &lt;i&gt;H. influenzae&lt;/i&gt; isolates produce beta lactamase enzyme." QuestionId="2406" />
+    <Question Question="4: Antibiotics are recommended if AOM is diagnosed in the following patients:" QuestionId="2407" />
+    <Question Question="5: Due to resistance amongst pneumococci  ……… is/are not recommended for routine empiric antimicrobial therapy of S. pneumoniae infections. " QuestionId="2408" />
+    <Question Question="6: Acute bacterial sinusitis is generally caused by:" QuestionId="2409" />
+  </Article>
+  <Article Naam="Paediatric respiratory tract infections ">
+    <Question Question="1: For a child diagnosed with rhino-sinusitis: " QuestionId="2410" />
+    <Question Question="2: Mark the correct answers:" QuestionId="2411" />
+    <Question Question="3: Laryngo-tracheobronchitis:" QuestionId="2412" />
+    <Question Question="4: A one-year-old boy was diagnosed with bronchiolitis 10 day ago. He was treated conservatively. His mother now brings him back with the complaint that he is still coughing. He is otherwise well. The recommended action is:" QuestionId="2413" />
+    <Question Question="5: Mark the correct answers" QuestionId="2414" />
+  </Article>
+  <Article Naam="Influenza: prevention, treatment and vaccine indications">
+    <Question Question="1: You are seeing a mother with a seven-year-old child and the mother tells you that she has never bothered with the influenza vaccine before and now wants to find out more about vaccination for her child. What can you tell her?" QuestionId="2415" />
+    <Question Question="2: The following statements about influenza in pregnancy are true:" QuestionId="2416" />
+    <Question Question="3: Which of these statements about influenza antiviral treatment are true?" QuestionId="2417" />
+    <Question Question="4: The nurse at the clinic wants to know for which individuals she should recommend the influenza vaccine. From the list below, indicate which of these individuals are suitable:" QuestionId="2418" />
+    <Question Question="5: Which statement/s is/are true concerning influenza antiviral medication?" QuestionId="2419" />
+  </Article>
+  <Article Naam="HIV-associated tuberculosis: diagnosis and management">
+    <Question Question="1: Xpert MTB:" QuestionId="2420" />
+    <Question Question="2: Mark the true statements." QuestionId="2421" />
+    <Question Question="3: Mark the true statements." QuestionId="2422" />
+    <Question Question="4: The recommended first-line ART regimens for use with tuberculosis treatment are:" QuestionId="2423" />
+    <Question Question="5: Immune reconstitution inflammatory syndrome:" QuestionId="2424" />
+  </Article>
+  <Article Naam="Tuberculosis in adults">
+    <Question Question="1: The following statements are true:" QuestionId="2425" />
+    <Question Question="2: Rifampicin …" QuestionId="2426" />
+    <Question Question="3: TB treatment is widely used during pregnancy except for………………. which can cross the placenta and cause foetal ototoxicity. " QuestionId="2427" />
+    <Question Question="4: For the first  ……..months of ………..chemotherapeutic agents followed by the continuation phase of treatment which is  ………..drugs for …………. months for PTB." QuestionId="2428" />
+    <Question Question="5: Multi-drug resistant TB is defined as in vitro resistance to… " QuestionId="2429" />
+    <Question Question="6: TB-IRIS: " QuestionId="2430" />
+  </Article>
+</Module>

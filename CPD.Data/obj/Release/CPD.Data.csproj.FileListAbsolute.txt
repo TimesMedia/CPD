@@ -1,0 +1,33 @@
+C:\CSharp\MimsCPD - Copy\CPD.Data\bin\Release\CPD.Data.dll.config
+C:\CSharp\MimsCPD - Copy\CPD.Data\bin\Release\CPD.Data.dll
+C:\CSharp\MimsCPD - Copy\CPD.Data\bin\Release\CPD.Data.pdb
+C:\CSharp\MimsCPD - Copy\CPD.Data\bin\Release\Microsoft.CSharp.dll
+C:\CSharp\MimsCPD - Copy\CPD.Data\bin\Release\System.Data.DataSetExtensions.dll
+C:\CSharp\MimsCPD - Copy\CPD.Data\bin\Release\System.Data.dll
+C:\CSharp\MimsCPD - Copy\CPD.Data\bin\Release\System.dll
+C:\CSharp\MimsCPD - Copy\CPD.Data\bin\Release\System.Runtime.Serialization.dll
+C:\CSharp\MimsCPD - Copy\CPD.Data\bin\Release\System.Windows.Forms.dll
+C:\CSharp\MimsCPD - Copy\CPD.Data\bin\Release\System.Xml.dll
+C:\CSharp\MimsCPD - Copy\CPD.Data\bin\Release\System.Xml.Linq.dll
+C:\CSharp\MimsCPD - Copy\CPD.Data\obj\Release\CPD.Data.csprojAssemblyReference.cache
+C:\CSharp\MimsCPD - Copy\CPD.Data\obj\Release\CPD.Data.g.resources
+C:\CSharp\MimsCPD - Copy\CPD.Data\obj\Release\CPD.Data.csproj.CoreCompileInputs.cache
+C:\CSharp\MimsCPD - Copy\CPD.Data\obj\Release\CPD.Data.csproj.CopyComplete
+C:\CSharp\MimsCPD - Copy\CPD.Data\obj\Release\CPD.Data.dll
+C:\CSharp\MimsCPD - Copy\CPD.Data\obj\Release\CPD.Data.pdb
+C:\CSharp\MimsCPD\CPD.Data\bin\Release\CPD.Data.dll.config
+C:\CSharp\MimsCPD\CPD.Data\bin\Release\CPD.Data.dll
+C:\CSharp\MimsCPD\CPD.Data\bin\Release\CPD.Data.pdb
+C:\CSharp\MimsCPD\CPD.Data\bin\Release\Microsoft.CSharp.dll
+C:\CSharp\MimsCPD\CPD.Data\bin\Release\System.Data.DataSetExtensions.dll
+C:\CSharp\MimsCPD\CPD.Data\bin\Release\System.Data.dll
+C:\CSharp\MimsCPD\CPD.Data\bin\Release\System.dll
+C:\CSharp\MimsCPD\CPD.Data\bin\Release\System.Runtime.Serialization.dll
+C:\CSharp\MimsCPD\CPD.Data\bin\Release\System.Windows.Forms.dll
+C:\CSharp\MimsCPD\CPD.Data\bin\Release\System.Xml.dll
+C:\CSharp\MimsCPD\CPD.Data\bin\Release\System.Xml.Linq.dll
+C:\CSharp\MimsCPD\CPD.Data\obj\Release\CPD.Data.g.resources
+C:\CSharp\MimsCPD\CPD.Data\obj\Release\CPD.Data.csproj.CoreCompileInputs.cache
+C:\CSharp\MimsCPD\CPD.Data\obj\Release\CPD.Data.csproj.CopyComplete
+C:\CSharp\MimsCPD\CPD.Data\obj\Release\CPD.Data.dll
+C:\CSharp\MimsCPD\CPD.Data\obj\Release\CPD.Data.pdb

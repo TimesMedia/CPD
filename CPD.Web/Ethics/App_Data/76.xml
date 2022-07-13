@@ -1,0 +1,27 @@
+﻿<Module Naam="Hormone therapy">
+  <Article Naam="Oral contraception">
+    <Question Question="1: Escapelle® 1.50 mg can be taken as an emergency contraceptive up to four days after unprotected intercourse." QuestionId="1890" />
+    <Question Question="2: Obese women should stop oral contraceptives after the age of 30." QuestionId="1891" />
+    <Question Question="3: The use of oral contraceptives for five years or more has been associated with a decrease in the risk of ovarian cancer by 40%." QuestionId="1892" />
+    <Question Question="4: Compared to pills containing third-generation progestogens, pills with an oestrogen content of less than 50 μg, have a much higher incidence of thrombo-embolism. " QuestionId="1893" />
+    <Question Question="5: Progestational side effects include . . . " QuestionId="1894" />
+  </Article>
+  <Article Naam="Intra-uterine contraceptive devices">
+    <Question Question="1: Intra-uterine contraceptive devices . . . " QuestionId="1895" />
+    <Question Question="2: Nulliparous women at low risk of sexually transmitted infections can safely use IUDs." QuestionId="1896" />
+    <Question Question="3: LNG-IUD decreases the risk of pelvic inflammatory disease in the same way as other progestin-containing contraceptives." QuestionId="1897" />
+    <Question Question="4: Copper IUDs can also be used for emergency contraception if inserted within 120 hours of unprotected intercourse." QuestionId="1898" />
+    <Question Question="5: If inserted after the age of 40, the IUD should be removed with the first menopausal symptoms." QuestionId="1899" />
+    <Question Question="6: The copper IUD is an abortifacient, and does not prevent fertilisation." QuestionId="1900" />
+    <Question Question="7: Both the copper IUD and LNG-IUD are approved for up to10 years of use." QuestionId="1901" />
+  </Article>
+  <Article Naam="Hormone therapy in peri-and post-menopausal women">
+    <Question Question="1: The positive effects of oestrogen treatment on bone health are only achieved with high dosages. " QuestionId="1902" />
+    <Question Question="2: Menopause . . . " QuestionId="1903" />
+    <Question Question="3: Hormone therapy is contra-indicated in women with . . . ." QuestionId="1904" />
+    <Question Question="4: A woman who has stopped oestrogen therapy 6 months ago is at increased risk of false positive mammography." QuestionId="1905" />
+    <Question Question="5: Oestrogen-only therapy in a woman who has had a hysterectomy, should not be continued for more than 2 years." QuestionId="1906" />
+    <Question Question="6: Cyclical combination therapy will cause monthly withdrawal bleeding in ……. of users." QuestionId="1907" />
+    <Question Question="7: All forms of systemic estuarial doses are determined by the patient’s serum oestradiol, FSH or LH levels." QuestionId="1908" />
+  </Article>
+</Module>

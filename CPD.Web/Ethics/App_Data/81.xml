@@ -1,0 +1,21 @@
+﻿<Module Naam="Urinary system">
+  <Article Naam="Urinary retention in women">
+    <Question Question="1: Urinary retention is often the presenting symptom of urethral cancer." QuestionId="1967" />
+    <Question Question="2: Postpartum urinary retention usually resolves only partly." QuestionId="1968" />
+    <Question Question="3: …………………… may be used in the treatment of urethral stenosis in postmenopausal women." QuestionId="1969" />
+    <Question Question="4: All women who present with urinary retention should be examined via cystoscopy." QuestionId="1970" />
+    <Question Question="5: Cauda equina syndrome can present with urinary retention." QuestionId="1971" />
+    <Question Question="6: Herpes simplex virus type 2 may cause sacral radiculopathy that results in urinary retention." QuestionId="1972" />
+    <Question Question="7: Women with urinary retention after anti-incontinence surgery are usually treated with clean intermittent self-catheterisation for up to …….. weeks." QuestionId="1973" />
+  </Article>
+  <Article Naam="Urinary incontinence in women">
+    <Question Question="1: Kegel exercises treat both stress- and urge incontinence." QuestionId="1974" />
+    <Question Question="2: ………………….. is a contra-indication in using anticholinergics." QuestionId="1975" />
+    <Question Question="3: Surgery is reserved for incontinence that does not respond to less invasive treatments." QuestionId="1976" />
+    <Question Question="4: Oxybutynin has a low rate of anticholinergic adverse effects." QuestionId="1977" />
+    <Question Question="5: Systemic oestrogen may exacerbate incontinence." QuestionId="1978" />
+    <Question Question="6: Weighted intravaginal cones for pelvic exercise result in higher rates of long-term improvement or cure than the exercises alone. " QuestionId="1979" />
+    <Question Question="7: The antidepressant duloxetine has been shown to reduce stress incontinence." QuestionId="1980" />
+    <Question Question="8: Scheduled voiding is an effective treatment strategy for urge incontinence." QuestionId="1981" />
+  </Article>
+</Module>

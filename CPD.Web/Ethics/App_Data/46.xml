@@ -1,0 +1,26 @@
+﻿<Module Naam="END-ORGAN INVOLVEMENT">
+  <Article Naam="Dilated Cardiomyopathy and Heart Failure">
+    <Question Question="1: To use a &quot;beta-blocker-first&quot; strategy when treating heart failure is safe and potentially beneficial." QuestionId="558" />
+    <Question Question="2: The main role of digoxin in heart failure is to control heart rate and it should be used for the majority of patients with chronic heart failure." QuestionId="559" />
+    <Question Question="3: All patients with heart failure due to left ventricular dysfunction should be treated with both an ACE-inhibitor and a beta-blocker, unless there are contra-indications." QuestionId="560" />
+    <Question Question="4: Fluid restriction to…….. oral intake is advised in advanced heart failure. " QuestionId="561" />
+    <Question Question="5: In patients who did not have a recent MI, aldosterone antagonists are indicated for heart failure NYHA level….." QuestionId="562" />
+  </Article>
+  <Article Naam="Acute Management of Stroke  ">
+    <Question Question="1: After a stroke, the blood pressure should be treated aggressively and be normalised within the first six hours." QuestionId="563" />
+    <Question Question="2: ..............   of the strokes occurring after a TIA, occur within 48 hours." QuestionId="564" />
+    <Question Question="3: Patients presenting with Glasgow Coma Scale scores of ..........  or less require emergent airway control via rapid sequence intubation." QuestionId="565" />
+    <Question Question="4: Severe ................. appears to be independently associated with poor outcome and reduced reperfusion in thrombolysis." QuestionId="566" />
+    <Question Question="5: ..................... blood pressure is/are associated with poor outcomes in patients with acute stroke." QuestionId="567" />
+    <Question Question="6: Normoglycaemic patients should not be given excessive glucose-containing IV fluids." QuestionId="568" />
+  </Article>
+  <Article Naam="Chronic Kidney Disease">
+    <Question Question="1: Common symptoms and signs of chronic kidney disease may include:" QuestionId="569" />
+    <Question Question="2: ACE-inhibitors and ARBs have been shown to offer renoprotection." QuestionId="570" />
+    <Question Question="3: Adequate glycaemic control ………. the progression of diabetic renal disease. " QuestionId="571" />
+    <Question Question="4: In patients with type 2 diabetes mellitus, metformin should be stopped and other medications used for glycaemic control to avoid the risk of lactic acidosis." QuestionId="572" />
+    <Question Question="5: Immunosuppressive drugs are of great value in patients with stage 4 chronic kidney disease. " QuestionId="573" />
+    <Question Question="6: Timing of referral of patients with chronic kidney disease to a nephrology service affects their outcomes" QuestionId="574" />
+    <Question Question="7: Adequate glycaemic control can reduce the progression of diabetic renal disease." QuestionId="575" />
+  </Article>
+</Module>

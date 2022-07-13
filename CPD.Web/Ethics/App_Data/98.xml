@@ -1,0 +1,40 @@
+﻿<Module Naam="Prevention of Infections">
+  <Article Naam="Animal bites">
+    <Question Question="1: …………..are more likely to become infected." QuestionId="2297" />
+    <Question Question="2: &lt;i&gt;Capnocytophaga canimorsus&lt;/i&gt; infections can successfully be treated with………… . " QuestionId="2298" />
+    <Question Question="3: If a cat-bite wound presents less than four hours after the incident it can be sutured unless it is a hand wound." QuestionId="2299" />
+    <Question Question="4: Good choices of antibiotic prophylaxis are the combination of …" QuestionId="2300" />
+    <Question Question="5: If the wound is minor, and primary tetanus immunisation has been completed, a booster dose of toxoid should be given …" QuestionId="2301" />
+    <Question Question="6: Choose the true statements." QuestionId="2302" />
+  </Article>
+  <Article Naam="Immunisations – new vaccines, schedules, catch-ups and contra-indications">
+    <Question Question="1: The following statements regarding the intervals between the doses of vaccines and immunoglobulins are true:" QuestionId="2303" />
+    <Question Question="2: Mark the true statements." QuestionId="2304" />
+    <Question Question="3: Herpes zoster:" QuestionId="2305" />
+    <Question Question="4: Immunity to the following antigens wanes with time:" QuestionId="2306" />
+    <Question Question="5: Human papillomavirus (HPV) vaccines:" QuestionId="2307" />
+  </Article>
+  <Article Naam="Secondary and tertiary prevention in the control of communicable diseases">
+    <Question Question="1: Meningococcal disease" QuestionId="2308" />
+    <Question Question="2: &lt;i&gt;Haemophilus influenzae&lt;/i&gt; serotype B" QuestionId="2309" />
+    <Question Question="3: Hepatitis B" QuestionId="2310" />
+    <Question Question="4: Hand hygiene with liquid soap and water, or with an alcohol-based hand rub, are indicated in the following situations:" QuestionId="2311" />
+    <Question Question="5: Measles" QuestionId="2312" />
+  </Article>
+  <Article Naam="Rabies: prevention and management">
+    <Question Question="1: Rabies in animal species is described only in the eastern provinces of South Africa." QuestionId="2313" />
+    <Question Question="2: The incubation period for rabies virus is…………. days." QuestionId="2314" />
+    <Question Question="3: Which statements are true?" QuestionId="2315" />
+    <Question Question="4: The vaccines for rabies are delivered intramuscularly but the immunoglobulin must preferably be infiltrated in the wound." QuestionId="2316" />
+    <Question Question="5: Specimens from patients who received rabies vaccination or immunoglobulin may test negative by PCR." QuestionId="2317" />
+    <Question Question="6: The following statements regarding the transmission of rabies are true:" QuestionId="2318" />
+  </Article>
+  <Article Naam="Travel medicine">
+    <Question Question="1: Yellow fever vaccine is contra-indicated in … " QuestionId="2319" />
+    <Question Question="2: Hepatitis A vaccine given the day before a traveller leaves will provide adequate protection. " QuestionId="2320" />
+    <Question Question="3: Citronella-based products need to be re-applied every 40 to 90 minutes to maintain efficacy." QuestionId="2321" />
+    <Question Question="4: Mefloquine may be associated with an increased risk of …" QuestionId="2322" />
+    <Question Question="5: Chemoprophylaxis for malaria:" QuestionId="2323" />
+    <Question Question="6: Due to the inefficacy of polysaccharide vaccine Typhim Vi to prevent typhoid infection, it is better in the majority of cases not to give it, thereby giving a false sense of security." QuestionId="2324" />
+  </Article>
+</Module>

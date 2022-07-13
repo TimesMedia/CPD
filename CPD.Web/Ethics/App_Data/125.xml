@@ -1,0 +1,9 @@
+﻿<Module Naam="Understanding Informed Consent in Health Care in South Africa">
+  <Article Naam="Understanding Informed Consent in Health Care in South Africa">
+    <Question Question="1: Informed consent means:" QuestionId="2978" />
+    <Question Question="2: Patient may give consent in the following ways" QuestionId="2999" />
+    <Question Question="3: It is preferable for  informed consent to be in writing if the risk of the procedure is great" QuestionId="3000" />
+    <Question Question="4: If the patient is not in a condition to give informed concent..." QuestionId="3001" />
+    <Question Question="5: Before informed consent can be given" QuestionId="3002" />
+  </Article>
+</Module>

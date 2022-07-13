@@ -1,0 +1,26 @@
+﻿<Module Naam="BASIC APPROACH TO PAIN">
+  <Article Naam="Basic Physiology of Pain">
+    <Question Question="1: Opioids exert their effects primarily in the ................." QuestionId="24" />
+    <Question Question="2: Drugs that are typical antihyperalgesics, but not analgesic include .........................." QuestionId="21" />
+    <Question Question="3: The pathways ending on serotonergic receptors serve to ..................... dorsal horn neurone activity." QuestionId="25" />
+    <Question Question="4: Release of  mediators at the site of nerve injury  produces spontaneous sensations such as  paraesthesias, commonly associated with peripheral neuropathy." QuestionId="23" />
+    <Question Question="5: The intensity of the input of the nociceptive primary afferent fibres is continued to the central nervous system." QuestionId="20" />
+    <Question Question="6: Reduced thresholds for nociceptor activation after the sensitisation of nociceptors through inflammation are .............." QuestionId="22" />
+  </Article>
+  <Article Naam="Acute Nociceptive Pain">
+    <Question Question="1: No neurotoxicity has been shown at normal clinical intrathecal doses of ...................... " QuestionId="43" />
+    <Question Question="2: The inflammatory response causes peripheral and central sensitisation and is at its peak on day ............... post insult." QuestionId="38" />
+    <Question Question="3: Tramadol is an effective treatment in neuropathic pain but has a higher risk of respiratory depression." QuestionId="41" />
+    <Question Question="4: There is ......... inter-patient variation regarding effective dose and side effects and the incidence of adverse effects of opioids." QuestionId="40" />
+    <Question Question="5: COX-2 inhibitors' adverse effects on the kidney are.................. compared to NSAIDs." QuestionId="42" />
+    <Question Question="6: Pain limits may increase the risk of atelectasis and pulmonary infection." QuestionId="39" />
+  </Article>
+  <Article Naam="Chronic Non-Malignant Pain">
+    <Question Question="1: Addiction is a neurobiological, multifactorial disease characterised by impaired control, compulsive drug use, and continued use despite harm. " QuestionId="12" />
+    <Question Question="2: Tolerance to constipation and nausea caused by opioids usually develops within 10 days." QuestionId="29" />
+    <Question Question="3: There is an apparent correlation between chronic low back pain and psychiatric diagnosis. " QuestionId="28" />
+    <Question Question="4: Tricyclic anti-depressants' pain-relieving properties are linked to the antidepressant effect of the medication." QuestionId="27" />
+    <Question Question="5: The use of more than one pain medication should be avoided until the maximum dosage of the initial drug has been reached." QuestionId="26" />
+    <Question Question="6: The goal of chronic pain medication is to eliminate pain for most of the day." QuestionId="13" />
+  </Article>
+</Module>

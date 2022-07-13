@@ -1,0 +1,28 @@
+﻿<Module Naam="Endocrine system">
+  <Article Naam="Metformin: when and why?">
+    <Question Question="1: When used as monotherapy, metformin lowers fasting blood glucose concentrations by……… and HbA1C by ……….." QuestionId="1922" />
+    <Question Question="2: Metformin . . . " QuestionId="1923" />
+    <Question Question="3: Metformin is the only oral hypoglycaemic that reduces macrovascular complications and death in type II diabetes." QuestionId="1924" />
+    <Question Question="4: If metformin treatment does not give adequate blood glucose control it should be stopped." QuestionId="1925" />
+    <Question Question="5: Common side effects of metformin include:" QuestionId="1926" />
+    <Question Question="6: Metformin is recommended for diabetes prevention in individuals at highest risk for developing diabetes." QuestionId="1927" />
+    <Question Question="7: Metformin is effective in improving ovulation and restoring cyclic menses in approximately  ……….of patients with PCOS." QuestionId="1928" />
+    <Question Question="8: In patients with gestational diabetes in whom diet therapy alone is not sufficient, …………….. is the therapy of choice." QuestionId="1929" />
+  </Article>
+  <Article Naam="Osteoporosis">
+    <Question Question="1: The mortality rate for hip fracture is highest in  . . . " QuestionId="1930" />
+    <Question Question="2: A clinical risk factor for fractures is previous fragility fracture." QuestionId="1931" />
+    <Question Question="3: The FRAX model is the gold standard for the intervention threshold of osteoporosis." QuestionId="1932" />
+    <Question Question="4: The one-year compliance of anti-resorptive oral drugs is …....... . " QuestionId="1933" />
+    <Question Question="5: ……………. increases the risk of VTE?" QuestionId="1934" />
+    <Question Question="6: DEXA gives the clinician information about bone micro-architecture." QuestionId="1935" />
+  </Article>
+  <Article Naam="Management of obesity: office-based strategies">
+    <Question Question="1: Among persons 20 years and older, a BMI of …………. kg per m2 is defined as normal." QuestionId="1982" />
+    <Question Question="2: Sibutramine and orlistat are the only two medications with significant evidence for the long-term treatment of obesity." QuestionId="1983" />
+    <Question Question="3: In general, bariatric surgery is an option for adults who have a BMI of ………… kg per m2 or higher." QuestionId="1984" />
+    <Question Question="4: Valproic acid may cause weight gain." QuestionId="1985" />
+    <Question Question="5: Children and adolescents who consistently eat breakfast are less likely to be overweight." QuestionId="1986" />
+    <Question Question="6: Metformin is associated with weight gain." QuestionId="1987" />
+  </Article>
+</Module>

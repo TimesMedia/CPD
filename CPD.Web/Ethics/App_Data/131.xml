@@ -1,0 +1,34 @@
+﻿<Module Naam="Endocrine conditions">
+  <Article Naam="Initiating and titrating basal insulin treatment in patients with type 2 diabetes">
+    <Question Question="1: The Society for Endocrinology, Metabolism and Diabetes for South Africa recommends a target of &lt;7 % for HbA1c for the majority of patients, a fasting glucose of 4-7 mmol/L and a postprandial glucose of 5-10 mmol/L." QuestionId="3046" />
+    <Question Question="2: The HbA1c target for elderly and frail patients has to be less stringent, to reduce the complications of hypoglycaemia. It is therefore important to take into account the individual patient’s age, complications, comorbidities and risk of hypoglycaemia when deciding about the target that should be aimed for." QuestionId="3047" />
+    <Question Question="3: Early introduction of basal insulin is effective at keeping glucose levels within the target range with doses of &lt;0.4 U/kg/day, resulting in an increased risk of hypoglycaemia and excessive weight gain." QuestionId="3048" />
+    <Question Question="4: Failure to start basal insulin may be due to several factors, including:" QuestionId="3049" />
+    <Question Question="5: In insulin-naïve patients, psychological insulin resistance is common, and contributes to long delays in initiating insulin and extensive periods of hyperglycaemia." QuestionId="3050" />
+    <Question Question="6: When the decision is made to initiate insulin therapy, it is advised to first target fasting glycaemia, as it contributes the most to HbA1c. This can be achieved by adding a basal insulin or insulin analogue to metformin, with or without the continuation of a sulphonylurea." QuestionId="3051" />
+  </Article>
+  <Article Naam="Erectile dysfunction in men over 65">
+    <Question Question="1: Erectile dysfunction has repeatedly been shown to be an independent marker for serious cardiovascular risk or diabetes mellitus." QuestionId="3052" />
+    <Question Question="2: Physiological reasons why a man cannot achieve an erection may include: " QuestionId="3053" />
+    <Question Question="3: PDE-5 inhibitors are often ineffective in men who have very low testosterone levels." QuestionId="3054" />
+    <Question Question="4: Older men with ED frequently suffer from lower urinary tract symptoms. Daily tadalafil has been demonstrated to be a safe and effective treatment for both of these conditions and can be considered as first-line treatment when these conditions occur simultaneously." QuestionId="3055" />
+    <Question Question="5: Which of the following ED treatment options are currently commercially available in SA:" QuestionId="3056" />
+    <Question Question="6: Vacuum erection devices are contra-indicated in men who use anticoagulant therapy or have bleeding disorders" QuestionId="3057" />
+  </Article>
+  <Article Naam="Hormone therapy in peri- and postmenopausal women">
+    <Question Question="1: Oestrogen therapy alone is prescribed to hysterectomised women, while combination oestrogen progestin therapy (EPT) is prescribed to women with intact uteri." QuestionId="3058" />
+    <Question Question="2: Oestrogen-only preparations cause endometrial hyperplasia when used in women with intact uteri, and the longer the duration of unopposed oestrogen in these women, the higher the risk of their developing endometrial cancer." QuestionId="3059" />
+    <Question Question="3: Hormone therapy is contra-indicated in:" QuestionId="3060" />
+    <Question Question="4: Hormone therapy is recommended as primary prevention of coronary heart disease." QuestionId="3061" />
+    <Question Question="5: Transdermal oestrogen is associated with a higher venous thrombo-embolism risk." QuestionId="3062" />
+    <Question Question="6: Hormone therapy does not cause weight gain and has little effect on blood pressure.  " QuestionId="3063" />
+  </Article>
+  <Article Naam="Management of type 2 diabetes in the elderly">
+    <Question Question="1: The classic symptoms of diabetes are not always present in elderly patients with diabetes, and patients may present with non-specific symptoms such as fatigue, confusion, dehydration, weight loss or incontinence." QuestionId="3064" />
+    <Question Question="2: Elderly patients with diabetes are at higher risk than other older adults for several geriatric syndromes, which can be a major obstacle in the treatment and care of diabetic people." QuestionId="3065" />
+    <Question Question="3: Elderly patients are more vulnerable to hypoglycaemia, due to impaired counter-regulatory mechanisms. Avoidance of hypoglycaemia is therefore an important consideration when deciding on treatment goals and choosing hypoglycaemic agents for the elderly." QuestionId="3066" />
+    <Question Question="4: Concerning pharmacological agents in the treatment of older adults with T2DM:" QuestionId="3067" />
+    <Question Question="5: Metformin is contra-indicated in patients with renal insufficiency." QuestionId="3068" />
+    <Question Question="6: Hypoglycaemia is common with glucagon-like peptide 1 receptor agonists (GLP 1 RAs) used as monotherapy, but may be less problematic if combined with sulphonylurea treatment." QuestionId="3069" />
+  </Article>
+</Module>

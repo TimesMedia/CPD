@@ -1,0 +1,107 @@
+﻿<Module Naam="ANAESTHESIA &amp; CRITICAL CARE">
+  <Article Naam="Vascular Access - Ways to Bring Line-Infection Rates to Zero">
+    <Question Question="1: The mortality rate associated with CR-BSI is 20%." QuestionId="2848" />
+    <Question Question="2: Which of the following describes the clinical standard for skin disinfection prior to vascular access?" QuestionId="2849" />
+    <Question Question="3: Bacterial biofilms have demonstrated greater adherence to polyethylene catheters than to polyurethane catheters." QuestionId="2850" />
+    <Question Question="4: The subclavian vein is the preferred insertion site for non-tunnelled catheters in adults." QuestionId="2851" />
+    <Question Question="5: The routine culture of CVC catheter tips is recommended because coagulase-negative staphylococci (&lt;i&gt;Staph. epidermidis&lt;/i&gt;) are the most commonly isolated pathogens on blood culture." QuestionId="2852" />
+    <Question Question="6: Maximal sterile barrier precautions for CVC insertion require:" QuestionId="2853" />
+    <Question Question="7: Shaving is the most effective method for local hair removal at the intravascular catheter- insertion site." QuestionId="2854" />
+    <Question Question="8: The topical use of mupirocin (Bactroban™) at the intravascular insertion site is recommended to prevent CR-BSI." QuestionId="2855" />
+  </Article>
+  <Article Naam="In-Hospital Cardiac Arrest: Rise of the Machines">
+    <Question Question="1: The pivotal step in the improvement of survival during IHCA is recognition and activation of the emergency response system." QuestionId="2856" />
+    <Question Question="2: Emergency angiography must be considered in all patients suffering from OHCA." QuestionId="2857" />
+    <Question Question="3: Placing an endotracheal tube is a critical step in the chain of survival relating to IHCA." QuestionId="2858" />
+    <Question Question="4: Adrenaline must be administered immediately after the first defibrillation attempt." QuestionId="2859" />
+    <Question Question="5: A dose of 150 mg of amiodarone may be considered as anti-arrhythmic after the administration of vasopressin." QuestionId="2860" />
+    <Question Question="6: High-quality chest compressions have been shown to be among the most important interventions during CPR." QuestionId="2861" />
+    <Question Question="7: Amiodarone is indicated for recurrent unstable VT when managing life-threatening dysrhythmias." QuestionId="2862" />
+  </Article>
+  <Article Naam="Local Anaesthetics: Infiltration and Basic Blocks">
+    <Question Question="1: Bupivacaine is a suitable drug for intravenous regional anaesthesia (IVRA) (Bier’s block)." QuestionId="2863" />
+    <Question Question="2: Adrenalin should not be added to local anaesthetic for a penile block." QuestionId="2864" />
+    <Question Question="3: Intravenous regional anaesthesia (IVRA) (Bier’s block) may be performed by a cuff inflated to above-systolic pressure." QuestionId="2865" />
+    <Question Question="4: Injection for a digital nerve block should be done from the palmar side of the hand." QuestionId="2866" />
+    <Question Question="5: The concentration of adrenalin added to lignocaine in dental cartridges is 1:200 000 (5 mg/ml)." QuestionId="2867" />
+    <Question Question="6: Lignocaine carries the lowest risk of toxicity of all the local anaesthetic agents." QuestionId="2868" />
+    <Question Question="7: Ankle block requires blockade of:" QuestionId="2869" />
+    <Question Question="8: When performing intravenous regional anaesthesia (IVRA) (Bier’s block) on an adult, the dose of 0.5% lignocaine required for adequate block of the arm with the cuff applied above the elbow is:" QuestionId="2870" />
+  </Article>
+  <Article Naam="The Use of Ultrasound in Paediatric Analgesia">
+    <Question Question="1: What does POCUS stand for?" QuestionId="2871" />
+    <Question Question="2: What are the two safety indices used to quantify the effects of ultrasound?" QuestionId="2872" />
+    <Question Question="3: What are central venous lines used for?" QuestionId="2873" />
+    <Question Question="4: What measurement is used to detect raised intracranial pressure?" QuestionId="2874" />
+    <Question Question="5: Ultrasound can be used to measure the subglottic upper airway diameter in order to choose the correct size of endotracheal tube." QuestionId="2875" />
+    <Question Question="6: The first randomised control study of the use of ultrasound for nerve localisation was published 20 years ago?" QuestionId="2876" />
+    <Question Question="7: A focused, goal-directed transthoracic echocardiography study takes more than 30 minutes to perform." QuestionId="2877" />
+    <Question Question="8: Patients presenting for emergency surgery usually have an empty stomach." QuestionId="2878" />
+  </Article>
+  <Article Naam="Rare but Potentially Fatal Complications of Anaesthesia - Malignant Hyperthermia">
+    <Question Question="1: Muscle rigidity is required for a confirmed diagnosis of an episode of malignant hyperthermia." QuestionId="2879" />
+    <Question Question="2: Despite the slower onset of malignant hyperthermia when desflurane is the triggering agent, the severity of the episode is the same as that with other agents." QuestionId="2880" />
+    <Question Question="3: Increased temperature frequently appears late in the course of a malignant hyperthermia episode." QuestionId="2881" />
+    <Question Question="4: Anaphylaxis is an acute, severe life-threatening allergic reaction that affects 4% of the population." QuestionId="2882" />
+    <Question Question="5: The initial dose of adrenaline for a mild to moderate episode of anaphylaxis is 10-20 µg IV." QuestionId="2883" />
+    <Question Question="6: Hydrocortisone is usually rapidly effective in aborting an anaphylactic attack and should be the first-line agent used in a severe episode." QuestionId="2884" />
+    <Question Question="7: The molecular defect in malignant hyperthermia may found in which of the following cell structures?" QuestionId="2885" />
+    <Question Question="8: In a known case of malignant hyperthermia, which of the following agents may be used safely for anaesthesia?" QuestionId="2886" />
+    <Question Question="9: Which of the following statements is true of anaphylaxis?" QuestionId="2887" />
+    <Question Question="10: Which of the following substances may associated with anaphylaxis?" QuestionId="2888" />
+  </Article>
+  <Article Naam="Peri-Operative Acute Kidney Injury: Prevention and Management">
+    <Question Question="1: Acute kidney injury is a rare complication following surgery, with a high mortality rate." QuestionId="2889" />
+    <Question Question="2: Any patient who has an elevation of serum creatinine 1.5 times their baseline serum creatinine, even if it remains within normal laboratory reference ranges, can be diagnosed with acute kidney injury." QuestionId="2890" />
+    <Question Question="3: Hydroxyethyl starch colloids are superior to balanced salt solution crystalloids in the peri-operative setting in patients with septic shock for renal protection." QuestionId="2891" />
+    <Question Question="4: Insulin-like growth factor binding protein 7 (IGFBP7) is a well-validated renal biomarker for use as an acute kidney biomarker." QuestionId="2892" />
+    <Question Question="5: Dopamine is a safe drug which can be used to improve renal function in the peri-operative field." QuestionId="2893" />
+    <Question Question="6: Aminoglycosides are first-line drugs in the treatment of patients with acute kidney injury." QuestionId="2894" />
+    <Question Question="7: Fluid balance has proved to be an important predictor in the development of AKI in the critically-ill patient." QuestionId="2895" />
+    <Question Question="8: Patients frequently present with a single indication for renal replacement therapy (RRT)." QuestionId="2896" />
+  </Article>
+  <Article Naam="Early Management of Trauma">
+    <Question Question="1: Trauma is a common cause of hospitalisation in the elderly." QuestionId="2897" />
+    <Question Question="2: Blunt trauma includes assaults, falls and motor-vehicle collisions." QuestionId="2898" />
+    <Question Question="3: Trauma care follows a different approach to routine history and examination." QuestionId="2899" />
+    <Question Question="4: Initial handover to/from paramedics is best with the DeMIST approach." QuestionId="2900" />
+    <Question Question="5: Chest tubes are most often placed in the anterior second intercostal space (ICS)." QuestionId="2901" />
+    <Question Question="6: It is not important to remove clothes or jewellery during the resuscitation." QuestionId="2902" />
+    <Question Question="7: Lung contusion is most often related to the following concomitant injury after blunt trauma:" QuestionId="2903" />
+    <Question Question="8: If a definitive airway (intubation) cannot be accomplished during resuscitation, the following is the next best option in inexperienced hands:" QuestionId="2904" />
+  </Article>
+  <Article Naam="Ventilation Strategies in Acute Lung Injury">
+    <Question Question="1: Which of the following is a pre-operative risk factor for acute lung injury?" QuestionId="2905" />
+    <Question Question="2: Which of the following are not key components of the pathogenesis at an alveolar level?" QuestionId="2906" />
+    <Question Question="3: Evidence suggests that high tidal volumes (i.e. 12 ml/kg) are not related to increased mortality." QuestionId="2907" />
+    <Question Question="4: PEEP improves oxygenation by recruiting collapsed alveoli, consequently increasing shunt and decreasing compliance." QuestionId="2908" />
+    <Question Question="5: Decreases in driving pressure owing to changes in ventilator settings are strongly associated with increased survival." QuestionId="2909" />
+    <Question Question="6: A consequence of lung-protective strategy is reduced minute ventilation." QuestionId="2910" />
+    <Question Question="7: Intrapulmonary, but not intravenous, stem-cell transplants, show promising results in the preclinical arena." QuestionId="2911" />
+  </Article>
+  <Article Naam="Preventing Airway Disasters">
+    <Question Question="1: Airway disasters can be prevented by:" QuestionId="2912" />
+    <Question Question="2: Difficult airways can always be predicted by using a collection of clinical factors." QuestionId="2913" />
+    <Question Question="3: Correct patient positioning for airway management greatly improves intubating conditions and success." QuestionId="2914" />
+    <Question Question="4: Apnoeic oxygenation should not be used where intubation attempts are thought to be difficult." QuestionId="2915" />
+    <Question Question="5: Which statement regarding video laryngoscopes (VL) is true?" QuestionId="2916" />
+    <Question Question="6: Which of the following are predictors of difficult supraglottic airway use?" QuestionId="2917" />
+    <Question Question="7: Continuous waveform end-tidal capnography can effectively monitor for" QuestionId="2918" />
+  </Article>
+  <Article Naam="Neuromuscular-Blocking Agents and Their Reversal">
+    <Question Question="1: Mivacurium is an alternative for a rapid-sequence induction in a patient with scoline apnoea." QuestionId="2919" />
+    <Question Question="2: Vecuronium can be reversed with sugammadex." QuestionId="2920" />
+    <Question Question="3: Neuromuscular monitoring reduces the incidence of post-operative paralysis." QuestionId="2921" />
+    <Question Question="4: Cistrarcurium is an ideal drug for long-term use in ICU." QuestionId="2922" />
+    <Question Question="5: Sugammadex is eliminated by renal excretion or dialysis in renal failure." QuestionId="2923" />
+    <Question Question="6: Older children require larger doses of neuromuscular blockers than adults." QuestionId="2924" />
+  </Article>
+  <Article Naam="Avoiding Medicolegal Pitfalls in Anaesthesia and Critical Care">
+    <Question Question="1: Anaesthetic consent should include discussions of:" QuestionId="2925" />
+    <Question Question="2: Communication of information should be in a language that the patient understands." QuestionId="2926" />
+    <Question Question="3: In the recovery room the responsibilities of the anaesthesiologist include:" QuestionId="2927" />
+    <Question Question="4: A child older than 12 years of age can consent to a surgical procedure and anaesthetic." QuestionId="2928" />
+    <Question Question="5: A pregnant woman of any age may not consent to the termination of her pregnancy during the first trimester." QuestionId="2929" />
+    <Question Question="6: If airway maintenance is delegated to the recovery room, the anaesthetist does not have to take any further responsibility." QuestionId="2930" />
+  </Article>
+</Module>

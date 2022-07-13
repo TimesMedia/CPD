@@ -1,0 +1,73 @@
+﻿<Module Naam="Stomach and bowel">
+  <Article Naam="Peptic ulcer disease">
+    <Question Question="1: As many as............peptic ulcers are associated with Helicobacter pylori." QuestionId="2011" />
+    <Question Question="2: Peptic ulcer disease tends to have a/an........course with a/an........correlation between symptoms and the presence of an ulcer." QuestionId="2012" />
+    <Question Question="3: The risk of NSAID-related ulcers is........in women than men. " QuestionId="2013" />
+    <Question Question="4: Use of probiotics increases the efficacy of H. pylori eradication regimens." QuestionId="2014" />
+    <Question Question="5: The use of enteric-coated or buffered aspirin significantly decreases the risk of ulcer complications." QuestionId="2015" />
+    <Question Question="6: Stool antigen test......................................................................................................." QuestionId="2016" />
+    <Question Question="7: Eradication therapy for H. pylori consists of..............................................................." QuestionId="2017" />
+  </Article>
+  <Article Naam="Upper gastro-intestinal tract bleeding">
+    <Question Question="1: Variceal bleeding is most likely if the patient has stigmata of chronic liver disease and portal hypertension. " QuestionId="2018" />
+    <Question Question="2: The Blatchford score is the best clinical predictor of who can be safely managed as an outpatient." QuestionId="2019" />
+    <Question Question="3: Once a bleeding ulcer is controlled an intravenous PPI should be continued for five days." QuestionId="2020" />
+    <Question Question="4: The clinical factors of.................................  are highly predictive of the need for endoscopic and surgical intervention. " QuestionId="2021" />
+    <Question Question="5: Mortality from upper gastro-intestinal bleeding is........................................." QuestionId="2022" />
+    <Question Question="6: After variceal bleeding has been stopped, risk of further bleeding should be reduced by establishing non-selective B blockade." QuestionId="2023" />
+  </Article>
+  <Article Naam="Coeliac disease">
+    <Question Question="1: Diagnostic intestinal biopsies should be taken while the patient is following a strict gluten-free diet." QuestionId="2024" />
+    <Question Question="2: Extra-intestinal symptoms for coeliac disease include:" QuestionId="2025" />
+    <Question Question="3: There is no room for gluten re-challenge in the responding patient where the serum levels of specific antibodies return to normal." QuestionId="2026" />
+    <Question Question="4: Treatment of CD includes avoidance of everything containing: " QuestionId="2027" />
+    <Question Question="5: Total serum IgA as well as IgA anti TG2 IgA should be done to diagnose CD." QuestionId="2028" />
+    <Question Question="6: A high index of suspicion is necessary in first-degree relatives of patients with: " QuestionId="2029" />
+  </Article>
+  <Article Naam="Ulcerative colitis">
+    <Question Question="1: Ulcerative colitis......... affects the rectum." QuestionId="2030" />
+    <Question Question="2: Features of ulcerative colitis include:" QuestionId="2031" />
+    <Question Question="3: The following test/s can diagnose UC....................................................................." QuestionId="2032" />
+    <Question Question="4: A two-week &#x22;trial of treatment&#x22; is advisable in all suspected cases." QuestionId="2033" />
+    <Question Question="5: Maintenance treatment for UC includes:" QuestionId="2034" />
+    <Question Question="6: Ulcerative colitis can be cured with a total proctocolectomy." QuestionId="2035" />
+    <Question Question="7: ......percent of patients with ulcerative colitis will have other immune-mediated, extra-intestinal inflammatory disorders." QuestionId="2036" />
+    <Question Question="8: UC is usually diagnosed between the ages of………… years." QuestionId="2037" />
+  </Article>
+  <Article Naam="Crohn's disease">
+    <Question Question="1: The clinal presentation of Crohn’s disease may include.................................." QuestionId="2038" />
+    <Question Question="2: Aggressive use of potent therapies should be reserved for IBD with severe complications." QuestionId="2039" />
+    <Question Question="3: Oral steroids should be prescribed at the first sign of every flaring." QuestionId="2040" />
+    <Question Question="4: Because of the recurrent nature of Crohn’s disease, surgery is avoided wherever possible." QuestionId="2041" />
+    <Question Question="5: Chronic GIT infections such as TB, schistosomiasis and amoebiasis may mimic IBD. " QuestionId="2042" />
+    <Question Question="6: On-demand treatment with biologics renders the best results for severe IBD." QuestionId="2043" />
+    <Question Question="7: A major concern when using anti-TNFs in the South African context is the potential risk of disseminated tuberculosis." QuestionId="2044" />
+  </Article>
+  <Article Naam="Diverticular disease of the colon">
+    <Question Question="1: Most patients with symptomatic uncomplicated diverticular disease present with left lower quadrant pain and clear rebound tenderness." QuestionId="2045" />
+    <Question Question="2: Fibre treatment for SUDD often takes months to relieve symptoms and may initially worsen symptoms." QuestionId="2046" />
+    <Question Question="3: Endoscopy should generally be avoided in the initial evaluation of patients with suspected acute diverticulitis." QuestionId="2047" />
+    <Question Question="4: Diverticular haemorrhage ceases spontaneously in most cases but this is much less likely if it is a re-bleed." QuestionId="2048" />
+    <Question Question="5: Diverticulitis in immunocompromised patients has a higher risk of free perforation and need for surgery." QuestionId="2049" />
+    <Question Question="6: MRI scan is the best modality for confirming pericolic abscesses and for following their course over time. " QuestionId="2050" />
+    <Question Question="7: All pericolic abscesses should be drained surgically as a matter of urgency." QuestionId="2051" />
+  </Article>
+  <Article Naam="Irritable bowel syndrome">
+    <Question Question="1: IBS is considered a diagnosis of exclusion.  " QuestionId="2052" />
+    <Question Question="2: All persons over the age of 50 should undergo screening for colorectal cancer." QuestionId="2053" />
+    <Question Question="3: Medication should not be considered first-line therapy in patients with IBS." QuestionId="2054" />
+    <Question Question="4: Tricyclic antidepressants take at least........days to become effective." QuestionId="2055" />
+    <Question Question="5: Antibiotic therapy should be reserved for constipated IBS patients with bloating." QuestionId="2056" />
+    <Question Question="6: Routine diagnostic tests are usually unhelpful and unnecessary in the diagnosis of IBS." QuestionId="2057" />
+    <Question Question="7: Physical activity has been shown to be beneficial in patients with IBS." QuestionId="2058" />
+    <Question Question="8: Daily antispasmodics are first-line treatment for IBS." QuestionId="2059" />
+  </Article>
+  <Article Naam="Peri-anal conditions">
+    <Question Question="1: Fissure-in-ano is most commonly seen at the.... position." QuestionId="2060" />
+    <Question Question="2: Patients with pruritus ani are often atopic." QuestionId="2061" />
+    <Question Question="3: Haemorrhoids................" QuestionId="2062" />
+    <Question Question="4: Trans-anal ultrasound should be used liberally in the assessment of peri-anal sepsis." QuestionId="2063" />
+    <Question Question="5: Condyloma lata are caused by human papillomavirus." QuestionId="2064" />
+    <Question Question="6: Fissure-in-ano may linger for up to a few hours after evacuation." QuestionId="2065" />
+  </Article>
+</Module>

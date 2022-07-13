@@ -1,0 +1,20 @@
+﻿<Module Naam="Pancreas">
+  <Article Naam="Acute pancreatitis">
+    <Question Question="1: CECT scan is indicated if the pain is highly suggestive of acute pancreatitis but the serum amylase and lipase levels are less than three times the upper limit of normal. " QuestionId="2104" />
+    <Question Question="2: Mild acute pancreatitis is self-limiting, runs over 3-5 days and does not require imaging." QuestionId="2105" />
+    <Question Question="3: Due to the risk of severe complications, prophylactic antibiotics are indicated for all patents with moderate to severe pancreatitis." QuestionId="2106" />
+    <Question Question="4: The leading causes of pancreatitis are:" QuestionId="2107" />
+    <Question Question="5: Systemic inflammatory response syndrome (SIRS) is the result of cytokine cascades that are activated by pancreatic inflammation." QuestionId="2108" />
+    <Question Question="6: Most pancreatic fluid collections are sterile and resolve spontaneously without intervention." QuestionId="2109" />
+  </Article>
+  <Article Naam="Pancreatic masses">
+    <Question Question="1: Tuberculosis of the pancreas may present as a pseudotumour." QuestionId="2110" />
+    <Question Question="2: Elevated amylase and/or lipase levels are not good indicators of other pancreatic pathology." QuestionId="2111" />
+    <Question Question="3: Indicators of high-risk cysts which should be resected include:" QuestionId="2112" />
+    <Question Question="4: CA 19-9 and CEA tumour markers should not be used as screening tests due to their low sensitivity and specificity." QuestionId="2113" />
+    <Question Question="5: Mucinous cystic neoplasms............................................................................." QuestionId="2114" />
+    <Question Question="6: Adenocarcinomas are characterised by..........................................................." QuestionId="2115" />
+    <Question Question="7: Solid masses in the pancreas are more likely to be malignant or premalignant." QuestionId="2116" />
+    <Question Question="8: Contrast imaging with computed tomography is more effective than magnetic resonance imaging in the initial assessment of pancreatic masses. " QuestionId="2117" />
+  </Article>
+</Module>

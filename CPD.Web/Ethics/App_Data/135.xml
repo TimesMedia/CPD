@@ -1,0 +1,26 @@
+﻿<Module Naam="Dermatological and aesthetic conditions">
+  <Article Naam="Hair loss in the elderly">
+    <Question Question="1: Androgenetic alopecia (AGA) is the most common form of hair loss in both men and women." QuestionId="3141" />
+    <Question Question="2: Drug-induced alopecia is possible in both men and women. Drugs which may cause alopecia include:" QuestionId="3142" />
+    <Question Question="3: Currently, the only androgen-independent medication used widely for the treatment of patterned hair loss is:" QuestionId="3143" />
+    <Question Question="4: When prescribing minoxidil, men should be instructed to use the 5 % topical solution. Women should be instructed to use the 2 % topical solution, not the 5 % topical solution, to minimise side effects, particularly hypertrichosis." QuestionId="3144" />
+    <Question Question="5: Nonspecific, systemic anti-androgens are limited in use to women because of feminising side effects." QuestionId="3145" />
+    <Question Question="6: Finasteride is a potent competitive inhibitor of both types I and type II 5 α-reductase. " QuestionId="3146" />
+  </Article>
+  <Article Naam="Photo-ageing lesions including solar keratosis/actinic keratosis ">
+    <Question Question="1: Basal cell carcinoma in the very elderly is more common in women, more often the nodular subtype, and more commonly located in the trunk, compared with the head and neck." QuestionId="3147" />
+    <Question Question="2: Concerning field cancerisation treatments:" QuestionId="3148" />
+    <Question Question="3: Concerning imiquimod treatment:" QuestionId="3149" />
+    <Question Question="4: Studies have shown that PDT-ALA treatment for solar and actinic keratosis has superior efficacy over other treatment modalities such as cryotherapy, cauterisation and topical prescription creams." QuestionId="3150" />
+    <Question Question="5: PDT-ALA has DNA-repair and -modulating effects to reduce the further progression to cancerous lesions." QuestionId="3151" />
+    <Question Question="6: Concerning chemical peels for photo-ageing skin:" QuestionId="3152" />
+  </Article>
+  <Article Naam="Varicose veins">
+    <Question Question="1: Common chronic symptoms of varicose veins include:" QuestionId="3153" />
+    <Question Question="2:  If symptoms of varicose vein disease become worse after a period of immobilisation such as when travelling or after an operation, it may be indicative of abdominal or pelvic tumour." QuestionId="3154" />
+    <Question Question="3: The Brody-Trendelenburg test can help distinguish between superficial venous and deep venous insufficiency." QuestionId="3155" />
+    <Question Question="4: Elevation of the feet to at least heart level for 30 minutes at least four times a day and avoidance of prolonged standing and sitting, may decompress lower extremity veins and improve symptoms." QuestionId="3156" />
+    <Question Question="5: Compression stockings improve venous haemodynamics by decreasing venous reflux and reducing ambulatory venous hypertension." QuestionId="3157" />
+    <Question Question="6: Compared with endovenous ablation, surgical stripping offers advantages of faster return to physical activity, work and a shorter period of immobility." QuestionId="3158" />
+  </Article>
+</Module>

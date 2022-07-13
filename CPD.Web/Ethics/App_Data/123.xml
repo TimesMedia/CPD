@@ -1,0 +1,9 @@
+﻿<Module Naam="Generic/Therapeutic Substitution...">
+  <Article Naam="Generic/Therapeutic Substitution and Off-Label Prescribing">
+    <Question Question="1: Medicines with the same therapeutic classification are interchangeable" QuestionId="2968" />
+    <Question Question="2: When a pharmacist substitutes a generic medicine the medical aid takes responsibility for choosing the brand." QuestionId="2969" />
+    <Question Question="3: A pharmacist must substitute with a cheaper, generic brand unless the patient forbids it or the prescriber has written by hand on the prescription “no substitution”." QuestionId="2970" />
+    <Question Question="4: The package insert for a generic medicine will be the same in terms of indications and dosage as the originator product." QuestionId="2971" />
+    <Question Question="5: The doctor is responsible for the outcomes of prescribing a medicine for off-label use." QuestionId="2972" />
+  </Article>
+</Module>

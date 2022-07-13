@@ -1,0 +1,12 @@
+﻿<Module Naam="HAIR REJUVENATION">
+  <Article Naam="Management of hair loss">
+    <Question Question="1: Syphilis is a cause of cicatricial hair loss that needs to be excluded in high-risk populations." QuestionId="1480" />
+    <Question Question="2: Alopecia areata can present as focal or diffuse hair loss and may even involve hair over the entire body." QuestionId="1481" />
+    <Question Question="3: TInea capitis may be accompanied by pruiritis and lymphadenopathy." QuestionId="1482" />
+    <Question Question="4: Discoid lupus is a cause of non-scarring, focal alopecia." QuestionId="1483" />
+    <Question Question="5: Oral and topical treatment for MPHL (Male Pattern Hair Loss) is usually effective at re-growing hair." QuestionId="1484" />
+    <Question Question="6: Minoxidil 5% solution is recommended treatment for FPHL (Female Pattern Hair Loss)." QuestionId="1485" />
+    <Question Question="7: Finasteride is most effective in stimulating hair regrowth over the crown of the scalp, and less effective at the front of the scalp." QuestionId="1486" />
+    <Question Question="8: During FUT harvesting, donor suture lines may spread, forming a thickened linear scar, and are more prone to do so if trychophytic closure is used." QuestionId="1487" />
+  </Article>
+</Module>

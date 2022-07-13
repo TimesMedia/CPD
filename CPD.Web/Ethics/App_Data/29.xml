@@ -1,0 +1,32 @@
+﻿<Module Naam="PRIMARY CARE">
+  <Article Naam="Depression in Primary Care">
+    <Question Question="1: Major depressive disorder (MDD) is associated with the following medical comorbidities:" QuestionId="317" />
+    <Question Question="2: The recommended treatment duration following first episode of depression is....." QuestionId="318" />
+    <Question Question="3: First trimester exposure to selective serotonin re-uptake inhibitors (SSRIs) is associated with........." QuestionId="319" />
+    <Question Question="4: The  duration of symptoms to meet diagnostic criteria for a MDD is......." QuestionId="320" />
+    <Question Question="5: Compared to the general population, MDD increases the risk of suicide  ....... times." QuestionId="321" />
+    <Question Question="6: ........is associated with minimal cytochrome P450 interactions." QuestionId="322" />
+  </Article>
+  <Article Naam="Managing Dysthymic Disorder in GP Practice">
+    <Question Question="1: Symptoms that can be present in dysthymic disorder include:" QuestionId="323" />
+    <Question Question="2: ........ is a short-term psychotherapy to address negative automatic thoughts." QuestionId="324" />
+    <Question Question="3: Atypical features of dysthymic disorder respond best to.........." QuestionId="325" />
+    <Question Question="4: Adequate duration of treatment to determine failure of therapy is ......." QuestionId="326" />
+    <Question Question="5: The duration of depressed mood in dysthymic disorder in children is...." QuestionId="327" />
+    <Question Question="6: The following drugs have evidence in the treatment of dysthymic disorder: " QuestionId="328" />
+  </Article>
+  <Article Naam="Social Anxiety Disorder">
+    <Question Question="1: First-line pharmacological and psychotherapeutic management in social anxiety disorder include:" QuestionId="312" />
+    <Question Question="2: Beta blockers can be  used for social anxiety disorder in specific performance situations e.g. public speaking, " QuestionId="313" />
+    <Question Question="3: Comorbid disorders often found in a patient with social anxiety disorder include:" QuestionId="314" />
+    <Question Question="4: The Leibowitz Social Anxiety Scale is an appropriate screening tool in the assessment of social anxiety disorder." QuestionId="315" />
+    <Question Question="5: Benzodiazepines are  considered mainstay treatment for social anxiety disorder. " QuestionId="316" />
+  </Article>
+  <Article Naam="Sleep Disorders">
+    <Question Question="1: Treatment for insomnia should always include cognitive behavioural treatment specifically designed to treat insomnia." QuestionId="331" />
+    <Question Question="2: Hypnotics should be withdrawn before the onset of cognitive behavioural therapy." QuestionId="332" />
+    <Question Question="3: Successful resolution of the depression will also relieve secondary insomnia." QuestionId="329" />
+    <Question Question="4: The diagnosis of obstructive sleep apnoea should only be made by actual recording of the apnoeic events during sleep." QuestionId="333" />
+    <Question Question="5: Restless legs syndrome is a neurological disorder associated with .................. abnormalities " QuestionId="330" />
+  </Article>
+</Module>

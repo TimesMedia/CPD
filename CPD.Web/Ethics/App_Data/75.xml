@@ -1,0 +1,71 @@
+﻿<Module Naam="Gynaecology">
+  <Article Naam="Common breast problems">
+    <Question Question="1: Nipple discharge not associated with childbirth or lactation is pathological and warrants immediate investigation." QuestionId="1801" />
+    <Question Question="2: Fibro-adenomas are . . " QuestionId="1802" />
+    <Question Question="3: Tumours of the breast are seldom the cause of pain in the breast." QuestionId="1803" />
+    <Question Question="4: Women with the BRCA 1 or 2 gene have a …………… incidence of breast cancer.  " QuestionId="1804" />
+    <Question Question="5: Benign phyloides tumours have the tendency to recur. " QuestionId="1805" />
+    <Question Question="6: The diagnosis of atypical hyperplasia can only be made after a biopsy." QuestionId="1806" />
+    <Question Question="7: Carcinoma in situ usually presents as a small, poorly differentiated, palpable lump." QuestionId="1807" />
+  </Article>
+  <Article Naam="Hormone antagonists in the treatment of breast cancer">
+    <Question Question="1: Tamoxifen reduces the effect of oestrogen on breast tissue as well as the uterus. " QuestionId="1808" />
+    <Question Question="2: 17 β-oestradiol is carcinogenic and responsible for breast cancer developing." QuestionId="1809" />
+    <Question Question="3: Most tumours retain their oestrogen receptor status." QuestionId="1810" />
+    <Question Question="4: Failure on one aromatase inhibitor, does not preclude changing to a different agent with subsequent response." QuestionId="1811" />
+    <Question Question="5: The cells responsible for oestrogen-stimulated proliferation are the oestrogen-receptor-positive cells." QuestionId="1812" />
+  </Article>
+  <Article Naam="Managing the risk of breast cancer">
+    <Question Question="1: The worldwide lifetime risk of breast cancer is . . . " QuestionId="1813" />
+    <Question Question="2: The following are high-risk factors for breast cancer:" QuestionId="1814" />
+    <Question Question="3: The use of combined HRT increases the risk of developing breast cancer. " QuestionId="1815" />
+    <Question Question="4: Risk-assessment models will accurately predict a patient’s absolute risk of breast cancer." QuestionId="1816" />
+    <Question Question="5: MRI may assist in screening for young patients or those at high risk with a genetic mutation." QuestionId="1817" />
+    <Question Question="6: Chemoprophlyaxis is a risk-free method of reducing the incidence of breast cancer. " QuestionId="1818" />
+    <Question Question="7: Risk-reducing surgery reduces the risk of breast cancer occurrence to zero." QuestionId="1819" />
+  </Article>
+  <Article Naam="Abnormal uterine bleeding">
+    <Question Question="1: When treating a 30-year-old woman with heavy menstrual bleeding, inserting the levonorgestrel-releasing intra-uterine system is the first option." QuestionId="1820" />
+    <Question Question="2: In adolescents, the immaturity of the hypothalamo-pituitary-ovarian axis commonly results in anovulatory oestrogen withdrawal bleedings which can be quite severe." QuestionId="1821" />
+    <Question Question="3: Hyperthyroidism is a cause of amenorrhoea, while hypothyroidism causes heavy menstrual bleeding." QuestionId="1822" />
+    <Question Question="4: Oral contraceptives for cycle control should not be used for more than three months during adolescence." QuestionId="1823" />
+    <Question Question="5: In patients with uterine myoma and completed families, myomectomy can still be considered." QuestionId="1824" />
+    <Question Question="6: In cases with dysfunctional acute heavy menstrual bleeding, tranexamic acid is the drug of choice to arrest the bleeding. " QuestionId="1825" />
+    <Question Question="7: Once the abnormal bleeding has been stopped, the next step is to determine whether the dysfunctional bleeding is related to ovulation or anovulation." QuestionId="1826" />
+  </Article>
+  <Article Naam="Acute pelvic pain: evaluation and treatment">
+    <Question Question="1: Causes of ectopic pregnancy include:" QuestionId="1827" />
+    <Question Question="2: Optimal management of an unruptured ectopic pregnancy with a quantitative β-HCG of 7000 IU/L is . . ." QuestionId="1828" />
+    <Question Question="3: Ovarian cysts . . ." QuestionId="1829" />
+    <Question Question="4: Ovarian hyperstimulation syndrome . . . " QuestionId="1830" />
+    <Question Question="5: Dysmenorrhoea in adolescent girls . . " QuestionId="1831" />
+    <Question Question="6: Pelvic inflammatory disease is . . . " QuestionId="2154" />
+  </Article>
+  <Article Naam="Vaginal discharge">
+    <Question Question="1: The unoestrogenised vaginal epithelium of pre-pubertal girls is prone to recurrent infections." QuestionId="1832" />
+    <Question Question="2: Bacterial vaginosis causes significant inflammatory changes in the vaginal epithelium." QuestionId="1833" />
+    <Question Question="3: Candida albicans is a common commensal organism in the vagina and the gastro-intestinal tract." QuestionId="1834" />
+    <Question Question="4: Oral treatment is more effective than vaginal therapy in managing vulvovaginal candidiasis." QuestionId="1835" />
+    <Question Question="5: Atrophic vaginitis is managed with topical oestrogen-containing creams." QuestionId="1836" />
+    <Question Question="6: Regular vaginal douching is recommended for the management of recurrent vulvovaginal candidiasis" QuestionId="1837" />
+  </Article>
+  <Article Naam="Endometriosis: evaluation and treatment">
+    <Question Question="1: There is a direct correlation between the severity of endometriosis and the symptoms." QuestionId="1838" />
+    <Question Question="2: In cases of bowel resection, laparotomy is the preferred option of surgery." QuestionId="1839" />
+    <Question Question="3: GnRH-analogues such as Depo-Provera® may cause bone mineral depletion " QuestionId="1840" />
+    <Question Question="4: Peritoneal endometriosis, the most common form of endometriosis, is not visible on a sonar." QuestionId="1841" />
+    <Question Question="5: One of the most important problems in endometriosis is the delay in diagnosis." QuestionId="1842" />
+    <Question Question="6: Visanne® is a progesterone that minimises the lesions of endometriosis but does not decrease the pain caused by the endometriosis." QuestionId="1843" />
+    <Question Question="7: Problems with cauterisation of the lesions include:" QuestionId="1844" />
+  </Article>
+  <Article Naam="Atrophic vaginitis">
+    <Question Question="1: Which of the following statements regarding vaginal atrophy is least accurate?" QuestionId="1845" />
+    <Question Question="2: Which of the following statements regarding treatment of vaginal atrophy symptoms is least accurate?" QuestionId="1846" />
+    <Question Question="3: After menopause, oestradiol levels average . . ." QuestionId="1847" />
+    <Question Question="4: Which statement about the clinical manifestations of atrophic vaginitis is true?" QuestionId="1848" />
+    <Question Question="5: Sexually active women with atrophic vaginitis typically report having . . ." QuestionId="1849" />
+    <Question Question="6: Signs and symptoms of atrophic vaginitis include all of the following except . . . " QuestionId="1850" />
+    <Question Question="7: During the reproductive years, atrophic vaginitis is most likely to occur . . . " QuestionId="1851" />
+    <Question Question="8: All of the following can lead to atrophic vaginitis except  . . . " QuestionId="1852" />
+  </Article>
+</Module>

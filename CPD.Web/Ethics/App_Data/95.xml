@@ -1,0 +1,20 @@
+﻿<Module Naam="Gastro-intestinal and urinary tract infections">
+  <Article Naam="Diarrhoea and enteric infection">
+    <Question Question="1: Probiotics …" QuestionId="2262" />
+    <Question Question="2: Breast milk is hypotonic and can be utilised for hydration maintenance and rehydration." QuestionId="2263" />
+    <Question Question="3: Bloody stools in children most often suggest …" QuestionId="2264" />
+    <Question Question="4: Traveller’s diarrhoea:" QuestionId="2265" />
+    <Question Question="5: Hypertonic sugar-based drinks may be useful for rehydration of children when commercial rehydration fluids are not available." QuestionId="2266" />
+    <Question Question="6: After receiving correction fluid, adults with mild dehydration need additional ORS fluids to replace ongoing losses from continued diarrhoea." QuestionId="2267" />
+    <Question Question="7: All protease inhibitors may be a cause of acute diarrhoea in HIV-infected persons." QuestionId="2268" />
+    <Question Question="8: &lt;i&gt;Listeria monocytogenes&lt;/i&gt; incubation period is less than two weeks." QuestionId="2269" />
+    <Question Question="9: E.coli infection" QuestionId="2270" />
+  </Article>
+  <Article Naam="Urinary tract infections in women">
+    <Question Question="1: Urine MCS should be done in the following cases:" QuestionId="2271" />
+    <Question Question="2: Treatment options for UTI in women include:" QuestionId="2272" />
+    <Question Question="3: Choose the correct statements:" QuestionId="2273" />
+    <Question Question="4: Prophylactic antibiotics can be considered in women with…" QuestionId="2274" />
+    <Question Question="5: The absence of vaginal discharge excludes vaginitis. " QuestionId="2275" />
+  </Article>
+</Module>

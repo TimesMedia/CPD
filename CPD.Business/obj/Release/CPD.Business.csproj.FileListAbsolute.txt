@@ -1,0 +1,94 @@
+C:\CSharp\MimsCPD - Copy\CPD.Business\bin\Release\CPD.Business.dll.config
+C:\CSharp\MimsCPD - Copy\CPD.Business\bin\Release\CPD.Business.dll
+C:\CSharp\MimsCPD - Copy\CPD.Business\bin\Release\CPD.Business.pdb
+C:\CSharp\MimsCPD - Copy\CPD.Business\bin\Release\CPD.Data.dll
+C:\CSharp\MimsCPD - Copy\CPD.Business\bin\Release\FlowDocumentConverter.dll
+C:\CSharp\MimsCPD - Copy\CPD.Business\bin\Release\Microsoft.CSharp.dll
+C:\CSharp\MimsCPD - Copy\CPD.Business\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\CSharp\MimsCPD - Copy\CPD.Business\bin\Release\PdfSharp-WPF.dll
+C:\CSharp\MimsCPD - Copy\CPD.Business\bin\Release\PdfSharp.Xps.dll
+C:\CSharp\MimsCPD - Copy\CPD.Business\bin\Release\Spire.License.dll
+C:\CSharp\MimsCPD - Copy\CPD.Business\bin\Release\Spire.Pdf.dll
+C:\CSharp\MimsCPD - Copy\CPD.Business\bin\Release\System.Data.DataSetExtensions.dll
+C:\CSharp\MimsCPD - Copy\CPD.Business\bin\Release\System.Data.dll
+C:\CSharp\MimsCPD - Copy\CPD.Business\bin\Release\System.dll
+C:\CSharp\MimsCPD - Copy\CPD.Business\bin\Release\System.Runtime.Serialization.dll
+C:\CSharp\MimsCPD - Copy\CPD.Business\bin\Release\System.ServiceModel.dll
+C:\CSharp\MimsCPD - Copy\CPD.Business\bin\Release\System.Windows.Forms.dll
+C:\CSharp\MimsCPD - Copy\CPD.Business\bin\Release\System.Xml.dll
+C:\CSharp\MimsCPD - Copy\CPD.Business\bin\Release\System.Xml.Linq.dll
+C:\CSharp\MimsCPD - Copy\CPD.Business\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\CSharp\MimsCPD - Copy\CPD.Business\bin\Release\Microsoft.mshtml.dll
+C:\CSharp\MimsCPD - Copy\CPD.Business\bin\Release\CPD.Data.pdb
+C:\CSharp\MimsCPD - Copy\CPD.Business\bin\Release\CPD.Data.dll.config
+C:\CSharp\MimsCPD - Copy\CPD.Business\bin\Release\Microsoft.ReportViewer.WinForms.xml
+C:\CSharp\MimsCPD - Copy\CPD.Business\bin\Release\Spire.License.xml
+C:\CSharp\MimsCPD - Copy\CPD.Business\bin\Release\Spire.Pdf.xml
+C:\CSharp\MimsCPD - Copy\CPD.Business\obj\Release\CPD.Business.csprojAssemblyReference.cache
+C:\CSharp\MimsCPD - Copy\CPD.Business\obj\Release\CPDCertificate.g.cs
+C:\CSharp\MimsCPD - Copy\CPD.Business\obj\Release\CPD.Business_MarkupCompile.cache
+C:\CSharp\MimsCPD - Copy\CPD.Business\obj\Release\CPD.Business_MarkupCompile.lref
+C:\CSharp\MimsCPD - Copy\CPD.Business\obj\Release\CPDCertificate.baml
+C:\CSharp\MimsCPD - Copy\CPD.Business\obj\Release\CPD.Business.g.resources
+C:\CSharp\MimsCPD - Copy\CPD.Business\obj\Release\CPD.Business.csproj.CoreCompileInputs.cache
+C:\CSharp\MimsCPD - Copy\CPD.Business\obj\Release\CPD.Business.csproj.CopyComplete
+C:\CSharp\MimsCPD - Copy\CPD.Business\obj\Release\CPD.Business.dll
+C:\CSharp\MimsCPD - Copy\CPD.Business\obj\Release\CPD.Business.pdb
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\CPD.Business.dll.config
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\CPD.Business.dll
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\CPD.Business.pdb
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\CPD.Data.dll
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\FlowDocumentConverter.dll
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\Microsoft.CSharp.dll
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\PdfSharp-WPF.dll
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\PdfSharp.Xps.dll
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\Spire.License.dll
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\Spire.Pdf.dll
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\System.Data.DataSetExtensions.dll
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\System.Data.dll
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\System.dll
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\System.Runtime.Serialization.dll
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\System.ServiceModel.dll
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\System.Windows.Forms.dll
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\System.Xml.dll
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\System.Xml.Linq.dll
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\Microsoft.mshtml.dll
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\CPD.Data.pdb
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\CPD.Data.dll.config
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\Spire.License.xml
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\Spire.Pdf.xml
+C:\CSharp\MimsCPD\CPD.Business\obj\Release\CPDCertificate.g.cs
+C:\CSharp\MimsCPD\CPD.Business\obj\Release\CPD.Business_MarkupCompile.cache
+C:\CSharp\MimsCPD\CPD.Business\obj\Release\CPD.Business_MarkupCompile.lref
+C:\CSharp\MimsCPD\CPD.Business\obj\Release\CPDCertificate.baml
+C:\CSharp\MimsCPD\CPD.Business\obj\Release\CPD.Business.g.resources
+C:\CSharp\MimsCPD\CPD.Business\obj\Release\CPD.Business.csproj.CoreCompileInputs.cache
+C:\CSharp\MimsCPD\CPD.Business\obj\Release\CPD.Business.csproj.CopyComplete
+C:\CSharp\MimsCPD\CPD.Business\obj\Release\CPD.Business.dll
+C:\CSharp\MimsCPD\CPD.Business\obj\Release\CPD.Business.pdb
+C:\CSharp\MimsCPD\CPD.Business\obj\Release\CPD.Business.csproj.AssemblyReference.cache
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\Subs.Business.dll
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\Subs.Data.dll
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\System.Net.Http.dll
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\System.Text.Json.dll
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\System.ValueTuple.dll
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\System.Memory.dll
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\System.Text.Encodings.Web.dll
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\System.Numerics.Vectors.dll
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\System.Buffers.dll
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\Subs.Business.pdb
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\Subs.Business.dll.config
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\Subs.Data.pdb
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\Subs.Data.dll.config
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\System.Text.Json.xml
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\System.ValueTuple.xml
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\System.Memory.xml
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\System.Text.Encodings.Web.xml
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\System.Numerics.Vectors.xml
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\System.Buffers.xml
+C:\CSharp\MimsCPD\CPD.Business\bin\Release\System.Runtime.CompilerServices.Unsafe.xml

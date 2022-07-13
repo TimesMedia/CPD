@@ -1,0 +1,26 @@
+﻿<Module Naam="ARRHYTHMIAS">
+  <Article Naam="Atrial Fibrillation: Treating the Arrhythmia">
+    <Question Question="1: All patients with atrial fibrillation are symptomatic." QuestionId="605" />
+    <Question Question="2: The most common underlying condition in patients with atrial fibrillation is ……" QuestionId="606" />
+    <Question Question="3: If a patient with AF has no symptoms to suggest hyperthyroidism, it is not necessary to perform thyroid function tests." QuestionId="607" />
+    <Question Question="4: Which is the most important goal of treatment in a patient with AF?" QuestionId="608" />
+    <Question Question="5: Maintaining sinus rhythm with anti-arrhythmic drugs improves survival compared to rate control alone." QuestionId="609" />
+    <Question Question="6: Which of the following is the drug of choice to control ventricular rate in AF?" QuestionId="610" />
+    <Question Question="7: The most effective drug to maintain sinus rhythm in patients with paroxysmal AF is ............" QuestionId="611" />
+  </Article>
+  <Article Naam="Atrial Fibrillation: Complications">
+    <Question Question="1: Which of the following drugs should not be prescribed for a patient with heart failure or left ventricular dysfunction?" QuestionId="612" />
+    <Question Question="2: AV node ablation and permanent pacing is indicated in patients with poorly controlled AF and heart failure." QuestionId="613" />
+    <Question Question="3: An 80-year-old woman with AF, controlled hypertension and a history of previous transient ischaemic attack (TIA) should be given aspirin, rather than warfarin." QuestionId="614" />
+    <Question Question="4: Which of the following are relative contra-indications to warfarin anticoagulation?" QuestionId="615" />
+    <Question Question="5: The newer anticoagulants (dabigatran, apixaban and rivaroxaban) do not require regular blood tests for monitoring." QuestionId="616" />
+    <Question Question="6: Warfarin reduces the risk of stroke in patients with AF by approximately:" QuestionId="617" />
+  </Article>
+  <Article Naam="Pacemakers:Types and Uses">
+    <Question Question="1: Indications for a temporary pacemaker include:" QuestionId="618" />
+    <Question Question="2: The most significant symptoms of sinus node dysfunction are:" QuestionId="619" />
+    <Question Question="3: Physiological pacing does not improve survival or the incidence of heart failure." QuestionId="620" />
+    <Question Question="4: The main indications for use of an ICD relate to secondary prevention in patients with prior ........... ." QuestionId="621" />
+    <Question Question="5: Acquired AV block is the most common indication for permanent pacemaker placement." QuestionId="622" />
+  </Article>
+</Module>

@@ -1,0 +1,40 @@
+﻿<Module Naam="GENERAL PSYCHIATRY">
+  <Article Naam="Eating Disorders">
+    <Question Question="1: Aspects that would indicate the need for referral to a specialist centre include:" QuestionId="292" />
+    <Question Question="2: The main types of eating disorders are:" QuestionId="291" />
+    <Question Question="3: SSRIs that have provided the most robust evidence for relapse prevention are:" QuestionId="294" />
+    <Question Question="4: Pharmacotherapy seems to be less effective in anorexia than in bulimia. " QuestionId="293" />
+    <Question Question="5: Common medical problems related to purging include:" QuestionId="295" />
+  </Article>
+  <Article Naam="Generalised Anxiety Disorder">
+    <Question Question="1: The first-line pharmacological treatment for patients with generalised anxiety disorder is the use of:" QuestionId="347" />
+    <Question Question="2: A serotonin and noradrenaline re-uptake inhibitor (SNRI) which has shown efficacy and a favourable side-effect profile in the treatment of patients with generalised anxiety disorder is:" QuestionId="348" />
+    <Question Question="3: Once a response to pharmacotherapy has been obtained, treatment should be continued for at least:" QuestionId="349" />
+    <Question Question="4: Generally recommended augmentation strategies for patients who are refractory to initial SSRI/SNRI therapy include:" QuestionId="350" />
+    <Question Question="5: The following psychotherapeutic interventions are recommended for use in patients with generalised anxiety disorder: " QuestionId="351" />
+    <Question Question="6: Referral of a patient with generalised anxiety disorder to a more specialised level of psychiatric care should be considered if:" QuestionId="352" />
+  </Article>
+  <Article Naam="Major Depressive Disorder">
+    <Question Question="1: Weight loss of................  percent of body weight is significant." QuestionId="353" />
+    <Question Question="2: Hypersomnia points to................" QuestionId="354" />
+    <Question Question="3: Factors associated with increased suicide risk include: " QuestionId="355" />
+    <Question Question="4: Repeat major depressive episodes should be treated for no less than ..........................." QuestionId="356" />
+    <Question Question="5: Benzodiazepines taken in combination with an antidepressant in the first few weeks may reduce the risk of early treatment discontinuation. " QuestionId="357" />
+    <Question Question="6: The first-line treatment for an uncomplicated major depressive episode of moderate to severe degree is.............." QuestionId="358" />
+  </Article>
+  <Article Naam="Obsessive-Compulsive Disorder">
+    <Question Question="1: The first-line pharmacological treatment for patients with obsessive-compulsive disorder (OCD) is the use of:" QuestionId="359" />
+    <Question Question="2: The following SSRIs have been formally FDA-approved for use in patients with OCD:" QuestionId="360" />
+    <Question Question="3: &#x9;An adequate trial of SSRI therapy should last at least:" QuestionId="361" />
+    <Question Question="4: &#x9;The first-line augmentation of SSRIs for patients with refractory OCD is the use of:" QuestionId="362" />
+    <Question Question="5: &#x9;The first-line psychotherapeutic intervention for patients with OCD is:" QuestionId="363" />
+    <Question Question="6: Referral to a more specialised level of psychiatric care is probably indicated in:" QuestionId="364" />
+  </Article>
+  <Article Naam="Post-Traumatic Stress Disorder">
+    <Question Question="1: The signs and symptoms of PTSD typically begin within ................after the trauma." QuestionId="365" />
+    <Question Question="2: The arousal cluster is characterised by:" QuestionId="366" />
+    <Question Question="3: Treatment of PTSD symptoms includes these broad categories of intervention: " QuestionId="367" />
+    <Question Question="4: Psychological debriefing is an effective way of preventing PTSD." QuestionId="368" />
+    <Question Question="5: Selective serotonin re-uptake inhibitors (SSRIs) are first-line medication for PTSD. " QuestionId="369" />
+  </Article>
+</Module>

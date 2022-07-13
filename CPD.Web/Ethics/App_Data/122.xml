@@ -1,0 +1,9 @@
+﻿<Module Naam="The Medicines Control Council">
+  <Article Naam="The Medicines Control Council and its Applicability to Health-Care Professionals">
+    <Question Question="1: The Medicines Act gives prescription rights to medical practitioners and dentists for schedule 2  to 6 medicines" QuestionId="2963" />
+    <Question Question="2: Schedule 5 analgesics can only be repeated every six months if a psychiatrist has been consulted before the six-month repeat is issued." QuestionId="2964" />
+    <Question Question="3: Health-care professionals, specifically those in aesthetic medicine, may advertise all products they use in the interest of the public." QuestionId="2965" />
+    <Question Question="4: No medicine may be provided or received as a sample in South Africa. " QuestionId="2966" />
+    <Question Question="5: Not adhering to the Medicines Act could constitute a criminal offence in certain instances." QuestionId="2967" />
+  </Article>
+</Module>

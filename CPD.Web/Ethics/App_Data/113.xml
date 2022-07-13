@@ -1,0 +1,48 @@
+﻿<Module Naam="AESTHETIC DERMATOLOGY">
+  <Article Naam="Cellulite">
+    <Question Question="1: Cellulite may or may not be associated with overweight or obesity." QuestionId="2814" />
+    <Question Question="2: Cellulite is aggravated by:" QuestionId="2815" />
+    <Question Question="3: Treatment with mechanical massage devices requires at least one day of sick leave and one month of avoiding sun exposure." QuestionId="2816" />
+    <Question Question="4: Endermologie™ is cell stimulation that reactivates dormant cellular activity by mechanically stimulating the skin." QuestionId="2817" />
+    <Question Question="5: ThermaTip™ CL is a deep-heating treatment that produces results after only one procedure." QuestionId="2818" />
+    <Question Question="6: Dermal needling only has an effect on the outer layers of the skin and does not enhance penetration of cellulite creams." QuestionId="2819" />
+    <Question Question="7: Cellulite treatments should always be combined with a comprehensive medical programme to improve overall metabolism and to improve overall health." QuestionId="2820" />
+  </Article>
+  <Article Naam="Cutaneous Photo-Ageing">
+    <Question Question="1: Signs of photo-ageing include:" QuestionId="2821" />
+    <Question Question="2: The advanced stage in Glogau’s Classification for Photo-Ageing includes the following features:" QuestionId="2822" />
+    <Question Question="3: Chemical peeling does not treat histological changes in the photo-aged skin" QuestionId="2823" />
+    <Question Question="4: Laser treatments for skin photo-ageing include the industrial skin laser and the fractional laser." QuestionId="2824" />
+  </Article>
+  <Article Naam="Hair and Eyebrow Loss">
+    <Question Question="1: The scale of severity of alopecia is known as the:" QuestionId="2825" />
+    <Question Question="2: Diffuse alopecia areata may mimic the androgenetic form." QuestionId="2826" />
+    <Question Question="3: Common adverse effects of minoxidil include localised effects on the scalp such as:" QuestionId="2827" />
+    <Question Question="4: It is important to note that the use of androgen-dependent hair loss medications is strictly contra-indicated in …..  ." QuestionId="2828" />
+    <Question Question="5: Transplanted hair will grow and will need to be trimmed." QuestionId="2829" />
+  </Article>
+  <Article Naam="Laser treatments">
+    <Question Question="1: Laser light is:" QuestionId="2830" />
+    <Question Question="2: The only effective treatment for capillary haemangiomas is:" QuestionId="2831" />
+    <Question Question="3: Infantile haemangiomas:" QuestionId="2832" />
+    <Question Question="4: For tattoo removal Q-switched laser is used but removal requires many sessions at intervals of eight weeks." QuestionId="2833" />
+    <Question Question="5: Laser hair removal is successful for all types of hair" QuestionId="2834" />
+    <Question Question="6: All abnormal pigmentation requires judicious daily sun avoidance and protection with sunscreen with a SPF of at least 30." QuestionId="2835" />
+    <Question Question="7: Laser can safely be given to patients with acne who are taking their last month of isotretinoin oral treatment." QuestionId="2836" />
+  </Article>
+  <Article Naam="Platelet-Rich Plasma Applications">
+    <Question Question="1: Alpha (α) granules and dense granules are the two types of granules in platelets that play a role in PRP Therapies." QuestionId="2837" />
+    <Question Question="2: Which of the following polypeptides play a vital role in normal wound-healing?" QuestionId="2838" />
+    <Question Question="3: The primary motivation for use of PRP is to enhance the regeneration, proliferation and differentiation of cells involved in tissue regeneration." QuestionId="2839" />
+    <Question Question="4: The following statements are true:" QuestionId="2840" />
+    <Question Question="5: PRP is used for female and male hair restoration because it:" QuestionId="2841" />
+  </Article>
+  <Article Naam="Skin-Ageing Treatments">
+    <Question Question="1: Botulinum toxin:" QuestionId="2842" />
+    <Question Question="2: The following statements regarding dermal fillers are true:" QuestionId="2843" />
+    <Question Question="3: Salicylic acid peels are indicated for acne and blocked pores." QuestionId="2844" />
+    <Question Question="4: Post treatment hyperpigmentation is common after trichloracetic acid peels in Fitzpatrick Skin Types 3 and above." QuestionId="2845" />
+    <Question Question="5: The following statements regarding chemical peels are true." QuestionId="2846" />
+    <Question Question="6: Mesotherapy is a safe and effective method to replenish ageing and dehydrated skin with the necessary vitamins, minerals and especially salicylic acid." QuestionId="2847" />
+  </Article>
+</Module>

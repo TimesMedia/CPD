@@ -1,0 +1,54 @@
+﻿<Module Naam="PAIN MEDICATION">
+  <Article Naam="Opioids">
+    <Question Question="1: With chronic opioid use, tolerance develops to the respiratory depressive effects of opioids.  Therefore....." QuestionId="67" />
+    <Question Question="2: If opioids are used, stool softeners and stimulators of colonic activity should be ............" QuestionId="68" />
+    <Question Question="3: Ondansetron and non-steroidal anti-inflammatory drugs may prevent the onset of opioid-induced pruritus. " QuestionId="69" />
+    <Question Question="4: Patients who have used opioids for more than one month have built up enough tolerance and are regarded safe to drive a car." QuestionId="70" />
+    <Question Question="5: Dextropropoxyphene is ............... effective than codeine." QuestionId="71" />
+    <Question Question="6: Given in equipotent doses, morphine causes ....................  adverse effects, e.g. respiratory depression, than pethidine" QuestionId="72" />
+    <Question Question="7: Tramadol has a ............ incidence of seizure activity than other weak opioids." QuestionId="73" />
+  </Article>
+  <Article Naam="NSAIDs and Coxibs">
+    <Question Question="1: NSAIDS should not be used during pregnancy due to the risk of premature closure of the ductus arteriosus and oligohydramnios." QuestionId="118" />
+    <Question Question="2: Low-dose aspirin enhances the gastro-toxicity of classical NSAIDs and eliminates the gastric-sparing advantage of selective COX-2 inhibitors." QuestionId="120" />
+    <Question Question="3: Diclofenac is the preferred NSAID in breast-feeding mothers." QuestionId="119" />
+    <Question Question="4: Asprin in conjunction with sulphonylureas may:" QuestionId="121" />
+    <Question Question="5: Compared to placebo, .............. was associated with the highest risk of myocardial infarction. " QuestionId="122" />
+    <Question Question="6: ..................has no evidence for efficacy in reducing the risk of NSAID-induced endoscopic ulcers at standard doses." QuestionId="123" />
+    <Question Question="7: Effective Health Care programme ......................... in efficacy between celecoxib and classical NSAIDS." QuestionId="124" />
+    <Question Question="8: Selective serotonin re-uptake inhibitors used with NSAIDs, .................... the risk of upper GI bleeding " QuestionId="125" />
+  </Article>
+  <Article Naam="Combination Analgesics">
+    <Question Question="1: The ...............the NNT number, the less effective is the treatment." QuestionId="160" />
+    <Question Question="2: The group of agents known as the COX-2 inhibitors (Coxibs) may be substituted for NSAIDs. " QuestionId="161" />
+    <Question Question="3: The major side effects of diphenhydramine include:" QuestionId="162" />
+    <Question Question="4: Combination agents should be taken at regular intervals rather than on the occasional basis. " QuestionId="163" />
+  </Article>
+  <Article Naam="Adjuvants in Pain Therapy: Anticonvulsants and Antidepressants">
+    <Question Question="1: TCAs are effective in chronic pain syndromes and headache." QuestionId="78" />
+    <Question Question="2:  Valproate has a definite role in ......................" QuestionId="75" />
+    <Question Question="3: Many patients' pain may respond to a carbamazepine dose ............ than that used for seizure control." QuestionId="74" />
+    <Question Question="4: Lamotrigine may be used in the treatment of refractory trigeminal neuralgia, as well as in central post-stroke pain. " QuestionId="76" />
+    <Question Question="5: The onset of analgesia  with the use of duloxetine is at approximately ..........., and a maximum benefit is achieved after .................." QuestionId="79" />
+    <Question Question="6: ........................ is not effective in painful HIV-related neuropathy. " QuestionId="77" />
+  </Article>
+  <Article Naam="Glucocorticosteroids in the Treatment of Pain">
+    <Question Question="1: Corticosteroids: Treatment duration of shorter than 10-14 days is safe and no tapering of dose is necessary. " QuestionId="131" />
+    <Question Question="2: Withdrawal after prolonged therapy with corticosteroids may take up to 18 months." QuestionId="130" />
+    <Question Question="3: Intra-articular corticosteroid injections are safe because the effects are localised." QuestionId="132" />
+    <Question Question="4: Lateral epicondylitis is a common painful condition that benefits from corticosteroid injection." QuestionId="133" />
+    <Question Question="5: More soluble stronger steroids are advocated for trigger point infiltration." QuestionId="134" />
+    <Question Question="6: All corticosteroids need to be very water-soluble in order to reach the site of action. " QuestionId="135" />
+    <Question Question="7: Chronic pain and stress can also lead to significant suppression of endogenous corticosteroid production. " QuestionId="136" />
+    <Question Question="8: Corticosteroids have a flat dose response curve and after .......mg/kg no further anti-inflammatory benefit is observed." QuestionId="137" />
+  </Article>
+  <Article Naam="Local Anaesthetic: Infiltration and Basic Blocks">
+    <Question Question="1: ...................... is the shortest-acting drug but has the fastest onset and low risk of toxicity." QuestionId="138" />
+    <Question Question="2: The preferred local anaesthetic for a penile block is ..........." QuestionId="140" />
+    <Question Question="3: Pain on injection of local anaesthetic can be reduced by .........." QuestionId="139" />
+    <Question Question="4: Ankle blocks are less effective than hand blocks. " QuestionId="141" />
+    <Question Question="5:   ............cannot be recommended for IVRA " QuestionId="142" />
+    <Question Question="6: Drugs that are not useful additives to IVRA include ........." QuestionId="143" />
+    <Question Question="7: A perianal field block requires.............injection points " QuestionId="144" />
+  </Article>
+</Module>

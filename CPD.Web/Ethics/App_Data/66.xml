@@ -1,0 +1,20 @@
+﻿<Module Naam="WOUND CARE">
+  <Article Naam="Wound bed preparation: assessment and management">
+    <Question Question="1: Wounds are considered to be poly-microbial and consequently require treatment with antimicrobials." QuestionId="1488" />
+    <Question Question="2: Use low-toxicity solutions, such as normal saline or water, when cleansing wounds. " QuestionId="1489" />
+    <Question Question="3: Hydrogen peroxide can harm granulation tissue. May form emboli if used in deep sinuses." QuestionId="1490" />
+    <Question Question="4: Cetrimide is active against Gram-positive and Gram-negative bacteria with very little effect on tissue." QuestionId="1491" />
+    <Question Question="5: Film should not be used on draining or infected wounds." QuestionId="1492" />
+    <Question Question="6: Topical negative pressure therapy removes infectious material and/or fluids, from the wound bed." QuestionId="1493" />
+    <Question Question="7: Hydrocolloids may be used on fragile skin." QuestionId="1494" />
+  </Article>
+  <Article Naam="The wound dressing puzzle">
+    <Question Question="1: Alginates are primarily derived from seaweed." QuestionId="1495" />
+    <Question Question="2: Collagen dressings are indicated for the treatment of third-degree burns." QuestionId="1496" />
+    <Question Question="3: Foam dressings should not be used on dry wounds with eschar or wounds with little exudate." QuestionId="1497" />
+    <Question Question="4: Hydrocolloid dressings cannot be used on clinically infected wounds or wounds with heavy exudate." QuestionId="1498" />
+    <Question Question="5: Silicone dressings are reusable." QuestionId="1499" />
+    <Question Question="6: Hydrogels should not be used on full-thickness ulcers, vascular or pressure ulcers." QuestionId="1500" />
+    <Question Question="7: Film dressings are contra-indicated in the treatment of third-degree burns." QuestionId="1501" />
+  </Article>
+</Module>

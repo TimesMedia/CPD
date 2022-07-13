@@ -1,0 +1,44 @@
+﻿<Module Naam="HAEMATOLOGICAL CANCERS">
+  <Article Naam="Childhood lymphoma">
+    <Question Question="1: All lymphomas are more common among males than females." QuestionId="1746" />
+    <Question Question="2: Burkitt’s lymphoma often spreads to the bone marrow but CNS involvement is rare." QuestionId="1747" />
+    <Question Question="3: Typical symptoms of acute lymphoblastic lymphoma are a persistent non-productive cough, increasing shortness of breath and the inability to lie supine." QuestionId="1748" />
+    <Question Question="4: ALCL remains chemotherapy-sensitive in relapse." QuestionId="1749" />
+    <Question Question="5: ART-naïve HIV-positive children with large visceromegaly or lymph nodes should have a biopsy before HAART is commenced." QuestionId="1750" />
+    <Question Question="6: HIV-negative children almost never have TB and malignancy simultaneously." QuestionId="1751" />
+    <Question Question="7: Complete continuous remission can be achieved in relapsed ALCL within ………. of weekly vinblastine." QuestionId="1752" />
+  </Article>
+  <Article Naam="Myeloproliferative neoplasms">
+    <Question Question="1: CML is typically characterised by a leukocytosis which is predominantly composed of eosinophils." QuestionId="1753" />
+    <Question Question="2: The diagnosis of CML can only be made if the presence of a Philadelphia chromosome or its variants is confirmed." QuestionId="1754" />
+    <Question Question="3: Phlebotomy and thromboprophylaxis with aspirin should be considered in all PV patients." QuestionId="1755" />
+    <Question Question="4: With primary myelofibrosis the peripheral blood smear is characterised by the presence of teardrop cells and a leukoerythroblastic reaction." QuestionId="1756" />
+    <Question Question="5: Chronic eosinophilic leukaemia is characterised by a persistent clonal expansion of eosinophils." QuestionId="1757" />
+    <Question Question="6: Gralulocytes are long-lived haematopoietic cells found in different tissues and mostly involved in hypersensitivity reactions." QuestionId="1758" />
+  </Article>
+  <Article Naam="Lymphomas">
+    <Question Question="1: Patients with lymphoma typically have painful lymphadenopathy." QuestionId="1759" />
+    <Question Question="2: Lymphoma may present with focal neurology." QuestionId="1760" />
+    <Question Question="3: The diagnosis of lymphoma and its subtype is made by fine needle aspirate alone." QuestionId="1761" />
+    <Question Question="4: If patients with Hodgkin’s lymphoma relapse or have primary refractory disease, salvage chemotherapy is indicated." QuestionId="1762" />
+    <Question Question="5: Burkitt’s lymphoma has a tumour doubling time of ………." QuestionId="1763" />
+    <Question Question="6: Follicular lymphoma is not curable in the majority of patients." QuestionId="1764" />
+    <Question Question="7: Patients with HIV-associated lymphomas are treated with………..  immune-chemotherapy regimens used in immunocompetent patients." QuestionId="1765" />
+  </Article>
+  <Article Naam="Multiple myeloma">
+    <Question Question="1: The major clinical features for multiple myeloma are…….. " QuestionId="1766" />
+    <Question Question="2: Renal impairment at presentation of multiple myeloma is mostly irrecoverable." QuestionId="1767" />
+    <Question Question="3: Bence Jones proteinuria may cause mechanical obstruction to the renal tubules." QuestionId="1768" />
+    <Question Question="4: Attributes of patients  who are  appropriate candidates for bone marrow transplantion include:" QuestionId="1769" />
+    <Question Question="5: Bone pain and hypercalcaemia, in the presence of a normal alkaline phosphatase level is multiple myeloma until proven otherwise." QuestionId="1770" />
+    <Question Question="6: Hypocalcaemia in a hospitalised patient is most likely due to malignancy." QuestionId="1771" />
+    <Question Question="7: Multiple myeloma is twice as common in Caucasians compared to Black people." QuestionId="1772" />
+  </Article>
+  <Article Naam="Myelodysplastic syndromes and acute leukaemias ">
+    <Question Question="1: B-ALL is predominately a disease of the elderly." QuestionId="1773" />
+    <Question Question="2: Therapy-related myeloid neoplasms generally have a very good prognosis." QuestionId="1774" />
+    <Question Question="3: Patients with symptomatic bleeding should be started on salicylate." QuestionId="1775" />
+    <Question Question="4: The persistence of the leukaemic clone by flow-cytometric analysis is strongly predictive of relapse and a poorer outcome." QuestionId="1776" />
+    <Question Question="5: T-ALL typically present with a high leukocyte count and a large mediastinal mass." QuestionId="1777" />
+  </Article>
+</Module>

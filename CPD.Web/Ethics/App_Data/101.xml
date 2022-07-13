@@ -1,0 +1,9 @@
+﻿<Module Naam="Infections of the central nervous system">
+  <Article Naam="Acute meningitis">
+    <Question Question="1: Symptoms and signs of acute meningitis …" QuestionId="2381" />
+    <Question Question="2: Concerning antibiotic treatment of acute meningitis, the following statements are true:" QuestionId="2382" />
+    <Question Question="3: Contra-indications to lumbar puncture include:" QuestionId="2383" />
+    <Question Question="4: The following statements are true:" QuestionId="2384" />
+    <Question Question="5: Post-exposure chemoprophylaxis should be provided to close contacts of suspected cases of………………meningitis. " QuestionId="2385" />
+  </Article>
+</Module>

@@ -1,0 +1,18 @@
+﻿<Module Naam="PSYCHOSIS">
+  <Article Naam="Treatment of Bipolar Disorder">
+    <Question Question="1: Treatment for anxiety disorders should only be started after a stable mood has been achieved." QuestionId="281" />
+    <Question Question="2: Bipolar I disorder is typically diagnosed when patients are in their ................" QuestionId="280" />
+    <Question Question="3: Hypomania causes some impairment of function with short episodes of loss of emotional control. " QuestionId="279" />
+    <Question Question="4: Treatment options for continuous mania or hypomania include:" QuestionId="282" />
+    <Question Question="5: Bipolar disorder should be suspected if:" QuestionId="283" />
+  </Article>
+  <Article Naam="Schizophrenia">
+    <Question Question="1: Clozapine is associated with:" QuestionId="284" />
+    <Question Question="2: Long-term antipsychotic treatment reduces the risk of relapse over several years by two-thirds." QuestionId="285" />
+    <Question Question="3: Drugs in the FGA and SGA groups are equally effective in alleviating psychosis." QuestionId="289" />
+    <Question Question="4: Indefinite treatment is advised after a fifth schizophrenic episode." QuestionId="286" />
+    <Question Question="5: The minimum duration of treatment for first episode schizophrenic patients is:" QuestionId="288" />
+    <Question Question="6: Larger amounts of psychotropic drugs are transferred to the infant during breast-feeding than in utero. " QuestionId="287" />
+    <Question Question="7: FGAs have fewer extra-pyramidal side effects and are thus more tolerable than SGAs." QuestionId="290" />
+  </Article>
+</Module>

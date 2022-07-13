@@ -1,0 +1,11 @@
+D:\CSharp2017\MimsCPD\CPD.Data2\bin\Release\CPD.Data2.dll.config
+D:\CSharp2017\MimsCPD\CPD.Data2\bin\Release\CPD.Data2.dll
+D:\CSharp2017\MimsCPD\CPD.Data2\bin\Release\CPD.Data2.pdb
+D:\CSharp2017\MimsCPD\CPD.Data2\bin\Release\CPD.Data.dll
+D:\CSharp2017\MimsCPD\CPD.Data2\bin\Release\CPD.Data.pdb
+D:\CSharp2017\MimsCPD\CPD.Data2\bin\Release\CPD.Data.dll.config
+D:\CSharp2017\MimsCPD\CPD.Data2\obj\Release\CPD.Data2.csprojAssemblyReference.cache
+D:\CSharp2017\MimsCPD\CPD.Data2\obj\Release\CPD.Data2.csproj.CoreCompileInputs.cache
+D:\CSharp2017\MimsCPD\CPD.Data2\obj\Release\CPD.Data2.csproj.CopyComplete
+D:\CSharp2017\MimsCPD\CPD.Data2\obj\Release\CPD.Data2.dll
+D:\CSharp2017\MimsCPD\CPD.Data2\obj\Release\CPD.Data2.pdb

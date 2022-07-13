@@ -1,0 +1,21 @@
+﻿<Module Naam="HYPERTENSION">
+  <Article Naam="Anti-hypertensives">
+    <Question Question="1: In patients without macrovascular target organ damage or other cardiovascular risk factors, antihypertensive therapy should be prescribed if the average….." QuestionId="590" />
+    <Question Question="2: Recommended drugs for the treatment of hypertension in patients with chronic kidney disease are:" QuestionId="591" />
+    <Question Question="3: Gout is an occasional adverse reaction of diuretic-induced hyperuricaemia." QuestionId="592" />
+    <Question Question="4: Furosemide ….." QuestionId="593" />
+    <Question Question="5: Calcium channel blockers ........." QuestionId="594" />
+    <Question Question="6: Alpha1-adrenergic-blocking drugs are ………….at lowering blood pressure when compared to most other antihypertensive drug classes." QuestionId="595" />
+  </Article>
+  <Article Naam="Therapeutic Approach to Resistant Hypertension">
+    <Question Question="1: Common causes of secondary hypertension include:" QuestionId="596" />
+    <Question Question="2: White-coat hypertension may represent a possible cause of pseudo-resistant hypertension." QuestionId="597" />
+    <Question Question="3: Frequent causes of impaired or insufficient response to multiple antihypertensive drug therapy include: " QuestionId="598" />
+    <Question Question="4: Drugs that are potentially involved in the genesis and maintenance of resistant hypertension are reported to include: " QuestionId="599" />
+    <Question Question="5: Diuretics are often under-used or under-dosed in the treatment of difficult forms of hypertension." QuestionId="600" />
+    <Question Question="6: Spironolactone worsens the severity of obstructive sleep apnoea syndrome in patients with resistant hypertension." QuestionId="601" />
+    <Question Question="7: Appropriate lifestyle interventions are a fundamental step when treating patients with either essential or resistant hypertension." QuestionId="602" />
+    <Question Question="8: Aldosterone antagonists should be reserved for patients with confirmed hyperaldosteronism. " QuestionId="603" />
+    <Question Question="9: Immunosuppressant agents may be a potential cause of resistant hypertension." QuestionId="604" />
+  </Article>
+</Module>

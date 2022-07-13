@@ -1,0 +1,34 @@
+﻿<Module Naam="Neuropsychiatric conditions">
+  <Article Naam="Dementia and delirium">
+    <Question Question="1: Cognitive deficit can occur in multiple mental disorders. In which of the following is the cognitive deficit not the primary manifestation?" QuestionId="3070" />
+    <Question Question="2: There are different aetiological subtypes of dementia. In the South African elderly population, vascular dementia (VaD) and Alzheimer’s disease (AD) are the most common dementia syndromes." QuestionId="3071" />
+    <Question Question="3: Cognitive enhancers are pharmacological agents used to treat dementia. Two classes of cognitive enhancers are available, namely acetylcholinesterase inhibitors and N-methyl-D-aspartate (NMDA) receptor antagonists. Which of the following medicines are acetylcholinesterase inhibitors?" QuestionId="3072" />
+    <Question Question="4: Antipsychotics can be used in treating behavioural disturbances, but must be limited to a short period of time. This is primarily due to the elderly patient’s increased risk for cardiovascular disease complications" QuestionId="3073" />
+    <Question Question="5: When compared to other surgical wards, urology wards have the highest prevalence of delirium." QuestionId="3074" />
+    <Question Question="6: Several groups of drugs increase the risk of delirium, including:" QuestionId="3075" />
+  </Article>
+  <Article Naam="Diagnosis and management of generalised anxiety disorder and panic disorder in adults">
+    <Question Question="1: Concerning generalised anxiety disorder (GAD):" QuestionId="3076" />
+    <Question Question="2: The most common physical symptom accompanying panic attacks is:" QuestionId="3077" />
+    <Question Question="3: Common lifestyle recommendations that may reduce anxiety-related symptoms include identifying and removing possible triggers (e.g. caffeine, stimulants, nicotine, stress), and improving sleep quality/quantity and physical activity." QuestionId="3078" />
+    <Question Question="4: …  are generally considered first-line therapy for GAD and panic disorder (PD)." QuestionId="3079" />
+    <Question Question="5: Because of the typical delay in onset of action, medications should not be considered ineffective until they are titrated to the high end of the dose range and continued for at least eight weeks. Once symptoms have improved, medications should be used for 4 months before tapering to limit relapse." QuestionId="3080" />
+    <Question Question="6: Which of the following medicines are not approved for the treatment of GAD or PD:" QuestionId="3081" />
+  </Article>
+  <Article Naam="Geriatric depression">
+    <Question Question="1: Depression in older persons may represent a relapse of depression from earlier in life rather than a new depressive disorder presenting late in life. " QuestionId="3082" />
+    <Question Question="2: ........ are the preferred medications for treating depression in older adults based on their favourable adverse-effect profiles." QuestionId="3083" />
+    <Question Question="3: SSRI use in geriatric depression increases the risk of falls, fractures, gastro-intestinal bleeding, and sleep disturbances." QuestionId="3084" />
+    <Question Question="4: Frail older patients are more likely to be taking other medications with serotonergic properties. Therefore, care should be taken to avoid serotonin syndrome, which is manifested as autonomic, neuromotor or cognitive/behavioural symptoms." QuestionId="3085" />
+    <Question Question="5: Concerning the use of citalopram in geriatric depression:" QuestionId="3086" />
+    <Question Question="6: Indications for electroconvulsive therapy in older patients include:" QuestionId="3087" />
+  </Article>
+  <Article Naam="Normal and abnormal sleep in geriatric patients">
+    <Question Question="1: A drop in melatonin secretion occurs with ageing. Replacing melatonin in patients who sleep fairly well, but have fragmented sleep, may improve sleep quality significantly." QuestionId="3088" />
+    <Question Question="2: Symptoms of insomnia fall into one or more of the following categories: " QuestionId="3089" />
+    <Question Question="3: Medications known to interfere with sleep and cause insomnia include:" QuestionId="3090" />
+    <Question Question="4: Restless legs syndrome (RLS) and periodic limb-movement disorder (PLMD) are believed to be due to a localised dopamine surplus in the spinal cord and are treated specifically with dopamine antagonists such as pramipexole." QuestionId="3091" />
+    <Question Question="5: Pharmacological treatment of insomnia in the elderly is complicated, owing to significant side effects with the sedative-hypnotic group of medications. These side effects include next-day sedation, confusion, falls and worsening depression. " QuestionId="3092" />
+    <Question Question="6: Obstructive sleep apnoea increases the risk of many disorders, including:" QuestionId="3093" />
+  </Article>
+</Module>

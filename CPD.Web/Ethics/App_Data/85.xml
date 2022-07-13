@@ -1,0 +1,50 @@
+﻿<Module Naam="Hepatobiliary system">
+  <Article Naam="Viral hepatitis">
+    <Question Question="1: The majority of patients with chronic hepatitis are asymptomatic." QuestionId="2066" />
+    <Question Question="2: The diagnosis of chronic hepatitis B is based upon the presence of HBsAg for more than............................................................................................................." QuestionId="2067" />
+    <Question Question="3: The goal of treating chronic hepatitis B is curative." QuestionId="2068" />
+    <Question Question="4: Post-exposure vaccination for hepatitis A within..........of contact with the virus has protective effects." QuestionId="2069" />
+    <Question Question="5: Dual treatment of HBV and HIV is only beneficial if the CD4 count is above 400." QuestionId="2070" />
+    <Question Question="6: A combined HBV and HCV immunisation is commercially available but is currently not on the national immunisation programme." QuestionId="2071" />
+    <Question Question="7: The goal of therapy for HCV is to eradicate the infection." QuestionId="2072" />
+  </Article>
+  <Article Naam="Cirrhosis">
+    <Question Question="1: The primary and essential classification of cirrhosis is morphological, namely micronodular, macronodular and mixed types." QuestionId="2073" />
+    <Question Question="2: Chronic anovulation is common in women with cirrhosis." QuestionId="2074" />
+    <Question Question="3: Liver function tests may be normal in cirrhosis." QuestionId="2075" />
+    <Question Question="4: A MELD score of.........is an appropriate time to refer a patient for evaluation for liver transplantation." QuestionId="2076" />
+    <Question Question="5: Antibiotics that may be used to lower ammonia levels for patients with hepatic encephalopathy include:" QuestionId="2077" />
+    <Question Question="6: For patients with ascites and oedema, dietary sodium should be restricted to......." QuestionId="2078" />
+    <Question Question="7: Palpable cirrhotic nodules are rarely felt." QuestionId="2079" />
+    <Question Question="8: Cirrhosis is a significant risk factor for hepatocellular carcinoma." QuestionId="2080" />
+  </Article>
+  <Article Naam="Drug-induced liver disease">
+    <Question Question="1: There is a linear increase in the incidence of DILI with increasing age." QuestionId="2081" />
+    <Question Question="2: Intrinsic hepatotoxicity is............................. " QuestionId="2082" />
+    <Question Question="3: Patients presenting with paracetamol overdose develop deranged liver function tests approximately......... later." QuestionId="2083" />
+    <Question Question="4: The most important markers of acute DILI are:" QuestionId="2084" />
+    <Question Question="5: Co-infection with HIV and/or hepatitis C significantly increases the risk of hepatotoxicity." QuestionId="2085" />
+    <Question Question="6: Any elevation of the aminotransferase levels in patients receiving isoniazid requires permanent cessation of the drug." QuestionId="2086" />
+    <Question Question="7: Most patients with acute DILI recover without serious permanent liver damage." QuestionId="2087" />
+    <Question Question="8: The therapy of idiosyncratic DILI consists of the immediate withdrawal of any and all suspected drugs." QuestionId="2088" />
+  </Article>
+  <Article Naam="Liver masses">
+    <Question Question="1: Cystic liver masses........................................................................................" QuestionId="2089" />
+    <Question Question="2: The risk of malignant transformation of adenoma is...................................." QuestionId="2090" />
+    <Question Question="3: Liver function tests (LFTs) are the most cost-effective way to exclude liver tumours." QuestionId="2091" />
+    <Question Question="4: A biopsy is needed in the majority of liver masses to make the correct diagnosis." QuestionId="2092" />
+    <Question Question="5: An alpha-fetoprotein level of over...........ng/mL is pathognomonic for HCC." QuestionId="2093" />
+    <Question Question="6: Palliative resection of the liver is almost never indicated." QuestionId="2094" />
+    <Question Question="7: Most liver masses.........................................................................................." QuestionId="2095" />
+  </Article>
+  <Article Naam="Gallstones">
+    <Question Question="1: Acute cholangitis is the most common complication of gallstones." QuestionId="2096" />
+    <Question Question="2: Abdominal X-ray will show the majority of gallstones." QuestionId="2097" />
+    <Question Question="3: Elevated white cell count and CRP often accompany......................................." QuestionId="2098" />
+    <Question Question="4: Medical dissolution of gallstones with bile salts should be tried before surgery is considered. " QuestionId="2099" />
+    <Question Question="5: Acute cholecystitis is associated with:" QuestionId="2100" />
+    <Question Question="6: GS pancreatitis is a common complication of gallstones and gallstones are the commonest cause of acute pancreatitis." QuestionId="2101" />
+    <Question Question="7: Biliary pain is typically a colic type of pain." QuestionId="2102" />
+    <Question Question="8: A third-generation cephalosporin such as ceftriaxone is recommended in patients with acute cholecystitis or cholangitis. " QuestionId="2103" />
+  </Article>
+</Module>

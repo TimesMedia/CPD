@@ -1,0 +1,41 @@
+﻿<Module Naam="Musculoskeletal conditions and pain">
+  <Article Naam="Osteoarthritis">
+    <Question Question="1: The term “primary OA” refers to changes in the cartilage secondary to inflammation, as in rheumatoid arthritis (RA), vascular necrosis, joint malalignment, ochronosis and psoriatic arthritis (PsA). “Secondary OA”, on the other hand, is used to define the idiopathic variant in which there is no underlying cause." QuestionId="3094" />
+    <Question Question="2: In many instances, the pain accompanying OA arises from the tissues surrounding the joint rather than from the joint itself. " QuestionId="3095" />
+    <Question Question="3: The following joints are never affected by OA:" QuestionId="3096" />
+    <Question Question="4: OA causes characteristic radiological changes, consisting of joint space-narrowing, subchondral sclerosis, subchondral cysts and osteophytes, showing these changes in the hand, knee and spine. " QuestionId="3097" />
+    <Question Question="5: In OA, exercise does not provide any protective effect and is discouraged because of the fear of causing or worsening OA from overuse of the joints." QuestionId="3098" />
+    <Question Question="6: The use of nonsteroidal anti-inflammatory drugs (NSAIDs) in the treatment of OA is controversial." QuestionId="3099" />
+  </Article>
+  <Article Naam="Osteoporosis">
+    <Question Question="1: In adults, osteoporosis is caused by disorders that result in an imbalance in bone turnover – either increased osteoclastic bone resorption, which can be caused by reduced oestrogen levels in postmenopausal women, or reduced osteoblastic bone formation, which can occur as a result of oral glucocorticoid therapy." QuestionId="3100" />
+    <Question Question="2: The WHO has identified a number of clinical risk factors that appear to predispose to fracture in most populations. These include:" QuestionId="3101" />
+    <Question Question="3: Medications used to treat osteoporosis fall into two classes: The antiresorptive drugs stimulate new bone formation - an osteoblastic activity, while the anabolic drugs slow the resorption of bone - an osteoclastic activity." QuestionId="3102" />
+    <Question Question="4: The selective oestrogen receptor modulator, raloxifene, slows the resorption of bone." QuestionId="3103" />
+    <Question Question="5: Strontium ranelate can be used in patients with an increased risk for venous thrombo-embolism (VTE) and a history thereof." QuestionId="3104" />
+  </Article>
+  <Article Naam="Gait and balance disorders">
+    <Question Question="1: A normal gait requires proper functioning and communication of the frontal lobe, cortical motor areas (primary motor, premotor, and supplementary motor) and the subcortical motor areas (cerebellum and basal ganglia)." QuestionId="3105" />
+    <Question Question="2: ……………….. are the most common cause(s) of gait impairment. " QuestionId="3106" />
+    <Question Question="3: Stroke is the most common neurological cause of gait impairment." QuestionId="3107" />
+    <Question Question="4: Abnormal gait in the elderly is a significant predictor of the risk of developing dementia.  " QuestionId="3108" />
+    <Question Question="5: ………….. can cause a staggering, wide-based gait, aggravated by eye closure. On examination, disturbed proprioception can be demonstrated." QuestionId="3109" />
+    <Question Question="6: Hypokinetic-rigid gait disorders are not associated with neurodegenerative disorders such as Parkinson’s disease. " QuestionId="3110" />
+  </Article>
+  <Article Naam="Clinical pharmacology of corticosteroids: use in the elderly">
+    <Question Question="1: In elderly patients the side-effect profile of corticosteroids may increase disproportionally to the dosage used." QuestionId="3111" />
+    <Question Question="2: During short periods of therapy with corticosteroids at a daily dosing higher than the physiological norm, HPA-axis suppression does not deplete the adrenal reserve." QuestionId="3112" />
+    <Question Question="3: HPA-axis suppression does not correlate with the anti-inflammatory effect of corticosteroids." QuestionId="3113" />
+    <Question Question="4: Corticosteroids administered as knee-joint injections do, although administered as a depot preparation, become systemically available, resulting in HPA-axis suppression." QuestionId="3114" />
+    <Question Question="5: Short courses of intravenous corticosteroids are ineffective in treating inflammatory bowel conditions." QuestionId="3115" />
+    <Question Question="6: The elderly are also more prone to mood changes due to corticosteroid usage." QuestionId="3116" />
+  </Article>
+  <Article Naam="Chronic pain in the aged">
+    <Question Question="1: Older adults are less stoic in reporting clinical pain sensations." QuestionId="3117" />
+    <Question Question="2: Depression is often present in the elderly patient with chronic pain." QuestionId="3118" />
+    <Question Question="3: …………… are easier to administer and easier for elderly patients to understand." QuestionId="3119" />
+    <Question Question="4: Elderly patients often underestimate low-intensity pain stimuli, only to experience heightened levels of pain when the stimuli are perceived." QuestionId="3120" />
+    <Question Question="5: Chronic pain therapies in the elderly should:" QuestionId="3121" />
+    <Question Question="6: A drawback of opioid drugs is that they not only act on neurons, but also on non-neuronal cells such as microglia, astrocytes and mast cells, causing their activation, which promotes the development of neuro-inflammation. This neuro-inflammation can worsen pain states and central sensitisation." QuestionId="3122" />
+  </Article>
+</Module>

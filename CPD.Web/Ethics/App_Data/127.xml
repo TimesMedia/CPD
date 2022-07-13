@@ -1,0 +1,9 @@
+﻿<Module Naam="Suspected Patient Malingering and Fraudulent...">
+  <Article Naam="Suspected Patient Malingering and Fraudulent Practitioner Claims">
+    <Question Question="1: Malingering is the unintentional production of false physical or physiological symptoms for a reward." QuestionId="2984" />
+    <Question Question="2: In malingering, a vigilant clinician may notice inconsistency between the patient’s verbal complaint and physical observations." QuestionId="2985" />
+    <Question Question="3: In the doctor-patient diagnostic interview, the more prolonged the interview, the more difficult it will be for the malingerer to maintain a false account." QuestionId="2986" />
+    <Question Question="4: Health-care fraud is the main reason for health-care cost inflation." QuestionId="2987" />
+    <Question Question="5: Once fraud has been established, there will be civil action and referral to the HPCSA for disciplinary action against the health-care professional." QuestionId="2988" />
+  </Article>
+</Module>

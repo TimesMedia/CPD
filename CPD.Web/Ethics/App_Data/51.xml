@@ -1,0 +1,12 @@
+﻿<Module Naam="RESUSCITATION">
+  <Article Naam="Resuscitation of the Collapsed Adult Patient in the Emergency Department">
+    <Question Question="1: If the patient is unresponsive and has no central pulse, the algorithm is: " QuestionId="635" />
+    <Question Question="2: The ratio of compressions to breaths is: " QuestionId="636" />
+    <Question Question="3: The insertion of an advanced airway should not interrupt chest compressions for longer than ..........  seconds." QuestionId="637" />
+    <Question Question="4: After placement of an advanced airway, ventilation continues independent of chest compressions at a rate of one breath every ..........   seconds." QuestionId="638" />
+    <Question Question="5: If the biphasic defibrillator manufacturer’s energy dose is unknown, the minimum available dose should be given." QuestionId="639" />
+    <Question Question="6: No drug has been shown to improve a cardiac arrest patient’s prognosis." QuestionId="640" />
+    <Question Question="7: A patient with an irregular wide rhythm should be shocked, unsynchronised at the defibrillation dose." QuestionId="641" />
+    <Question Question="8: Persistent stable wide complex tachycardia should be treated with an infusion of amiodarone of which the first dose is ............ ." QuestionId="642" />
+  </Article>
+</Module>

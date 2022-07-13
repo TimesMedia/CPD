@@ -1,0 +1,26 @@
+﻿<Module Naam="FEMALE CANCERS">
+  <Article Naam="Early breast cancer ">
+    <Question Question="1: A complete clinical evaluation involves triple assessment i.e.:" QuestionId="1715" />
+    <Question Question="2: Mammography does not show evidence of malignancy in approximately 40% of patients with breast cancer." QuestionId="1716" />
+    <Question Question="3: Tamoxifen is only effective in postmenopausal women." QuestionId="1717" />
+    <Question Question="4: When radiotherapy is omitted from the treatment regimen, there are significantly increased rates of local relapse. " QuestionId="1718" />
+    <Question Question="5: Breast cancer is the most common tumour in Asian and Black women in South Africa." QuestionId="1719" />
+    <Question Question="6: The anthracyclines and taxanes are considered the most effective chemotherapies in the adjuvant treatment of breast cancer." QuestionId="1720" />
+  </Article>
+  <Article Naam="Metastatic breast cancer">
+    <Question Question="1: When breast cancer relapses and there is evidence of metastatic disease, histological confirmation is unnecessary." QuestionId="1721" />
+    <Question Question="2: Locoregional disease recurrence should always be treated with curative intent." QuestionId="1722" />
+    <Question Question="3: Metastatic breast cancer may be treated with simultaneously administered chemotherapy and endocrine therapy." QuestionId="1723" />
+    <Question Question="4: Palliative radiotherapy is often used in patients with painful bone metastasis but should be avoided in patients with neurological complications from metastatic disease." QuestionId="1724" />
+    <Question Question="5: Calcium and vitamin D should be given to most women taking aromatase inhibitors." QuestionId="1725" />
+    <Question Question="6: An isolated change in tumour markers can be used to decide on disease progression. " QuestionId="1726" />
+    <Question Question="7: Bone scans are the most accurate tools to use for disease response evaluation." QuestionId="1727" />
+  </Article>
+  <Article Naam="Female genital tract cancers     ">
+    <Question Question="1: Late menarche and early menopause is associated with increased risk for ovarian cancer." QuestionId="1728" />
+    <Question Question="2: Maximum debulking surgery, adjuvant chemotherapy with a platinum and taxane are standards of care for FIGO stage IIb – IIIc cancer." QuestionId="1729" />
+    <Question Question="3: The mainstay treatment of cancer of the cervix remains surgery followed by chemotherapy with a platinum and taxane." QuestionId="1730" />
+    <Question Question="4: The treatment recommendations for early stage endometrial cancer are primarily surgery followed by radiation therapy." QuestionId="1731" />
+    <Question Question="5: The incidence of renal toxicity is higher with carboplatinum than cisplatinum." QuestionId="1732" />
+  </Article>
+</Module>

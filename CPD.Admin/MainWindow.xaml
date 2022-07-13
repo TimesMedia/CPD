@@ -1,0 +1,123 @@
+﻿<Window  x:Class="CPD.Admin.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Data="clr-namespace:CPD.Data;assembly=CPD.Data"
+        xmlns:local="clr-namespace:CPD.Admin" 
+        Title="CPD Administration" Loaded="Window_Loaded" WindowState="Normal" SizeChanged="Window_SizeChanged" Width="1023">
+    <Window.Resources>
+        <Data:ResultDoc x:Key="resultDoc"/>
+        <CollectionViewSource x:Key="historyViewSource" Source="{Binding History, Source={StaticResource resultDoc}}"/>
+        <local:DateConverter x:Key="lDateConverter"/>
+        <ControlTemplate TargetType="{x:Type Button}" x:Key="ButtonTemplate">
+            <Border CornerRadius="15" BorderBrush="Blue" BorderThickness="4">
+                <Grid>
+                    <Rectangle Fill="Aquamarine" RadiusX="20" RadiusY="20"/>
+                    <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </Grid>
+            </Border>
+
+        </ControlTemplate>
+        <Style TargetType="{x:Type Button}" >
+            <Setter Property="Width" Value="120"/>
+            <Setter Property="Template" Value="{StaticResource ButtonTemplate}"/>
+        </Style>
+
+        <Style TargetType="{x:Type DataGridCell}">
+            <Style.Triggers>
+                <Trigger Property="IsSelected"  Value="true">
+                    <Setter Property="Background" Value="Yellow"/>
+                    <Setter Property="Foreground" Value="Red"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+
+    <TabControl x:Name="gTabControl" HorizontalAlignment="Stretch" Height="Auto" VerticalAlignment="Stretch" Width="Auto">
+        <TabItem Header="History">
+            <StackPanel DataContext="{StaticResource historyViewSource}">
+                <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+                    <Button Content="Select by customerId" Height="30" Width="140" Margin="0,0,0,0" Click="buttonSelectCustomerId"/>
+                    <Label x:Name="labelCustomerId" Height="30" Width="100" />
+                    <Button Content="Select from date" Height="30" Width="111" Margin="40,0,20,0" Click="buttonSelectFromDate"/>
+                    <DatePicker x:Name="DateFrom" Height="30" Width="198" SelectedDateFormat="Long" />
+                </StackPanel>
+
+                <Grid Height="Auto">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    
+                    <DataGrid x:Name="historyDataGrid" Grid.Column="0" Grid.Row="0" RowDetailsVisibilityMode="VisibleWhenSelected" ItemsSource="{Binding}" 
+                            EnableRowVirtualization="True" AutoGenerateColumns="False" CanUserAddRows="False" HorizontalScrollBarVisibility="Visible" 
+                             AlternatingRowBackground="AliceBlue" SelectionUnit="CellOrRowHeader" SelectionMode="Extended"  
+                            IsReadOnly="True" Margin="0,10,0,0" FrozenColumnCount="3">
+                        <DataGrid.RowHeaderStyle>
+                            <Style TargetType="{x:Type DataGridRowHeader}">
+                                <Setter Property="Background"  Value="Yellow"/>
+                                <Setter Property="Width"  Value="30"/>
+                                <Setter Property="BorderBrush" Value="Red" />
+                                <Setter Property="BorderThickness"  Value="3" />
+                            </Style>
+                        </DataGrid.RowHeaderStyle>
+                        <DataGrid.Columns>
+                            <DataGridTextColumn x:Name="resultIdColumn" Width="Auto" Header="Result Id" Binding="{Binding ResultId}"/>
+                            <DataGridTextColumn x:Name="verdictColumn" Width="Auto" Header="Verdict" Binding="{Binding Verdict}"/>
+                            <DataGridTextColumn x:Name="dateColumn" Width="Auto" Header="Date" Binding="{Binding Date, Converter={StaticResource lDateConverter}}"/>
+                            <DataGridTextColumn x:Name="dateIssuedColumn" Width="Auto" Header="Certificate issued" Binding="{Binding DateIssued, Converter={StaticResource lDateConverter}}"/>
+                            <DataGridTextColumn x:Name="publicationColumn" Width="Auto" Header="Publication" Binding="{Binding Publication}"/>
+                            <DataGridTextColumn x:Name="issueColumn" Width="Auto" Header="Issue" Binding="{Binding Issue}"/>
+
+                            <DataGridTemplateColumn  Header="Module">
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <TextBlock x:Name="moduleColumn" Width="200" Text="{Binding Module}" TextWrapping="Wrap"></TextBlock>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+                           
+                            <!--<DataGridTextColumn x:Name="moduleColumn" Width="200" Header="Module" Binding="{Binding Module}"/>-->
+                            <DataGridTextColumn x:Name="attemptColumn" Width="Auto" Header="Attempt" Binding="{Binding Attempt}"/>
+                            <DataGridTextColumn x:Name="scoreColumn" Width="Auto" Header="Score" Binding="{Binding Score}"/>
+                           
+                            <DataGridTextColumn  Width="Auto" Header="Normal points" Binding="{Binding NormalPoints}"/>
+                            <DataGridTextColumn  Width="Auto" Header="Ethics points" Binding="{Binding EthicsPoints}"/>
+
+                            <DataGridTextColumn x:Name="moduleIdColumn" Width="Auto" Header="Module Id" Binding="{Binding ModuleId}"/>
+                            <DataGridTextColumn x:Name="customerIdColumn" Width="Auto" Header="Customer Id" Binding="{Binding CustomerId}"/>
+                            <DataGridTextColumn x:Name="surnameColumn" Width="Auto" Header="Surname" Binding="{Binding Surname}"/>
+                        </DataGrid.Columns>
+                        <DataGrid.ContextMenu>
+                            <ContextMenu>
+                                <MenuItem Header="Mark the test" Click="Click_Mark" />
+                                <MenuItem Header="Reset the test" Click="Click_Reset" />
+                                <MenuItem Header="Render the certificate" Click="Click_Render" />
+                                <MenuItem Header="Render and email the certificate" Click="Click_Email" />
+                            </ContextMenu>
+                        </DataGrid.ContextMenu>
+                    </DataGrid>
+
+                    <!--<WebBrowser x:Name="PDFViewer" Grid.Column="2" Margin="0,10,0,0" Width="auto" Height="auto" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"/>-->
+
+                </Grid>
+
+                <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+                    <Button x:Name="buttonSelectAll" Margin="0,0,0,0" Click="ButtonSelectAll_Click" Content="Select all"/>
+                    <Button x:Name="buttonDeselectAll" Margin="10,0,0,0" Click="ButtonDeselectAll_Click" Content="Deselect all"/>
+                     <Button Content="Render and email selected certificates" Height="30" Width="320" Margin="40,0,0,0" Click="buttonRenderAndEmailSelected" HorizontalAlignment="Left"/>
+                    <Button Content="Test" Height="30" Width="50" Margin="40,0,0,0" Click="buttonTest" HorizontalAlignment="Left"/>
+
+
+                </StackPanel>
+
+
+            </StackPanel>
+        </TabItem>
+
+        <TabItem  Header="Log">
+            <ListBox x:Name="LogListBox" />
+        </TabItem>
+
+        <TabItem Header="Display flow document" x:Name="DisplayFlowDocument"/>
+
+    </TabControl>
+</Window>

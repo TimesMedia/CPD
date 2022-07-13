@@ -1,0 +1,18 @@
+﻿<Module Naam="Oncology screening and care ">
+  <Article Naam="Cancer-screening in the elderly patient – general guidelines">
+    <Question Question="1: The goal of cancer-screening should be to identify at an early stage an asymptomatic patient at risk of developing a cancer or to detect the cancer at a pre-clinical stage where early treatment would extend the patient’s life by cure as well as improve the quality of that extended life. " QuestionId="3184" />
+    <Question Question="2: Overdiagnosis, the diagnosis of a condition that will never cause a patient symptoms or death during his/her lifetime, can be avoided by routine cancer screening." QuestionId="3185" />
+    <Question Question="3: The majority of cancer-screening guidelines are from evidence derived at population level and individual variations in life expectancy, comorbid conditions, functional status or personal preference are generally not addressed in these studies." QuestionId="3186" />
+    <Question Question="4: Best-practice recommendations pertaining to cancer-screening do not recommend screening for breast, colorectal, or prostate cancer if life expectancy is estimated to be less than 10 years.                                                                                               " QuestionId="3187" />
+    <Question Question="5: Best-practice recommendations pertaining to cancer-screening do not recommend screening for cervical cancer in low-risk women 65 years or older and in women who have had a total hysterectomy for benign disease." QuestionId="3188" />
+    <Question Question="6: Best-practice recommendations pertaining to cancer-screening recommend colorectal cancer-screening tests in asymptomatic patients, including those with a life expectancy of less than 10 years and no family or personal history of colorectal neoplasia.                                      " QuestionId="3189" />
+  </Article>
+  <Article Naam="Cancer-screening in the elderly patient – specific guidelines">
+    <Question Question="1: The Gail model uses age, family history, race and other factors to calculate a woman’s individual risk of developing breast cancer over the next five years and is valid up to the age of 90." QuestionId="3190" />
+    <Question Question="2: Breast-cancer screening in women up until the age of 80 is evidence-based. Continuation beyond this age group should be individualised." QuestionId="3191" />
+    <Question Question="3: In women older than 65 with three negative Pap smears within the last 10 years, the most recent within five years, no cervical cancer screening should be done." QuestionId="3192" />
+    <Question Question="4: Concerning cervical cancer screening: Women who have the following criteria should continue with regular screening, including at age 65 and older:" QuestionId="3193" />
+    <Question Question="5: The risk of prostate cancer rises with age and the highest rates are in patients aged 75 years and older." QuestionId="3194" />
+    <Question Question="6: Routine screening for prostate cancer in any patient is discouraged, but more especially in the elderly or frail patient." QuestionId="3195" />
+  </Article>
+</Module>

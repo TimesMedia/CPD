@@ -1,0 +1,23 @@
+﻿<Module Naam="SKIN AND SOFT TISSUE CANCERS">
+  <Article Naam="Non-melanoma skin cancers">
+    <Question Question="1: Basal cell carcinoma commonly metastasises to local lymph nodes." QuestionId="1700" />
+    <Question Question="2: Cutaneous horns are usually a premalignant condition." QuestionId="1701" />
+    <Question Question="3: Surgery is the primary and most effective therapy for BCC and SCC but cure rates remain &lt; 60%." QuestionId="1702" />
+    <Question Question="4: Vismodegib, a sonic hedgehog pathway inhibitor, is a major breakthrough in management of recurrent BCC." QuestionId="1703" />
+  </Article>
+  <Article Naam="Malignant melanoma">
+    <Question Question="1: A naevus with a diameter of ……….. mm is a suspicious sign of a melanoma. " QuestionId="1704" />
+    <Question Question="2: Prophylactic regional lymph node dissections are highly beneficial in stage II disease." QuestionId="1705" />
+    <Question Question="3: Stage III melanoma includes surgically resectable disease only." QuestionId="1706" />
+    <Question Question="4: Melanoma is a relatively radiation-resistant tumour." QuestionId="1707" />
+    <Question Question="5: The spread of malignant melanomas is mainly via haematogenous spread." QuestionId="1708" />
+  </Article>
+  <Article Naam="Bone and soft tissue sarcomas in children">
+    <Question Question="1: RMS is a highly sensitive tumour, and all patients with rhabdomyosarcoma need chemotherapy." QuestionId="1709" />
+    <Question Question="2: RMS commonly spreads to the:" QuestionId="1710" />
+    <Question Question="3: Osteogenic sarcoma is most common in children less than eight years of age." QuestionId="1711" />
+    <Question Question="4: Osteogenic sarcoma is radiosensitive." QuestionId="1712" />
+    <Question Question="5: Ewing sarcoma is a radio-sensitive tumour." QuestionId="1713" />
+    <Question Question="6: Limb amputation is the best surgical treatment for osteogenic sarcoma." QuestionId="1714" />
+  </Article>
+</Module>

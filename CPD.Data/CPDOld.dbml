@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="CPD" Class="CPDDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=pklwebdb01\mssql2016std;Initial Catalog=CPD;Integrated Security=True" SettingsObjectName="CPD.Data.Properties.Settings" SettingsPropertyName="CPDConnectionString3" Provider="System.Data.SqlClient" />
+  <Function Name="dbo.[ResultDoc.Result.IssueCertificate]" Method="ResultDoc_Result_IssueCertificate">
+    <Parameter Name="ResultId" Parameter="resultId" Type="System.Int32" DbType="Int" />
+    <Parameter Name="DateIssued" Parameter="dateIssued" Type="System.DateTime" DbType="DateTime" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>

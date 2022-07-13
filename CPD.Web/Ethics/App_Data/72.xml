@@ -1,0 +1,19 @@
+﻿<Module Naam="UROGENITAL TRACT CANCERS">
+  <Article Naam="Kidney and bladder cancers">
+    <Question Question="1: RCC is approximately 50% more common in women compared with men." QuestionId="1733" />
+    <Question Question="2: Surgery is potentially curative in the majority of patients with localised RCC." QuestionId="1734" />
+    <Question Question="3: Patients with solitary distant metastases seldom achieve prolonged survival and palliative care is indicated." QuestionId="1735" />
+    <Question Question="4: Bladder cancer characteristically causes painless macroscopic or microscopic haematuria." QuestionId="1736" />
+    <Question Question="5: Additional intravesical therapy is generally recommended for patients with intermediate- to high-risk non-muscle invasive bladder tumours." QuestionId="1737" />
+    <Question Question="6: Not all patients with urothelial cancer are appropriate candidates for cisplatin therapy." QuestionId="1738" />
+    <Question Question="7: Radical cystectomy with a urinary diversion is the mainstay of treatment for non-muscle-invasive bladder cancer." QuestionId="1739" />
+  </Article>
+  <Article Naam="Prostate Cancer">
+    <Question Question="1: PSA level more than ……………leads to approximately 30% to 35% increased likelihood to detect prostate cancer at prostate biopsy.  " QuestionId="1740" />
+    <Question Question="2: 5-Alpha reductase inhibitors cause a decrease in sexual function and libido as well as gynaecomastia in the majority of men." QuestionId="1741" />
+    <Question Question="3: In patients with metastatic prostate cancer that shows progression after hormonal management, radiotherapy is indicated." QuestionId="1742" />
+    <Question Question="4: Monthly administration of zoledronic acid can prevent spinal cord compression in the patient with prostate cancer." QuestionId="1743" />
+    <Question Question="5: Disadvantages of brachytherapy include: " QuestionId="1744" />
+    <Question Question="6: External beam radiotherapy may be curative in prostate cancer." QuestionId="1745" />
+  </Article>
+</Module>

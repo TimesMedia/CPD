@@ -1,0 +1,18 @@
+﻿<Module Naam="Practical approaches">
+  <Article Naam="Radiology of the gastro-intestinal tract">
+    <Question Question="1: The pancreas is mostly not visible on CT and MRI scans but in the ideal patient reveals on ultrasound." QuestionId="2142" />
+    <Question Question="2: Before CT and MRI enterography of the small bowel, bowel distending and paralysing products should be given." QuestionId="2143" />
+    <Question Question="3: Radiology plays no role in the diagnosis of appendicitis. " QuestionId="2144" />
+    <Question Question="4: Virtual colonoscopy can identify lesions like polyps but gastroenterologists cannot remove these during the same procedure." QuestionId="2145" />
+    <Question Question="5: CT-scanning is useful to determine spread and invasion of oesophageal cancer." QuestionId="2146" />
+    <Question Question="6: Barium studies in the oesophagus can reveal:" QuestionId="2147" />
+  </Article>
+  <Article Naam="Gastro-intestinal malignancy: diagnostic clues for the primary health practitioner">
+    <Question Question="1: Abdominal ultrasound should be the first investigation for abdominal pain and suggestive symptoms." QuestionId="2148" />
+    <Question Question="2: Upper endoscopy is more accurate than barium swallow." QuestionId="2149" />
+    <Question Question="3: The risk of gastric and oesophageal malignancies in dyspeptic patients is high." QuestionId="2150" />
+    <Question Question="4: .........of patients presenting with lower GI bleed have underlying colon polyps and colorectal cancer." QuestionId="2151" />
+    <Question Question="5: Internal haemorrhoids or piles are impalpable." QuestionId="2152" />
+    <Question Question="6: The risk of oesophageal cancer is increased in:" QuestionId="2153" />
+  </Article>
+</Module>

@@ -1,0 +1,42 @@
+﻿<Module Naam="HIV and sexually-transmitted infections">
+  <Article Naam="HIV – antiretroviral therapy in adults">
+    <Question Question="1: Indications for antiretroviral therapy:" QuestionId="2155" />
+    <Question Question="2: With regard to therapy in an antiretroviral-therapy-naive HIV-infected patient:" QuestionId="2156" />
+    <Question Question="3: With regard to a patient who has defaulted on antiretroviral therapy:" QuestionId="2157" />
+    <Question Question="4: With regard to treating infections with an HIV-infected patient:" QuestionId="2158" />
+    <Question Question="5: With regard to the acute side effects of antiretroviral drugs:" QuestionId="2159" />
+    <Question Question="6: With regard to the long-term side effects of antiretroviral drugs:" QuestionId="2160" />
+  </Article>
+  <Article Naam="HIV – antiretroviral therapy in children">
+    <Question Question="1: A three-year old boy, weighing 10 kg, is HIV-positive.  He has pulmonary TB.  His WHO stage is:" QuestionId="2161" />
+    <Question Question="2: He has never been on ARVs and his mother did not receive PMTCT. His CD4 count is 400 cells/µL. He should: " QuestionId="2162" />
+    <Question Question="3: His recommended ART regimen is" QuestionId="2163" />
+    <Question Question="4: One week after starting with ARV his mother brings him back to the practice since he is vomiting after every meal. He is otherwise healthy." QuestionId="2164" />
+    <Question Question="5: After six months his viral load is 1 500 copies/ml. The test is repeated after three months and there is no change." QuestionId="2165" />
+    <Question Question="6: The following drugs may cause lactic acidosis:" QuestionId="2166" />
+  </Article>
+  <Article Naam="HIV: managing the challenges">
+    <Question Question="1: The following signs at initial presentation correlate with poor survival." QuestionId="2167" />
+    <Question Question="2: Loss to follow-up is greatest:" QuestionId="2168" />
+    <Question Question="3: Focal-Point Clinics where medical attention focuses on the integration of clinical problems can decrease failure to link with care after hospitalisation." QuestionId="2169" />
+    <Question Question="4: With regard to the prevention of transmission:" QuestionId="2170" />
+    <Question Question="5: Drug failure is defined as a persistently raised viral load of ≥1000cp/ml over 6-12 weeks while remaining on the same ART. " QuestionId="2171" />
+    <Question Question="6: First-line ART" QuestionId="2172" />
+  </Article>
+  <Article Naam="Sexually-transmitted infections: diagnosis and treatment">
+    <Question Question="1: The following are characteristics of bacterial vaginosis:" QuestionId="2173" />
+    <Question Question="2: Gonorrhoea:" QuestionId="2174" />
+    <Question Question="3: Buboes:" QuestionId="2175" />
+    <Question Question="4: Genital warts:" QuestionId="2176" />
+    <Question Question="5: The following statements are true:" QuestionId="2177" />
+    <Question Question="6: Genital ulcers:" QuestionId="2178" />
+  </Article>
+  <Article Naam="Management of occupational exposure to tuberculosis and human immunodeficiency virus.">
+    <Question Question="1: After a needle-prick incident with exposure to human immunodeficiency virus:" QuestionId="2179" />
+    <Question Question="2: A four-year-old HIV-positive boy completed a course of INH six months ago. He lives with his grandmother who was diagnosed with pulmonary TB last week." QuestionId="2180" />
+    <Question Question="3: The South African guidelines advise asymptomatic children five years and younger who are exposed to MDR TB to take high-dose isoniazid." QuestionId="2181" />
+    <Question Question="4: Health care workers who are living with HIV need to …" QuestionId="2182" />
+    <Question Question="5: Chemoprophylaxis can reduce the risk of TB disease by ……………. in children who complete a course of INH." QuestionId="2183" />
+    <Question Question="6: The following constitutes exposure to HIV and needs immediate prophylaxis: " QuestionId="2184" />
+  </Article>
+</Module>

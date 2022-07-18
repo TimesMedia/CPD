@@ -14,4 +14,3 @@ C:\CSharp\MimsCPD\CPD.Data\obj\Debug\CPD.Data.csproj.CoreCompileInputs.cache
 C:\CSharp\MimsCPD\CPD.Data\obj\Debug\CPD.Data.csproj.CopyComplete
 C:\CSharp\MimsCPD\CPD.Data\obj\Debug\CPD.Data.dll
 C:\CSharp\MimsCPD\CPD.Data\obj\Debug\CPD.Data.pdb
-C:\CSharp\MimsCPD\CPD.Data\obj\Debug\CPD.Data.csproj.AssemblyReference.cache

@@ -61,7 +61,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>tqIH1qjDzgY0dT0bNlZ29FSoUDeXGRuAtZrTW2zqqjc=</dsig:DigestValue>
+        <dsig:DigestValue>pTGTn0caJjGwKvt2eKi5qbRfA9eaEZ9P4Uv7LH6OWHo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -73,7 +73,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>WyXcEh0/QWVXJHCn6T8hklh6zUJ+OzSIx3iCOULW+xM=</dsig:DigestValue>
+        <dsig:DigestValue>n+srnPdclTFEyjQ8c54dqoPaibqpZBYy5kVkHgDqM24=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -85,7 +85,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>p3d9ZB+FN4WaM4AjfXMVmzJFTafoitofA+61US5vrJg=</dsig:DigestValue>
+        <dsig:DigestValue>N1SAbhoxtPiTZdLQsYbPY2bQ6UemCnZktb7Wzb4tPZU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -169,19 +169,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>nBDNE0ef0kDvLNIfgfqpVNl2jzdUV46zp5jQRjTaF6Q=</dsig:DigestValue>
+        <dsig:DigestValue>3zPM5WC030JPo7ewQxmH6zbK0C4k6SE6U9Hw351uSpc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Subs.Data.dll" size="1334784">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Subs.Data.dll" size="1334272">
       <assemblyIdentity name="Subs.Data" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>uD45g0fmNEwoiXI0SkO6HBa8UO68VzY0xX6bkBiNZnI=</dsig:DigestValue>
+        <dsig:DigestValue>V4rZlAwWLONM3Pf6oiDSB4ptHogq9o+E1DhVCdov42Y=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -305,13 +305,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="CPD.Admin.exe.config" size="1370">
+  <file name="CPD.Admin.exe.config" size="1674">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>H1q+ARPoIbC7tXexYoKi0xvmP2CgTqki66xAPsdkiMw=</dsig:DigestValue>
+      <dsig:DigestValue>q2IgNAxkLpfAq30hpO4Wv/7v59RpAuyFLmDOuMXAD2A=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

@@ -62,3 +62,4 @@ C:\CSharp\MimsCPD\CPD.Admin\bin\Release\System.Threading.Tasks.Extensions.xml
 C:\CSharp\MimsCPD\CPD.Admin\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
 C:\CSharp\MimsCPD\CPD.Admin\bin\Release\System.Buffers.xml
 C:\CSharp\MimsCPD\CPD.Admin\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\CSharp\MimsCPD\CPD.Admin\obj\Release\CPD.Admin.exe.config

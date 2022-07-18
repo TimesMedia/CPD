@@ -427,8 +427,7 @@ namespace CPD.Admin
             {
                 this.Cursor = Cursors.Wait;
 
-                CPD.Business.CPDCertificate lCertificate = new Business.CPDCertificate();
-
+ 
 
                 foreach (DataRowView lDataRowView in historyDataGrid.SelectedItems)
                 {
@@ -438,7 +437,8 @@ namespace CPD.Admin
                     {
                         continue;
                     }
-                  
+
+                    CPD.Business.CPDCertificate lCertificate = new Business.CPDCertificate();
 
                     {
                         string lResult;

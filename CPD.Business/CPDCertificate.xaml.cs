@@ -62,7 +62,7 @@ namespace CPD.Business
 
                 if (lCertificate.EthicsPoints > 0)
                 {
-                    EthicsPoints.Content = "Ethics Points: " + lCertificate.EthicsPoints.ToString();
+                    EthicsPoints.Content = "Clinical Points: " + lCertificate.EthicsPoints.ToString();
                 }
   
                 byte[] lXps = FlowDocumentConverter.XpsConverter.ConverterDoc(this.gFlowDocument);

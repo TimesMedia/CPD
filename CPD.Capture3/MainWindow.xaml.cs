@@ -257,9 +257,12 @@ namespace CPD.Capture3
             try
             {
                 gModuleAdapter.Update(gQuestionareDoc.Module);
+                gQuestionareDoc.Module.AcceptChanges();
+
                 gQuestionareDoc.Answer.Clear();
                 gQuestionareDoc.Question.Clear();
                 gQuestionareDoc.Article.Clear();
+                gQuestionareDoc.Module.Clear();
                
                 gModuleAdapter.Fill(gQuestionareDoc.Module);
                 gArticleAdapter.Fill(gQuestionareDoc.Article);

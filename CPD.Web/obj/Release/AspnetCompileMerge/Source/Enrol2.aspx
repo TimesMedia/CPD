@@ -48,9 +48,9 @@
                         <asp:BoundField DataField="Issue" HeaderText="Issue" SortExpression="Issue" visible="false"/>
                         <asp:BoundField DataField="Module" HeaderText="Module" 
                             SortExpression="Module" />
-                        <asp:BoundField DataField="NormalPoints" HeaderText="NormalPoints" 
+                        <asp:BoundField DataField="NormalPoints" HeaderText="Normal Points" 
                             SortExpression="NormalPoints" />
-                        <asp:BoundField DataField="EthicsPoints" HeaderText="Ethics Points"
+                        <asp:BoundField DataField="EthicsPoints" HeaderText="Clinical Points"
                             SortExpression="EthicsPoints"/>
                         <asp:BoundField DataField="PassRate" HeaderText="Pass Rate" 
                             SortExpression="PassRate" />

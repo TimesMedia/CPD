@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="CPD.Admin.exe" version="1.0.0.5" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="CPD.Admin.exe" version="1.0.0.6" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
     <assemblyIdentity name="CPD.Admin" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
@@ -61,7 +61,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>pTGTn0caJjGwKvt2eKi5qbRfA9eaEZ9P4Uv7LH6OWHo=</dsig:DigestValue>
+        <dsig:DigestValue>0ZX8AczmKJ9+DVtDTpc7DXcY6+s8n9CxwkAlLF79Ovg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -73,7 +73,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>n+srnPdclTFEyjQ8c54dqoPaibqpZBYy5kVkHgDqM24=</dsig:DigestValue>
+        <dsig:DigestValue>YOHoQW7bSB2h0f+GPL6uSh8P6J/dSgBfaJafVCRf7cM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -85,7 +85,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>N1SAbhoxtPiTZdLQsYbPY2bQ6UemCnZktb7Wzb4tPZU=</dsig:DigestValue>
+        <dsig:DigestValue>mmC9uGG/hDBnneejja+jqgEQMQBU0ggp+4IaMBPqbhU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -162,26 +162,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Subs.Business.dll" size="61952">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Subs.Business.dll" size="62464">
       <assemblyIdentity name="Subs.Business" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>3zPM5WC030JPo7ewQxmH6zbK0C4k6SE6U9Hw351uSpc=</dsig:DigestValue>
+        <dsig:DigestValue>WCGqiKqHWUx0pZx1d+xQu2xYBptNkPswxYsdcyDKqd8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Subs.Data.dll" size="1334272">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Subs.Data.dll" size="1351168">
       <assemblyIdentity name="Subs.Data" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>V4rZlAwWLONM3Pf6oiDSB4ptHogq9o+E1DhVCdov42Y=</dsig:DigestValue>
+        <dsig:DigestValue>66c9YMQ6HR6h5J9RZxKrxgSKpjx5voxyJZBx0vfxJ8o=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

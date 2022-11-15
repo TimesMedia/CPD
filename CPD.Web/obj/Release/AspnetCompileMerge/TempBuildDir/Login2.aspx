@@ -9,7 +9,7 @@
         <asp:Label ID="LabelVersion" runat="server" Text=""></asp:Label>
         <br />
         <br />
-        <asp:Label ID="Label2" runat="server" Text="MIMS CustomerId"></asp:Label>
+        <asp:Label ID="Label2" runat="server" Text="MIMS Customer Id"></asp:Label>
         <asp:TextBox ID="TextCustomerId" CssClass="input-generic" runat="server"  TextMode="SingleLine"  
             Width="107px" ></asp:TextBox>
         <asp:Label ID="Label1" runat="server" Text="  Email address"></asp:Label>

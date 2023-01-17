@@ -7,7 +7,7 @@ using System.Windows.Controls;
 using System.Windows.Documents;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using Subs.Business;
+
 
 namespace CPD.Business
 {
@@ -101,7 +101,7 @@ namespace CPD.Business
                     CurrentException = CurrentException.InnerException;
                 } while (CurrentException != null);
 
-                throw ex;
+                return ex.Message;
             }
         }
 
@@ -128,32 +128,12 @@ namespace CPD.Business
                                       lCertificate.EMailAddress,
                                       "MIMS CPD Certificate",
                                       lBody);
+
                 if (lResult != "OK")
                 { 
                     return lResult;
                 }
-
-
-                //SmtpClient smtpClient = new SmtpClient("172.15.83.191", 25);
-                //smtpClient.Credentials = new System.Net.NetworkCredential("vandermerwer@mims.co.za", "");
-                //smtpClient.EnableSsl = true;
-
-                //smtpClient.Timeout = 30000;
-                //smtpClient.DeliveryMethod = SmtpDeliveryMethod.Network;
-                //MailMessage mail = new MailMessage();
-                //mail.From = new MailAddress("vandermerwer@mims.co.za", "Mims");
-
-                //mail.To.Add(new MailAddress(lCertificateTable[0].EMailAddress));
-                ////mail.To.Add(new MailAddress("heinreitmann@gmail.com"));
-
-
-                //mail.Subject = "MIMS CPD Certificate";
-                //Attachment lAttachment = new Attachment(gPdfMemoryStream, "CPDCertificate.pdf", System.Net.Mime.MediaTypeNames.Application.Pdf);
-                //mail.Attachments.Add(lAttachment);
-                
-                //mail.Body = myBody;
-                //smtpClient.Send(mail);
-
+               
                 CertificateData.RecordEmailSuccess(pResultId);
 
                 return "OK";

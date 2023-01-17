@@ -137,8 +137,7 @@ namespace CPD.Web
                     string lResult;
                     if ((lResult = lCertificate.Render((int)pState)) != "OK")
                     {
-                        LabelResponse.Text = "Error rendering certificate";
-                        return;
+                        LabelResponse.Text = "Error rendering certificate " + lResult;
                     }
                 }
 
@@ -146,7 +145,7 @@ namespace CPD.Web
                     string lResult;
                     if ((lResult = lCertificate.EmailCertificate((int)pState)) != "OK")
                     {
-                        LabelResponse.Text = "Error emailing certificate";
+                        LabelResponse.Text = "Error emailing certificate " + lResult;
                         return;
                     }
                 }

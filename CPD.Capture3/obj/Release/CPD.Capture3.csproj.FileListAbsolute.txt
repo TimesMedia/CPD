@@ -7,6 +7,7 @@ C:\CSharp\MimsCPD\CPD.Capture3\bin\Release\CPD.Data.dll
 C:\CSharp\MimsCPD\CPD.Capture3\bin\Release\System.IO.FileSystem.Primitives.dll
 C:\CSharp\MimsCPD\CPD.Capture3\bin\Release\CPD.Data.pdb
 C:\CSharp\MimsCPD\CPD.Capture3\bin\Release\CPD.Data.dll.config
+C:\CSharp\MimsCPD\CPD.Capture3\obj\Release\CPD.Capture3.csproj.AssemblyReference.cache
 C:\CSharp\MimsCPD\CPD.Capture3\obj\Release\MainWindow.baml
 C:\CSharp\MimsCPD\CPD.Capture3\obj\Release\MainWindow.g.cs
 C:\CSharp\MimsCPD\CPD.Capture3\obj\Release\App.g.cs
@@ -20,4 +21,3 @@ C:\CSharp\MimsCPD\CPD.Capture3\obj\Release\CPD.Capture3.application
 C:\CSharp\MimsCPD\CPD.Capture3\obj\Release\CPD.Capture3.csproj.CopyComplete
 C:\CSharp\MimsCPD\CPD.Capture3\obj\Release\CPD.Capture3.exe
 C:\CSharp\MimsCPD\CPD.Capture3\obj\Release\CPD.Capture3.pdb
-C:\CSharp\MimsCPD\CPD.Capture3\obj\Release\CPD.Capture3.csproj.AssemblyReference.cache

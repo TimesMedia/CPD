@@ -31,3 +31,4 @@ C:\CSharp\MimsCPD\CPD.Data\obj\Release\CPD.Data.csproj.CoreCompileInputs.cache
 C:\CSharp\MimsCPD\CPD.Data\obj\Release\CPD.Data.csproj.CopyComplete
 C:\CSharp\MimsCPD\CPD.Data\obj\Release\CPD.Data.dll
 C:\CSharp\MimsCPD\CPD.Data\obj\Release\CPD.Data.pdb
+C:\CSharp\MimsCPD\CPD.Data\obj\Release\CPD.Data.csproj.AssemblyReference.cache

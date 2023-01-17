@@ -4,6 +4,5 @@ namespace CPD.Data
     {
         public static string CPDConnectionString { get; set; }
         public static string MIMSConnectionString { get; set; }
-
     }
 }

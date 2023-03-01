@@ -61,6 +61,7 @@
     <Reference Include="PresentationFramework" />
     <Reference Include="System">
       <Private>True</Private>
+      <HintPath>..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.dll</HintPath>
     </Reference>
     <Reference Include="System.Data">
       <Private>True</Private>

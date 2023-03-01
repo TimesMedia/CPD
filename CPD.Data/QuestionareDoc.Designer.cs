@@ -1158,7 +1158,7 @@ namespace CPD.Data {
             
             private global::System.Data.DataColumn columnFacility;
             
-            private global::System.Data.DataColumn columnXMLFileName;
+            private global::System.Data.DataColumn columnRTFFileName;
             
             private global::System.Data.DataColumn columnVerticalAdvertURL;
             
@@ -1245,9 +1245,9 @@ namespace CPD.Data {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
-            public global::System.Data.DataColumn XMLFileNameColumn {
+            public global::System.Data.DataColumn RTFFileNameColumn {
                 get {
-                    return this.columnXMLFileName;
+                    return this.columnRTFFileName;
                 }
             }
             
@@ -1352,14 +1352,14 @@ namespace CPD.Data {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
-            public Survey2Row AddSurvey2Row(string Naam, System.DateTime ExpirationDate, string Facility, string XMLFileName, string VerticalAdvertURL, string HorisontalAdvertURL, string EBookURL, int IssueId, string AccreditationNumber, string CMEPublication, string CMEIssue, string URL) {
+            public Survey2Row AddSurvey2Row(string Naam, System.DateTime ExpirationDate, string Facility, string RTFFileName, string VerticalAdvertURL, string HorisontalAdvertURL, string EBookURL, int IssueId, string AccreditationNumber, string CMEPublication, string CMEIssue, string URL) {
                 Survey2Row rowSurvey2Row = ((Survey2Row)(this.NewRow()));
                 object[] columnValuesArray = new object[] {
                         null,
                         Naam,
                         ExpirationDate,
                         Facility,
-                        XMLFileName,
+                        RTFFileName,
                         VerticalAdvertURL,
                         HorisontalAdvertURL,
                         EBookURL,
@@ -1401,7 +1401,7 @@ namespace CPD.Data {
                 this.columnNaam = base.Columns["Naam"];
                 this.columnExpirationDate = base.Columns["ExpirationDate"];
                 this.columnFacility = base.Columns["Facility"];
-                this.columnXMLFileName = base.Columns["XMLFileName"];
+                this.columnRTFFileName = base.Columns["RTFFileName"];
                 this.columnVerticalAdvertURL = base.Columns["VerticalAdvertURL"];
                 this.columnHorisontalAdvertURL = base.Columns["HorisontalAdvertURL"];
                 this.columnEBookURL = base.Columns["EBookURL"];
@@ -1423,8 +1423,8 @@ namespace CPD.Data {
                 base.Columns.Add(this.columnExpirationDate);
                 this.columnFacility = new global::System.Data.DataColumn("Facility", typeof(string), null, global::System.Data.MappingType.Element);
                 base.Columns.Add(this.columnFacility);
-                this.columnXMLFileName = new global::System.Data.DataColumn("XMLFileName", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.columnXMLFileName);
+                this.columnRTFFileName = new global::System.Data.DataColumn("RTFFileName", typeof(string), null, global::System.Data.MappingType.Element);
+                base.Columns.Add(this.columnRTFFileName);
                 this.columnVerticalAdvertURL = new global::System.Data.DataColumn("VerticalAdvertURL", typeof(string), null, global::System.Data.MappingType.Element);
                 base.Columns.Add(this.columnVerticalAdvertURL);
                 this.columnHorisontalAdvertURL = new global::System.Data.DataColumn("HorisontalAdvertURL", typeof(string), null, global::System.Data.MappingType.Element);
@@ -1452,9 +1452,9 @@ namespace CPD.Data {
                 this.columnNaam.MaxLength = 80;
                 this.columnExpirationDate.AllowDBNull = false;
                 this.columnExpirationDate.DefaultValue = ((System.DateTime)(Survey2DataTable.columnExpirationDate_defaultValue));
-                this.columnXMLFileName.AllowDBNull = false;
-                this.columnXMLFileName.DefaultValue = ((string)("x"));
-                this.columnXMLFileName.MaxLength = 50;
+                this.columnRTFFileName.AllowDBNull = false;
+                this.columnRTFFileName.DefaultValue = ((string)("x"));
+                this.columnRTFFileName.MaxLength = 50;
                 this.columnVerticalAdvertURL.MaxLength = 50;
                 this.columnHorisontalAdvertURL.MaxLength = 50;
                 this.columnEBookURL.MaxLength = 50;
@@ -3233,12 +3233,12 @@ namespace CPD.Data {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
-            public string XMLFileName {
+            public string RTFFileName {
                 get {
-                    return ((string)(this[this.tableSurvey2.XMLFileNameColumn]));
+                    return ((string)(this[this.tableSurvey2.RTFFileNameColumn]));
                 }
                 set {
-                    this[this.tableSurvey2.XMLFileNameColumn] = value;
+                    this[this.tableSurvey2.RTFFileNameColumn] = value;
                 }
             }
             
@@ -4961,7 +4961,7 @@ SELECT QuestionId, Question, ArticleId, NumberWithinArticle, CorrectAnswer FROM 
             tableMapping.ColumnMappings.Add("SurveyId", "SurveyId");
             tableMapping.ColumnMappings.Add("Naam", "Naam");
             tableMapping.ColumnMappings.Add("ExpirationDate", "ExpirationDate");
-            tableMapping.ColumnMappings.Add("XMLFileName", "XMLFileName");
+            tableMapping.ColumnMappings.Add("XMLFileName", "RTFFileName");
             tableMapping.ColumnMappings.Add("VerticalAdvertURL", "VerticalAdvertURL");
             tableMapping.ColumnMappings.Add("HorisontalAdvertURL", "HorisontalAdvertURL");
             tableMapping.ColumnMappings.Add("EBookURL", "EBookURL");
@@ -4971,10 +4971,11 @@ SELECT QuestionId, Question, ArticleId, NumberWithinArticle, CorrectAnswer FROM 
             tableMapping.ColumnMappings.Add("CMEIssue", "CMEIssue");
             tableMapping.ColumnMappings.Add("URL", "URL");
             tableMapping.ColumnMappings.Add("Facility", "Facility");
+            tableMapping.ColumnMappings.Add("RTFFileName", "RTFFileName");
             this._adapter.TableMappings.Add(tableMapping);
             this._adapter.DeleteCommand = new global::System.Data.SqlClient.SqlCommand();
             this._adapter.DeleteCommand.Connection = this.Connection;
-            this._adapter.DeleteCommand.CommandText = @"DELETE FROM [dbo].[Survey2] WHERE (([SurveyId] = @Original_SurveyId) AND ((@IsNull_Naam = 1 AND [Naam] IS NULL) OR ([Naam] = @Original_Naam)) AND ([ExpirationDate] = @Original_ExpirationDate) AND ((@IsNull_Facility = 1 AND [Facility] IS NULL) OR ([Facility] = @Original_Facility)) AND ([XMLFileName] = @Original_XMLFileName) AND ((@IsNull_VerticalAdvertURL = 1 AND [VerticalAdvertURL] IS NULL) OR ([VerticalAdvertURL] = @Original_VerticalAdvertURL)) AND ((@IsNull_HorisontalAdvertURL = 1 AND [HorisontalAdvertURL] IS NULL) OR ([HorisontalAdvertURL] = @Original_HorisontalAdvertURL)) AND ((@IsNull_EBookURL = 1 AND [EBookURL] IS NULL) OR ([EBookURL] = @Original_EBookURL)) AND ([IssueId] = @Original_IssueId) AND ((@IsNull_AccreditationNumber = 1 AND [AccreditationNumber] IS NULL) OR ([AccreditationNumber] = @Original_AccreditationNumber)) AND ((@IsNull_CMEPublication = 1 AND [CMEPublication] IS NULL) OR ([CMEPublication] = @Original_CMEPublication)) AND ((@IsNull_CMEIssue = 1 AND [CMEIssue] IS NULL) OR ([CMEIssue] = @Original_CMEIssue)) AND ((@IsNull_URL = 1 AND [URL] IS NULL) OR ([URL] = @Original_URL)))";
+            this._adapter.DeleteCommand.CommandText = @"DELETE FROM [dbo].[Survey2] WHERE (([SurveyId] = @Original_SurveyId) AND ((@IsNull_Naam = 1 AND [Naam] IS NULL) OR ([Naam] = @Original_Naam)) AND ([ExpirationDate] = @Original_ExpirationDate) AND ((@IsNull_Facility = 1 AND [Facility] IS NULL) OR ([Facility] = @Original_Facility)) AND ([RTFFileName] = @Original_RTFFileName) AND ((@IsNull_VerticalAdvertURL = 1 AND [VerticalAdvertURL] IS NULL) OR ([VerticalAdvertURL] = @Original_VerticalAdvertURL)) AND ((@IsNull_HorisontalAdvertURL = 1 AND [HorisontalAdvertURL] IS NULL) OR ([HorisontalAdvertURL] = @Original_HorisontalAdvertURL)) AND ((@IsNull_EBookURL = 1 AND [EBookURL] IS NULL) OR ([EBookURL] = @Original_EBookURL)) AND ([IssueId] = @Original_IssueId) AND ((@IsNull_AccreditationNumber = 1 AND [AccreditationNumber] IS NULL) OR ([AccreditationNumber] = @Original_AccreditationNumber)) AND ((@IsNull_CMEPublication = 1 AND [CMEPublication] IS NULL) OR ([CMEPublication] = @Original_CMEPublication)) AND ((@IsNull_CMEIssue = 1 AND [CMEIssue] IS NULL) OR ([CMEIssue] = @Original_CMEIssue)) AND ((@IsNull_URL = 1 AND [URL] IS NULL) OR ([URL] = @Original_URL)))";
             this._adapter.DeleteCommand.CommandType = global::System.Data.CommandType.Text;
             this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@Original_SurveyId", global::System.Data.SqlDbType.Int, 0, global::System.Data.ParameterDirection.Input, 0, 0, "SurveyId", global::System.Data.DataRowVersion.Original, false, null, "", "", ""));
             this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@IsNull_Naam", global::System.Data.SqlDbType.Int, 0, global::System.Data.ParameterDirection.Input, 0, 0, "Naam", global::System.Data.DataRowVersion.Original, true, null, "", "", ""));
@@ -4982,7 +4983,7 @@ SELECT QuestionId, Question, ArticleId, NumberWithinArticle, CorrectAnswer FROM 
             this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@Original_ExpirationDate", global::System.Data.SqlDbType.Date, 0, global::System.Data.ParameterDirection.Input, 0, 0, "ExpirationDate", global::System.Data.DataRowVersion.Original, false, null, "", "", ""));
             this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@IsNull_Facility", global::System.Data.SqlDbType.Int, 0, global::System.Data.ParameterDirection.Input, 0, 0, "Facility", global::System.Data.DataRowVersion.Original, true, null, "", "", ""));
             this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@Original_Facility", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "Facility", global::System.Data.DataRowVersion.Original, false, null, "", "", ""));
-            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@Original_XMLFileName", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "XMLFileName", global::System.Data.DataRowVersion.Original, false, null, "", "", ""));
+            this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@Original_RTFFileName", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "RTFFileName", global::System.Data.DataRowVersion.Original, false, null, "", "", ""));
             this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@IsNull_VerticalAdvertURL", global::System.Data.SqlDbType.Int, 0, global::System.Data.ParameterDirection.Input, 0, 0, "VerticalAdvertURL", global::System.Data.DataRowVersion.Original, true, null, "", "", ""));
             this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@Original_VerticalAdvertURL", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "VerticalAdvertURL", global::System.Data.DataRowVersion.Original, false, null, "", "", ""));
             this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@IsNull_HorisontalAdvertURL", global::System.Data.SqlDbType.Int, 0, global::System.Data.ParameterDirection.Input, 0, 0, "HorisontalAdvertURL", global::System.Data.DataRowVersion.Original, true, null, "", "", ""));
@@ -5000,13 +5001,13 @@ SELECT QuestionId, Question, ArticleId, NumberWithinArticle, CorrectAnswer FROM 
             this._adapter.DeleteCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@Original_URL", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "URL", global::System.Data.DataRowVersion.Original, false, null, "", "", ""));
             this._adapter.InsertCommand = new global::System.Data.SqlClient.SqlCommand();
             this._adapter.InsertCommand.Connection = this.Connection;
-            this._adapter.InsertCommand.CommandText = @"INSERT INTO [dbo].[Survey2] ([Naam], [ExpirationDate], [Facility], [XMLFileName], [VerticalAdvertURL], [HorisontalAdvertURL], [EBookURL], [IssueId], [AccreditationNumber], [CMEPublication], [CMEIssue], [URL]) VALUES (@Naam, @ExpirationDate, @Facility, @XMLFileName, @VerticalAdvertURL, @HorisontalAdvertURL, @EBookURL, @IssueId, @AccreditationNumber, @CMEPublication, @CMEIssue, @URL);
-SELECT SurveyId, Naam, ExpirationDate, Facility, XMLFileName, VerticalAdvertURL, HorisontalAdvertURL, EBookURL, IssueId, AccreditationNumber, CMEPublication, CMEIssue, URL FROM Survey2 WHERE (SurveyId = SCOPE_IDENTITY())";
+            this._adapter.InsertCommand.CommandText = @"INSERT INTO [dbo].[Survey2] ([Naam], [ExpirationDate], [Facility], [RTFFileName], [VerticalAdvertURL], [HorisontalAdvertURL], [EBookURL], [IssueId], [AccreditationNumber], [CMEPublication], [CMEIssue], [URL]) VALUES (@Naam, @ExpirationDate, @Facility, @RTFFileName, @VerticalAdvertURL, @HorisontalAdvertURL, @EBookURL, @IssueId, @AccreditationNumber, @CMEPublication, @CMEIssue, @URL);
+SELECT SurveyId, Naam, ExpirationDate, Facility, RTFFileName, VerticalAdvertURL, HorisontalAdvertURL, EBookURL, IssueId, AccreditationNumber, CMEPublication, CMEIssue, URL FROM Survey2 WHERE (SurveyId = SCOPE_IDENTITY())";
             this._adapter.InsertCommand.CommandType = global::System.Data.CommandType.Text;
             this._adapter.InsertCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@Naam", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "Naam", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
             this._adapter.InsertCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@ExpirationDate", global::System.Data.SqlDbType.Date, 0, global::System.Data.ParameterDirection.Input, 0, 0, "ExpirationDate", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
             this._adapter.InsertCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@Facility", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "Facility", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
-            this._adapter.InsertCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@XMLFileName", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "XMLFileName", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
+            this._adapter.InsertCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@RTFFileName", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "RTFFileName", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
             this._adapter.InsertCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@VerticalAdvertURL", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "VerticalAdvertURL", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
             this._adapter.InsertCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@HorisontalAdvertURL", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "HorisontalAdvertURL", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
             this._adapter.InsertCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@EBookURL", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "EBookURL", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
@@ -5018,14 +5019,14 @@ SELECT SurveyId, Naam, ExpirationDate, Facility, XMLFileName, VerticalAdvertURL,
             this._adapter.UpdateCommand = new global::System.Data.SqlClient.SqlCommand();
             this._adapter.UpdateCommand.Connection = this.Connection;
             this._adapter.UpdateCommand.CommandText = "UPDATE [dbo].[Survey2] SET [Naam] = @Naam, [ExpirationDate] = @ExpirationDate, [F" +
-                "acility] = @Facility, [XMLFileName] = @XMLFileName, [VerticalAdvertURL] = @Verti" +
+                "acility] = @Facility, [RTFFileName] = @RTFFileName, [VerticalAdvertURL] = @Verti" +
                 "calAdvertURL, [HorisontalAdvertURL] = @HorisontalAdvertURL, [EBookURL] = @EBookU" +
                 "RL, [IssueId] = @IssueId, [AccreditationNumber] = @AccreditationNumber, [CMEPubl" +
                 "ication] = @CMEPublication, [CMEIssue] = @CMEIssue, [URL] = @URL WHERE (([Survey" +
                 "Id] = @Original_SurveyId) AND ((@IsNull_Naam = 1 AND [Naam] IS NULL) OR ([Naam] " +
                 "= @Original_Naam)) AND ([ExpirationDate] = @Original_ExpirationDate) AND ((@IsNu" +
                 "ll_Facility = 1 AND [Facility] IS NULL) OR ([Facility] = @Original_Facility)) AN" +
-                "D ([XMLFileName] = @Original_XMLFileName) AND ((@IsNull_VerticalAdvertURL = 1 AN" +
+                "D ([RTFFileName] = @Original_RTFFileName) AND ((@IsNull_VerticalAdvertURL = 1 AN" +
                 "D [VerticalAdvertURL] IS NULL) OR ([VerticalAdvertURL] = @Original_VerticalAdver" +
                 "tURL)) AND ((@IsNull_HorisontalAdvertURL = 1 AND [HorisontalAdvertURL] IS NULL) " +
                 "OR ([HorisontalAdvertURL] = @Original_HorisontalAdvertURL)) AND ((@IsNull_EBookU" +
@@ -5036,14 +5037,14 @@ SELECT SurveyId, Naam, ExpirationDate, Facility, XMLFileName, VerticalAdvertURL,
                 "] = @Original_CMEPublication)) AND ((@IsNull_CMEIssue = 1 AND [CMEIssue] IS NULL" +
                 ") OR ([CMEIssue] = @Original_CMEIssue)) AND ((@IsNull_URL = 1 AND [URL] IS NULL)" +
                 " OR ([URL] = @Original_URL)));\r\nSELECT SurveyId, Naam, ExpirationDate, Facility," +
-                " XMLFileName, VerticalAdvertURL, HorisontalAdvertURL, EBookURL, IssueId, Accredi" +
+                " RTFFileName, VerticalAdvertURL, HorisontalAdvertURL, EBookURL, IssueId, Accredi" +
                 "tationNumber, CMEPublication, CMEIssue, URL FROM Survey2 WHERE (SurveyId = @Surv" +
                 "eyId)";
             this._adapter.UpdateCommand.CommandType = global::System.Data.CommandType.Text;
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@Naam", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "Naam", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@ExpirationDate", global::System.Data.SqlDbType.Date, 0, global::System.Data.ParameterDirection.Input, 0, 0, "ExpirationDate", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@Facility", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "Facility", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@XMLFileName", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "XMLFileName", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
+            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@RTFFileName", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "RTFFileName", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@VerticalAdvertURL", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "VerticalAdvertURL", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@HorisontalAdvertURL", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "HorisontalAdvertURL", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@EBookURL", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "EBookURL", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
@@ -5058,7 +5059,7 @@ SELECT SurveyId, Naam, ExpirationDate, Facility, XMLFileName, VerticalAdvertURL,
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@Original_ExpirationDate", global::System.Data.SqlDbType.Date, 0, global::System.Data.ParameterDirection.Input, 0, 0, "ExpirationDate", global::System.Data.DataRowVersion.Original, false, null, "", "", ""));
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@IsNull_Facility", global::System.Data.SqlDbType.Int, 0, global::System.Data.ParameterDirection.Input, 0, 0, "Facility", global::System.Data.DataRowVersion.Original, true, null, "", "", ""));
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@Original_Facility", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "Facility", global::System.Data.DataRowVersion.Original, false, null, "", "", ""));
-            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@Original_XMLFileName", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "XMLFileName", global::System.Data.DataRowVersion.Original, false, null, "", "", ""));
+            this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@Original_RTFFileName", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "RTFFileName", global::System.Data.DataRowVersion.Original, false, null, "", "", ""));
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@IsNull_VerticalAdvertURL", global::System.Data.SqlDbType.Int, 0, global::System.Data.ParameterDirection.Input, 0, 0, "VerticalAdvertURL", global::System.Data.DataRowVersion.Original, true, null, "", "", ""));
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@Original_VerticalAdvertURL", global::System.Data.SqlDbType.NVarChar, 0, global::System.Data.ParameterDirection.Input, 0, 0, "VerticalAdvertURL", global::System.Data.DataRowVersion.Original, false, null, "", "", ""));
             this._adapter.UpdateCommand.Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@IsNull_HorisontalAdvertURL", global::System.Data.SqlDbType.Int, 0, global::System.Data.ParameterDirection.Input, 0, 0, "HorisontalAdvertURL", global::System.Data.DataRowVersion.Original, true, null, "", "", ""));
@@ -5090,9 +5091,9 @@ SELECT SurveyId, Naam, ExpirationDate, Facility, XMLFileName, VerticalAdvertURL,
             this._commandCollection = new global::System.Data.SqlClient.SqlCommand[2];
             this._commandCollection[0] = new global::System.Data.SqlClient.SqlCommand();
             this._commandCollection[0].Connection = this.Connection;
-            this._commandCollection[0].CommandText = "SELECT SurveyId, Naam, ExpirationDate, Facility, XMLFileName, VerticalAdvertURL, " +
-                "HorisontalAdvertURL, EBookURL, IssueId, AccreditationNumber, CMEPublication, CME" +
-                "Issue, URL FROM dbo.Survey2";
+            this._commandCollection[0].CommandText = "SELECT SurveyId, Naam, ExpirationDate, Facility,RTFFileName, VerticalAdvertURL, H" +
+                "orisontalAdvertURL, EBookURL, IssueId, AccreditationNumber, CMEPublication, CMEI" +
+                "ssue, URL FROM dbo.Survey2";
             this._commandCollection[0].CommandType = global::System.Data.CommandType.Text;
             this._commandCollection[1] = new global::System.Data.SqlClient.SqlCommand();
             this._commandCollection[1].Connection = this.Connection;

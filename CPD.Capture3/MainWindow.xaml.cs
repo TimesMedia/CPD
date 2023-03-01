@@ -222,13 +222,13 @@ namespace CPD.Capture3
                 TextRange lTextRange;
                 System.IO.FileStream lFileStream;
 
-                if (!System.IO.File.Exists(lRow.XMLFileName))
+                if (!System.IO.File.Exists(lRow.RTFFileName))
                 {
                     return;
                 }
 
                 lTextRange = new TextRange(gRichTextBox.Document.ContentStart, gRichTextBox.Document.ContentEnd);
-                using (lFileStream = new System.IO.FileStream(lRow.XMLFileName, System.IO.FileMode.OpenOrCreate))
+                using (lFileStream = new System.IO.FileStream(lRow.RTFFileName, System.IO.FileMode.OpenOrCreate))
                 {
                     lTextRange.Load(lFileStream, System.Windows.DataFormats.Rtf);
                 }

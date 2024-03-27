@@ -11,13 +11,22 @@ namespace CPD.Web
 {
     public partial class Login2 : System.Web.UI.Page
     {
-       
+
         protected void Page_Load(object sender, EventArgs e)
         {
             // Cleanup previous responses. 
-            LabelResponse.Text = "";
+            
+            if (Session["CustomerId"]  != null)
+            {
+                LabelResponse.Text = "";
 
-            LabelVersion.Text = "";
+                LabelVersion.Text = "";
+            }
+            else
+            {
+                LabelResponse.Text = "";
+            }
+
         }
 
         protected void ButtonLogin_Click(object sender, EventArgs e)
@@ -57,17 +66,19 @@ namespace CPD.Web
                     return;
                 }
 
-                if (lCustomerInfo.EmailAddress.ToLower() != this.TextEMail.Text.ToLower())
+                if (lCustomerInfo.Password1 != this.TextPassword.Text.ToString())
                 {
-                    ExceptionData.WriteException(5, "There is no Email Address that corresponds to your entry", this.ToString(), "ButtonLogin_Click", this.TextEMail.Text);
-                    LabelResponse.Text = "Sorry, MIMS has a different EmailAddress for you. Please contact MIMS at 011 280 5856";
+                    ExceptionData.WriteException(5, "There is no Password Address that corresponds to your entry", this.ToString(), "ButtonLogin_Click", this.TextPassword.Text);
+                    LabelResponse.Text = "Sorry, MIMS has a different Password for you. Please contact MIMS at 011 280 5856";
                     return;
                 }
+                
+
 
 
                 if (lCustomerInfo.CouncilNumber == "Missing")
                 {
-                    ExceptionData.WriteException(5, "There is no CouncilNumber to put on your certificate.", this.ToString(), "ButtonLogin_Click", this.TextEMail.Text);
+                    ExceptionData.WriteException(5, "There is no CouncilNumber to put on your certificate.", this.ToString(), "ButtonLogin_Click", this.TextPassword.Text);
                     LabelResponse.Text = "We do not have your HPCSA number, please contact Riëtte van der Merwe at 011 280 5856 or vandermerwer@mims.co.za with your number to grant you access.";
                     return;
                 }
@@ -75,9 +86,10 @@ namespace CPD.Web
                 //  If OK, save the CustomerId in a Session variable
 
                 Session.Add("CustomerId", TextCustomerId.Text.ToString());
+                
                 Session.Add("Customer", lCustomerInfo.FullName);
 
-
+                Session["CustomerId"] = TextCustomerId.Text;
                 Response.Redirect("~/Default.aspx", false);
 
 
@@ -104,5 +116,7 @@ namespace CPD.Web
         {
             Response.Redirect("~/Default.aspx");
         }
+
+       
     }
 }

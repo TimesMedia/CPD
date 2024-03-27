@@ -140,12 +140,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CPD.Data\CPD.Data.csproj">
-      <Project>{92079BD6-B324-4835-9E1E-BB71A64C1784}</Project>
-      <Name>CPD.Data</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <ItemGroup>
@@ -212,6 +206,12 @@
   <ItemGroup>
     <Content Include="Resources\Messages.de.txt" />
     <Content Include="Resources\Messages.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CPD.Data\CPD.Data.csproj">
+      <Project>{92079BD6-B324-4835-9E1E-BB71A64C1784}</Project>
+      <Name>CPD.Data</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

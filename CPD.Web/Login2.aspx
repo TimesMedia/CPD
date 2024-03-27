@@ -12,13 +12,12 @@
         <asp:Label ID="Label2" runat="server" Text="MIMS Customer Id"></asp:Label>
         <asp:TextBox ID="TextCustomerId" CssClass="input-generic" runat="server"  TextMode="SingleLine"  
             Width="107px" ></asp:TextBox>
-        <asp:Label ID="Label1" runat="server" Text="  Email address"></asp:Label>
-        <asp:TextBox ID="TextEMail" CssClass="input-generic" runat="server" Width="267px"></asp:TextBox>
-        <br />
-        <br />
+        <asp:Label ID="Label1" runat="server" Text="  Password"></asp:Label>
+        <asp:TextBox ID="TextPassword" CssClass="input-generic" runat="server" Width="267px" OnTextChanged="TextPassword_TextChanged"></asp:TextBox>
+
         <asp:Button ID="ButtonLogin" CssClass="button-generic" runat="server" onclick="ButtonLogin_Click" 
             Text="Login" />
-        &nbsp;&nbsp;
+        &nbsp;&nbsp
         <asp:Button ID="ButtonHome" CssClass="button-generic" runat="server" onclick="ButtonHome_Click" 
             Text="Home" />
     </div>

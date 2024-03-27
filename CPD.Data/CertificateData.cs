@@ -121,7 +121,7 @@ namespace CPD.Data
            
             try
             {
-                var lContext = new CPDDataContext(Settings.CPDConnectionString);  // This is the live MIMS database.
+                var lContext = new CPDDataContext(Settings.CPDConnectionString);  // This is the live CPD database.
 
                 lContext.ResultDoc_Result_IssueCertificate(pResultId, DateTime.Now);
 

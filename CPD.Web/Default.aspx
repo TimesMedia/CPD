@@ -13,12 +13,12 @@
                 </asp:Table>
   
                 <asp:Table runat="server" >
-                       <asp:TableRow>
+                       <asp:TableRow >
                             <asp:TableCell><br /><asp:Button ID="ButtonLogin" CssClass="button-generic" runat="server" Text="Login" onclick="ButtonLogin_Click" />
                             </asp:TableCell>
                             <asp:TableCell><br /><asp:Button ID="ButtonHistory" CssClass="button-generic" runat="server" Text="View History" onclick="ButtonHistory_Click" Visible="False" />
                             </asp:TableCell>
-                            <%--<asp:TableCell><br /><asp:Button ID="ButtonMIMS" CssClass="button-generic" runat="server" Text="View MIMS online" onclick="ButtonMimsOnline_Click" Visible="False" />
+                           <%-- <asp:TableCell><br /><asp:Button ID="ButtonMIMS" CssClass="button-generic" runat="server" Text="View MIMS online" onclick="ButtonMimsOnline_Click" Visible="False" />
                             </asp:TableCell>--%>
                             <asp:TableCell><br /><asp:Button ID="ButtonHome" CssClass="button-generic" runat="server" Text="Return to MIMS portal" onclick="ButtonMimsPortal_Click" Visible="True" />
                             </asp:TableCell>
@@ -29,7 +29,7 @@
         </asp:TableRow>
 
          <asp:TableRow>
-            <asp:TableCell><br /><br /><asp:Label ID="LabelCurrent" CssClass="subheading" visible="false" runat="server" Text="You are currently busy with the following test"></asp:Label>
+            <asp:TableCell><br /><br /><asp:Label ID="LabelCurrent" CssClass="subheading" visible="false"  runat="server" Text="You are currently busy with the following test"></asp:Label>
             </asp:TableCell>
         </asp:TableRow>
 
@@ -66,14 +66,14 @@
             </asp:TableCell>
         </asp:TableRow>
 
-        <asp:TableRow>
-            <asp:TableCell>
+        <asp:TableRow visible="true">
+            <asp:TableCell >
                 <asp:GridView ID="GridViewCatalogue" CssClass="publication-table" runat="server" AutoGenerateColumns="False" 
                     DataKeyNames="SurveyId,IssueId, Facility, EBookURL"
                     AllowSorting="True" AutoGenerateSelectButton="True" 
                     SelectedRowStyle-BackColor="Red" 
                     onselectedindexchanged="GridViewCatalogue_SelectedIndexChanged" >
-                    <Columns>
+                    <Columns >
                         <asp:BoundField DataField="SurveyId" visible="false"/>
                         <asp:BoundField DataField="Publication" HeaderText="Publication" 
                             SortExpression="Publication" HeaderStyle-ForeColor="#3399FF" />
@@ -85,16 +85,24 @@
                 </asp:GridView>
                 </asp:TableCell>
        </asp:TableRow>
+        
     </asp:Table>
-       
+ 
 
     <asp:Label ID="LabelResponse" runat="server" Text="" ForeColor="Red"></asp:Label>
-    <br />
-    <br />
-           
    
-  
-          <%--  <asp:Image ImageUrl="~/images/Ascendis.jpg" runat  ="server" height="200px" width="979px" ImageAlign="Left"/>--%>
-       
+<!--Start of Tawk.to Script-->
+      <script type="text/javascript">
+          var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
+          (function () {
+              var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+              s1.async = true;
+              s1.src = 'https://embed.tawk.to/6603fe591ec1082f04dbe36e/1hpvpj3o4';
+              s1.charset = 'UTF-8';
+              s1.setAttribute('crossorigin', '*');
+              s0.parentNode.insertBefore(s1, s0);
+          })();
+      </script>
+<!--End of Tawk.to Script-->
    
     </asp:Content>

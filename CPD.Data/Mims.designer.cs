@@ -111,6 +111,8 @@ namespace CPD.Data
 		private string _EmailAddress;
 		
 		private string _CouncilNumber;
+
+		private string _Password1;
 		
 		public MIMS_DataContext_CustomerInfoResult()
 		{
@@ -147,8 +149,24 @@ namespace CPD.Data
 				}
 			}
 		}
-		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_CouncilNumber", DbType="NVarChar(13) NOT NULL", CanBeNull=false)]
+
+        [global::System.Data.Linq.Mapping.ColumnAttribute(Storage = "_Password", DbType = "int(80) NOT NULL", CanBeNull = false)]
+        public string Password1
+        {
+            get
+            {
+                return this._Password1;
+            }
+            set
+            {
+                if ((this._Password1 != value))
+                {
+                    this._Password1 = value;
+                }
+            }
+        }
+
+        [global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_CouncilNumber", DbType="NVarChar(13) NOT NULL", CanBeNull=false)]
 		public string CouncilNumber
 		{
 			get

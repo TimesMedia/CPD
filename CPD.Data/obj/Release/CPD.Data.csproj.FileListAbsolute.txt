@@ -48,3 +48,4 @@ C:\Users\nhlapot\Documents\GitHub\CPD\CPD.Data\obj\Release\CPD.Data.csproj.CoreC
 C:\Users\nhlapot\Documents\GitHub\CPD\CPD.Data\obj\Release\CPD.Data.csproj.CopyComplete
 C:\Users\nhlapot\Documents\GitHub\CPD\CPD.Data\obj\Release\CPD.Data.dll
 C:\Users\nhlapot\Documents\GitHub\CPD\CPD.Data\obj\Release\CPD.Data.pdb
+C:\CSharp\MIMSCPD\CPD.Data\obj\Release\CPD.Data.csproj.AssemblyReference.cache

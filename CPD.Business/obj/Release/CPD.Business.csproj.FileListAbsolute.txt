@@ -119,3 +119,4 @@ C:\Users\nhlapot\Documents\GitHub\CPD\CPD.Business\obj\Release\CPD.Business.cspr
 C:\Users\nhlapot\Documents\GitHub\CPD\CPD.Business\obj\Release\CPD.Business.dll
 C:\Users\nhlapot\Documents\GitHub\CPD\CPD.Business\obj\Release\CPD.Business.pdb
 C:\Users\nhlapot\Documents\GitHub\CPD\CPD.Business\bin\Release\System.ValueTuple.dll
+C:\CSharp\MIMSCPD\CPD.Business\bin\Release\System.ValueTuple.dll

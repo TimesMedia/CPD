@@ -83,3 +83,4 @@ C:\Users\nhlapot\Documents\GitHub\CPD\CPD.Business\obj\Debug\CPD.Business.dll
 C:\Users\nhlapot\Documents\GitHub\CPD\CPD.Business\obj\Debug\CPD.Business.pdb
 C:\Users\nhlapot\Documents\GitHub\CPD\CPD.Business\bin\Debug\System.ValueTuple.dll
 C:\Users\nhlapot\Documents\GitHub\CPD\CPD.Business\bin\Debug\System.Memory.dll
+C:\CSharp\MIMSCPD\CPD.Business\bin\Debug\System.ValueTuple.dll

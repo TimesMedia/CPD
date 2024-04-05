@@ -6,20 +6,7 @@ C:\CSharp\MimsCPD\CPD.Web\bin\CPD.Web.dll
 C:\CSharp\MimsCPD\CPD.Web\bin\CPD.Web.pdb
 C:\CSharp\MimsCPD\CPD.Web\bin\CPD.Business.dll
 C:\CSharp\MimsCPD\CPD.Web\bin\CPD.Data.dll
-C:\CSharp\MimsCPD\CPD.Web\bin\Microsoft.CSharp.dll
-C:\CSharp\MimsCPD\CPD.Web\bin\System.Configuration.dll
-C:\CSharp\MimsCPD\CPD.Web\bin\System.Data.dll
-C:\CSharp\MimsCPD\CPD.Web\bin\System.dll
-C:\CSharp\MimsCPD\CPD.Web\bin\System.Drawing.dll
 C:\CSharp\MimsCPD\CPD.Web\bin\System.EnterpriseServices.dll
-C:\CSharp\MimsCPD\CPD.Web\bin\System.Runtime.Serialization.dll
-C:\CSharp\MimsCPD\CPD.Web\bin\System.ServiceModel.dll
-C:\CSharp\MimsCPD\CPD.Web\bin\System.Web.ApplicationServices.dll
-C:\CSharp\MimsCPD\CPD.Web\bin\System.Web.dll
-C:\CSharp\MimsCPD\CPD.Web\bin\System.Web.DynamicData.dll
-C:\CSharp\MimsCPD\CPD.Web\bin\System.Web.Entity.dll
-C:\CSharp\MimsCPD\CPD.Web\bin\System.Web.Services.dll
-C:\CSharp\MimsCPD\CPD.Web\bin\System.Xml.dll
 C:\CSharp\MimsCPD\CPD.Web\bin\FlowDocumentConverter.dll
 C:\CSharp\MimsCPD\CPD.Web\bin\PdfSharp.Xps.dll
 C:\CSharp\MimsCPD\CPD.Web\bin\Spire.Pdf.dll
@@ -82,3 +69,4 @@ C:\Users\nhlapot\Documents\GitHub\CPD\CPD.Web\obj\Debug\CPD.Web.pdb
 C:\Users\nhlapot\Documents\GitHub\CPD\CPD.Web\bin\System.EnterpriseServices.dll
 C:\Users\nhlapot\Documents\GitHub\CPD\CPD.Web\bin\System.ValueTuple.dll
 C:\Users\nhlapot\Documents\GitHub\CPD\CPD.Web\bin\System.Memory.dll
+C:\CSharp\MIMSCPD\CPD.Web\bin\System.ValueTuple.dll
